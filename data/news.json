@@ -216,24 +216,6 @@
     "description": "Zero-dependency asyncio client for the Sonic search backend, with pooling and pipelining"
    },
    {
-    "name": "python-object-watchdog",
-    "repo": "cr0hn/python-object-watchdog",
-    "url": "https://github.com/cr0hn/python-object-watchdog",
-    "description": "Watch runtime changes in Python objects and run sync or async callbacks"
-   },
-   {
-    "name": "python-database-watcher",
-    "repo": "cr0hn/python-database-watcher",
-    "url": "https://github.com/cr0hn/python-database-watcher",
-    "description": "Watch several databases for changes, with a queue mode for asyncio"
-   },
-   {
-    "name": "ktcal2",
-    "repo": "cr0hn/ktcal2",
-    "url": "https://github.com/cr0hn/ktcal2",
-    "description": "SSH brute forcer tool and library built on AsyncSSH"
-   },
-   {
     "name": "FestIn",
     "repo": "cr0hn/festin",
     "url": "https://github.com/cr0hn/festin",

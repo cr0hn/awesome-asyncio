@@ -2516,19 +2516,16 @@ libraries:
   pypi: object-watchdog
   category: events-workflows
   description: Watch runtime changes in Python objects and run sync or async callbacks
-  added: 2026-10-05
 - name: python-database-watcher
   repo: cr0hn/python-database-watcher
   pypi: databases-watcher
   category: events-workflows
   description: Watch several databases for changes, with a queue mode for asyncio
-  added: 2026-10-05
 - name: ktcal2
   repo: cr0hn/ktcal2
   pypi: ktcal2
   category: auth-security
   description: SSH brute forcer tool and library built on AsyncSSH
-  added: 2026-10-05
 - name: FestIn
   repo: cr0hn/festin
   pypi: festin
