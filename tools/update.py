@@ -186,9 +186,9 @@ def render_news(news: dict, wid: str) -> str:
         lines += [f"- [{a['name']}]({a['url']}): {a['description']}" for a in news["added"]]
         lines.append("")
     if news["releases"]:
-        lines += ["**New releases**", "", "| Library | Version | Date |", "|---|---|---|"]
+        lines += ["**New releases**", "", "| Library | Description | Version | Date |", "|---|---|---|---|"]
         shown = news["releases"][:NEWS_CAP]
-        lines += [f"| [{r['name']}]({r['url']}) | {r['version']} | {r['date']} |" for r in shown]
+        lines += [f"| [{r['name']}]({r['url']}) | {r.get('description', '')} | {r['version']} | {r['date']} |" for r in shown]
         extra = len(news["releases"]) - len(shown)
         if extra > 0:
             lines += ["", f"{extra} more in [news/{wid}.md](news/{wid}.md)."]
@@ -257,8 +257,8 @@ def render_week_file(entry: dict) -> str:
         lines.append("")
     lines += ["## New releases", ""]
     if entry["releases"]:
-        lines += ["| Library | Version | Date |", "|---|---|---|"]
-        lines += [f"| [{r['name']}]({r['url']}) | {r['version']} | {r['date']} |" for r in entry["releases"]]
+        lines += ["| Library | Description | Version | Date |", "|---|---|---|---|"]
+        lines += [f"| [{r['name']}]({r['url']}) | {r.get('description', '')} | {r['version']} | {r['date']} |" for r in entry["releases"]]
     else:
         lines.append("No new releases.")
     return "\n".join(lines) + "\n"

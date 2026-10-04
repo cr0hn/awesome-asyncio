@@ -47,31 +47,31 @@ Releases published and libraries added in the last 7 days. Older weeks are in [n
 
 **New releases**
 
-| Library | Version | Date |
-|---|---|---|
-| [AsyncSSH](https://github.com/ronf/asyncssh) | 2.24.1 | 2026-10-04 |
-| [Strawberry](https://github.com/strawberry-graphql/strawberry) | 0.330.3 | 2026-10-04 |
-| [async-firebase](https://github.com/healthjoy/async-firebase) | 6.3.0 | 2026-10-04 |
-| [websockets](https://github.com/python-websockets/websockets) | 17.2 | 2026-10-03 |
-| [aiohomematic](https://github.com/SukramJ/aiohomematic) | 2026.10.3 | 2026-10-03 |
-| [aiofranka](https://github.com/younghyopark/aiofranka) | 0.6.1 | 2026-10-03 |
-| [aiotieba](https://github.com/lumina37/aiotieba) | 4.8.0 | 2026-10-02 |
-| [asyncwhois](https://github.com/pogzyb/asyncwhois) | 1.1.15 | 2026-10-02 |
-| [uvloop](https://github.com/MagicStack/uvloop) | 0.23.0 | 2026-10-01 |
-| [aiobotocore](https://github.com/aio-libs/aiobotocore) | 3.9.2 | 2026-10-01 |
-| [aiofastnet](https://github.com/aio-libs/aiofastnet) | 1.2.0 | 2026-10-01 |
-| [FastAPI](https://github.com/fastapi/fastapi) | 0.142.2 | 2026-09-30 |
-| [granian](https://github.com/emmett-framework/granian) | 2.8.4 | 2026-09-30 |
-| [winloop](https://github.com/Vizonex/Winloop) | 0.7.0 | 2026-09-30 |
-| [aioshelly](https://github.com/home-assistant-libs/aioshelly) | 13.34.1 | 2026-09-30 |
-| [aioamazondevices](https://github.com/chemelli74/aioamazondevices) | 16.3.1 | 2026-09-30 |
-| [aiormq](https://github.com/mosquito/aiormq) | 7.2.1 | 2026-09-29 |
-| [Crawlee](https://github.com/apify/crawlee-python) | 1.10.3 | 2026-09-29 |
-| [aiograpi](https://github.com/subzeroid/aiograpi) | 2.0.15 | 2026-09-29 |
-| [aiounifi](https://github.com/Kane610/aiounifi) | 97 | 2026-09-29 |
-| [asynckivy](https://github.com/asyncgui/asynckivy) | 0.12.0 | 2026-09-29 |
-| [aio_energy_management](https://github.com/kotope/aio_energy_management) | 1.2.1 | 2026-09-29 |
-| [aiomisc](https://github.com/aiokitchen/aiomisc) | 18.0.33 | 2026-09-28 |
+| Library | Description | Version | Date |
+|---|---|---|---|
+| [AsyncSSH](https://github.com/ronf/asyncssh) | Provides an asynchronous client and server implementation of the SSHv2 protocol | 2.24.1 | 2026-10-04 |
+| [Strawberry](https://github.com/strawberry-graphql/strawberry) | Code-first Python 3 GraphQL server with Django, Flask and FastAPI/Starlette support | 0.330.3 | 2026-10-04 |
+| [async-firebase](https://github.com/healthjoy/async-firebase) | Lightweight async client for Firebase Cloud Messaging | 6.3.0 | 2026-10-04 |
+| [websockets](https://github.com/python-websockets/websockets) | A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity | 17.2 | 2026-10-03 |
+| [aiohomematic](https://github.com/SukramJ/aiohomematic) | Interface for asyncio interaction with HomeMatic devices | 2026.10.3 | 2026-10-03 |
+| [aiofranka](https://github.com/younghyopark/aiofranka) | Async library for controlling Franka robots | 0.6.1 | 2026-10-03 |
+| [aiotieba](https://github.com/lumina37/aiotieba) | Async client library for Baidu Tieba community platform | 4.8.0 | 2026-10-02 |
+| [asyncwhois](https://github.com/pogzyb/asyncwhois) | Async WHOIS and RDAP client for domain information | 1.1.15 | 2026-10-02 |
+| [uvloop](https://github.com/MagicStack/uvloop) | Drop-in replacement for the asyncio event loop, built on libuv | 0.23.0 | 2026-10-01 |
+| [aiobotocore](https://github.com/aio-libs/aiobotocore) | Asyncio support for botocore library using aiohttp for AWS API access | 3.9.2 | 2026-10-01 |
+| [aiofastnet](https://github.com/aio-libs/aiofastnet) | Ultra-fast TCP networking with kernel TLS for asyncio | 1.2.0 | 2026-10-01 |
+| [FastAPI](https://github.com/fastapi/fastapi) | API framework built on Starlette and Pydantic, driven by type hints | 0.142.2 | 2026-09-30 |
+| [granian](https://github.com/emmett-framework/granian) | HTTP server for Python with a Rust core, supporting ASGI, RSGI and WSGI | 2.8.4 | 2026-09-30 |
+| [winloop](https://github.com/Vizonex/Winloop) | Alternative library for uvloop compatibility with Windows | 0.7.0 | 2026-09-30 |
+| [aioshelly](https://github.com/home-assistant-libs/aioshelly) | Control Shelly smart home devices via asyncio | 13.34.1 | 2026-09-30 |
+| [aioamazondevices](https://github.com/chemelli74/aioamazondevices) | Async library for controlling Amazon smart home devices | 16.3.1 | 2026-09-30 |
+| [aiormq](https://github.com/mosquito/aiormq) | Pure python AMQP asynchronous client library for asyncio | 7.2.1 | 2026-09-29 |
+| [Crawlee](https://github.com/apify/crawlee-python) | Web scraping and automation library for crawlers, extracts data with proxy rotation | 1.10.3 | 2026-09-29 |
+| [aiograpi](https://github.com/subzeroid/aiograpi) | Asynchronous client library for Instagram Private API | 2.0.15 | 2026-09-29 |
+| [aiounifi](https://github.com/Kane610/aiounifi) | Library for communicating with Ubiquiti UniFi controllers | 97 | 2026-09-29 |
+| [asynckivy](https://github.com/asyncgui/asynckivy) | Async support library for Kivy framework | 0.12.0 | 2026-09-29 |
+| [aio_energy_management](https://github.com/kotope/aio_energy_management) | Home Assistant integration for energy management | 1.2.1 | 2026-09-29 |
+| [aiomisc](https://github.com/aiokitchen/aiomisc) | Miscellaneous utils for asyncio | 18.0.33 | 2026-09-28 |
 
 ## Libraries
 

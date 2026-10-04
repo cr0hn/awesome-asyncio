@@ -77,7 +77,7 @@ def test_pipeline_writes_readme_news_and_feed(tmp_path):
     news_pos, libs_pos = readme.index("## New this week"), readme.index("## Libraries")
     assert news_pos < libs_pos
     news_block = readme[news_pos:libs_pos]
-    assert "| [alpha](https://github.com/o/alpha) | 2.1.0 |" in news_block
+    assert "| [alpha](https://github.com/o/alpha) | Alpha does web | 2.1.0 |" in news_block
     assert "[beta](https://github.com/o/beta): Beta does files" in news_block
     # Table rows: active shows commit date and PyPI version, archived shows the marker
     assert "| [alpha](https://github.com/o/alpha) | Alpha does web | ✅ |" in readme
