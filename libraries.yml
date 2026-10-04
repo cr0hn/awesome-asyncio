@@ -68,6 +68,24 @@ categories:
 - id: alternatives
   title: Alternatives to asyncio
   blurb: Other async runtimes and compatibility layers.
+- id: caching
+  title: Caching
+  blurb: Cache managers and memoization for async code.
+- id: email
+  title: Email
+  blurb: Send and receive email without blocking.
+- id: dev-tools
+  title: Development tools
+  blurb: Reloaders, file watchers and notebook helpers.
+- id: helpers
+  title: Async helpers
+  blurb: Small building blocks for everyday async code.
+- id: events-workflows
+  title: Events and workflows
+  blurb: Signals, dataflow graphs and pipelines.
+- id: ai
+  title: AI and LLM
+  blurb: Async clients and tooling for AI workloads.
 - id: misc
   title: Misc
   blurb: Everything else.
@@ -310,7 +328,7 @@ libraries:
 - name: aiocache
   repo: aio-libs/aiocache
   pypi: aiocache
-  category: misc
+  category: caching
   description: Cache manager for different backends
 - name: aiofiles
   repo: Tinche/aiofiles
@@ -615,12 +633,12 @@ libraries:
 - name: aiosmtplib
   repo: cole/aiosmtplib
   pypi: aiosmtplib
-  category: misc
+  category: email
   description: Async SMTP client library for sending emails over asyncio
 - name: watchfiles
   repo: samuelcolvin/watchfiles
   pypi: watchfiles
-  category: misc
+  category: dev-tools
   description: Async file system monitoring with a Rust backend
 - name: authlib
   repo: lepture/authlib
@@ -659,7 +677,7 @@ libraries:
 - name: async-lru
   repo: aio-libs/async-lru
   pypi: async-lru
-  category: misc
+  category: caching
   description: LRU cache implementation for asyncio functions
 - name: aiojobs
   repo: aio-libs/aiojobs
@@ -752,7 +770,7 @@ libraries:
 - name: asyncstdlib
   repo: maxfischer2781/asyncstdlib
   pypi: asyncstdlib
-  category: misc
+  category: helpers
   description: Async equivalents of itertools and functools
 - name: aiotg
   repo: szastupov/aiotg
@@ -767,7 +785,7 @@ libraries:
 - name: aiosmtpd
   repo: aio-libs/aiosmtpd
   pypi: aiosmtpd
-  category: misc
+  category: email
   description: SMTP server implementation based on asyncio
 - name: async-proxy-pool
   repo: chenjiandongx/async-proxy-pool
@@ -791,7 +809,7 @@ libraries:
 - name: aiodataloader
   repo: syrusakbary/aiodataloader
   pypi: aiodataloader
-  category: misc
+  category: events-workflows
   description: DataLoader batch utility for asyncio applications
 - name: aiocoap
   repo: chrysn/aiocoap
@@ -811,7 +829,7 @@ libraries:
 - name: aiohttp-devtools
   repo: aio-libs/aiohttp-devtools
   pypi: aiohttp-devtools
-  category: misc
+  category: dev-tools
   description: Development tools for aiohttp applications
 - name: aiochclient
   repo: maximdanilchenko/aiochclient
@@ -1095,7 +1113,7 @@ libraries:
 - name: asyncache
   repo: hephex/asyncache
   pypi: asyncache
-  category: misc
+  category: caching
   description: Wrapper for cachetools library to work with async functions
 - name: asyncmcp
   repo: bh-rat/asyncmcp
@@ -1115,7 +1133,7 @@ libraries:
 - name: async-cache
   repo: iamsinghrajat/async-cache
   pypi: async-cache
-  category: misc
+  category: caching
   description: Caching solution for asyncio applications
 - name: aiops-modules
   repo: awslabs/aiops-modules
@@ -1152,7 +1170,7 @@ libraries:
   description: Elasticsearch client driver for asyncio
 - name: aioify
   repo: perkfly/aioify
-  category: misc
+  category: helpers
   description: Make functions async and awaitable
 - name: aiovk
   repo: alexanderlarin/aiovk
@@ -1224,7 +1242,7 @@ libraries:
   description: Control Shelly smart home devices via asyncio
 - name: AsyncFlow
   repo: AsyncFlow-Sim/AsyncFlow
-  category: misc
+  category: events-workflows
   description: Simulator for async distributed systems
 - name: aiocfscrape
   repo: pavlodvornikov/aiocfscrape
@@ -1422,7 +1440,7 @@ libraries:
 - name: aiocontextvars
   repo: fantix/aiocontextvars
   pypi: aiocontextvars
-  category: misc
+  category: helpers
   description: Asyncio support for contextvars backport
 - name: async_upnp_client
   repo: StevenLooman/async_upnp_client
@@ -1633,7 +1651,7 @@ libraries:
 - name: async-btree
   repo: geronimo-iia/async-btree
   pypi: async_btree
-  category: misc
+  category: events-workflows
   description: Asynchronous behavior tree implementation for Python
 - name: Async-Poe-Client
   repo: canxin121/Async-Poe-Client
@@ -1695,7 +1713,7 @@ libraries:
   description: Closable queues (channels) for Python asyncio
 - name: async-agentic-tools
   repo: mikegc-aws/async-agentic-tools
-  category: misc
+  category: ai
   description: Background task execution framework for AI agents
 - name: aiotarantool
   repo: shveenkov/aiotarantool
@@ -1724,7 +1742,7 @@ libraries:
 - name: async-class
   repo: mosquito/async-class
   pypi: async-class
-  category: misc
+  category: helpers
   description: Async constructor support for Python classes
 - name: async-batcher
   repo: hussein-awala/async-batcher
@@ -1873,12 +1891,12 @@ libraries:
 - name: aioyagmail
   repo: kootenpv/aioyagmail
   pypi: aioyagmail
-  category: misc
+  category: email
   description: Async email sending with Gmail
 - name: aioutils
   repo: observerss/aioutils
   pypi: aioutils
-  category: misc
+  category: helpers
   description: Utility functions for asyncio development
 - name: async-downloader
   repo: ShichaoMa/async-downloader
@@ -1887,7 +1905,7 @@ libraries:
   description: Async downloader utility
 - name: async-django-email
   repo: python019/async-django-email
-  category: misc
+  category: email
   description: Async email support for Django
 - name: aiohttp-mako
   repo: aio-libs-abandoned/aiohttp-mako
@@ -2027,7 +2045,7 @@ libraries:
   description: Minimal WSGI server implementation using asyncio
 - name: aiodag
   repo: mitstake/aiodag
-  category: misc
+  category: events-workflows
   description: Build and execute DAGs with asyncio
 - name: aio-eth
   repo: Narasimha1997/aio-eth
@@ -2060,7 +2078,7 @@ libraries:
 - name: asyncio-ipython-magic
   repo: Gr1N/asyncio-ipython-magic
   pypi: asyncio-ipython-magic
-  category: misc
+  category: dev-tools
   description: IPython magic command extension for running asyncio code
 - name: asyncio-for-robotics
   repo: 2lian/asyncio-for-robotics
@@ -2119,12 +2137,12 @@ libraries:
   description: Run ASGI applications with aiohttp
 - name: Aios
   repo: harshitgavita-07/Aios
-  category: misc
+  category: ai
   description: AI orchestration framework for building digital coworkers
 - name: aioreloader
   repo: and800/aioreloader
   pypi: aioreloader
-  category: misc
+  category: dev-tools
   description: Auto-reloader for asyncio applications
 - name: aiotorrent
   repo: Mys7erio/aiotorrent
@@ -2166,7 +2184,7 @@ libraries:
   description: Factory Boy integration for async ORM testing
 - name: async-signals
   repo: ddanier/async-signals
-  category: misc
+  category: events-workflows
   description: Async version of Django signals
 - name: asyncflux
   repo: puentesarrin/asyncflux
@@ -2245,7 +2263,7 @@ libraries:
   description: RabbitMQ client library for asyncio
 - name: aioredux
   repo: kasbah/aioredux
-  category: misc
+  category: events-workflows
   description: Redux-style state management for asyncio applications
 - name: aiopppp
   repo: devbis/aiopppp
@@ -2274,7 +2292,7 @@ libraries:
   description: Executor implementation for running asyncio tasks in an event loop
 - name: AsyncPP
   repo: PluralisResearch/AsyncPP
-  category: misc
+  category: events-workflows
   description: Asynchronous pipeline parallel optimization
 - name: aiostomp
   repo: pedrokiefer/aiostomp
@@ -2332,20 +2350,20 @@ libraries:
 - name: async-graph-data-flow
   repo: civisanalytics/async-graph-data-flow
   pypi: async-graph-data-flow
-  category: misc
+  category: events-workflows
   description: Async functions for directed acyclic graphs
 - name: asyncgpt
   repo: Just1z/asyncgpt
-  category: misc
+  category: ai
   description: Async framework for ChatGPT API integration
 - name: asyncio-atexit
   repo: minrk/asyncio-atexit
   pypi: asyncio-atexit
-  category: misc
+  category: helpers
   description: Exit handlers and cleanup utilities for asyncio applications
 - name: async-ipython-magic
   repo: leriomaggio/async-ipython-magic
-  category: misc
+  category: dev-tools
   description: Async IPython magic for notebook cells
 - name: aionostr
   repo: davestgermain/aionostr
@@ -2465,7 +2483,7 @@ libraries:
 - name: asyncio_dispatch
   repo: lenzenmi/asyncio_dispatch
   pypi: asyncio_dispatch
-  category: misc
+  category: events-workflows
   description: Event signalling for asyncio
 - name: async-oss
   repo: Yaocool/async-oss

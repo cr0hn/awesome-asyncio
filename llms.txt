@@ -288,26 +288,44 @@ AnyIO | anyio | 2550 | 2026-10-04 | High level asynchronous concurrency and netw
 trio-asyncio | trio-asyncio | 204 | 2026-05-18 | re-implementation of the asyncio mainloop on top of Trio
 aioresult | aioresult | 20 | 2026-08-24 | Capture and retrieve results from Trio or anyio tasks
 
-## Misc
+## Caching
 
-watchfiles | watchfiles | 2547 | 2026-09-21 | Async file system monitoring with a Rust backend
 aiocache | aiocache | 1437 | 2026-06-28 | Cache manager for different backends
 async-lru | async-lru | 954 | 2026-09-30 | LRU cache implementation for asyncio functions
-aiotieba | aiotieba | 688 | 2026-10-02 | Async client library for Baidu Tieba community platform
-aiosmtplib | aiosmtplib | 433 | 2026-09-18 | Async SMTP client library for sending emails over asyncio
-asyncstdlib | asyncstdlib | 380 | 2026-10-04 | Async equivalents of itertools and functools
-aiosmtpd | aiosmtpd | 372 | 2026-10-01 | SMTP server implementation based on asyncio
-aiodataloader | aiodataloader | 296 | 2025-11-29 | DataLoader batch utility for asyncio applications
-aiohttp-devtools | aiohttp-devtools | 266 | 2026-10-01 | Development tools for aiohttp applications
 async-cache | async-cache | 107 | 2026-05-28 | Caching solution for asyncio applications
-aio-mc-rcon | aio-mc-rcon | 53 | 2026-09-18 | Asynchronous RCON client for Minecraft server administration
-aiosendspin | - | 51 | 2026-10-02 | Async library implementing the Sendspin protocol
+
+## Email
+
+aiosmtplib | aiosmtplib | 433 | 2026-09-18 | Async SMTP client library for sending emails over asyncio
+aiosmtpd | aiosmtpd | 372 | 2026-10-01 | SMTP server implementation based on asyncio
+
+## Development tools
+
+watchfiles | watchfiles | 2547 | 2026-09-21 | Async file system monitoring with a Rust backend
+aiohttp-devtools | aiohttp-devtools | 266 | 2026-10-01 | Development tools for aiohttp applications
+
+## Async helpers
+
+asyncstdlib | asyncstdlib | 380 | 2026-10-04 | Async equivalents of itertools and functools
+
+## Events and workflows
+
+aiodataloader | aiodataloader | 296 | 2025-11-29 | DataLoader batch utility for asyncio applications
 async-btree | async_btree | 45 | 2026-09-06 | Asynchronous behavior tree implementation for Python
-async-agentic-tools | - | 41 | 2026-05-28 | Background task execution framework for AI agents
-Aios | - | 26 | 2026-07-26 | AI orchestration framework for building digital coworkers
 async-signals | - | 25 | 2026-08-22 | Async version of Django signals
-asyncapi-python | asyncapi-python | 24 | 2026-04-04 | CLI to generate Python code from AsyncAPI spec
 AsyncPP | - | 23 | 2026-02-02 | Asynchronous pipeline parallel optimization
 async-graph-data-flow | async-graph-data-flow | 22 | 2026-04-21 | Async functions for directed acyclic graphs
+
+## AI and LLM
+
+async-agentic-tools | - | 41 | 2026-05-28 | Background task execution framework for AI agents
+Aios | - | 26 | 2026-07-26 | AI orchestration framework for building digital coworkers
+
+## Misc
+
+aiotieba | aiotieba | 688 | 2026-10-02 | Async client library for Baidu Tieba community platform
+aio-mc-rcon | aio-mc-rcon | 53 | 2026-09-18 | Asynchronous RCON client for Minecraft server administration
+aiosendspin | - | 51 | 2026-10-02 | Async library implementing the Sendspin protocol
+asyncapi-python | asyncapi-python | 24 | 2026-04-04 | CLI to generate Python code from AsyncAPI spec
 
 260 inactive or archived libraries are left out. See README.md for them.

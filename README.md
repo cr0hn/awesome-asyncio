@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Libraries](https://img.shields.io/badge/libraries-496-2F6FB5?labelColor=0F1E3D)](#libraries)
 [![Updated](https://img.shields.io/badge/updated-2026--10--04-2F6FB5?labelColor=0F1E3D)](#new-this-week)
-[![License: CC0](https://img.shields.io/badge/license-CC0-2F6FB5?labelColor=0F1E3D)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-2F6FB5?labelColor=0F1E3D)](LICENSE)
 
 Python libraries built on [asyncio](https://docs.python.org/3/library/asyncio.html) or that work with it, grouped by what they do. It is meant for browsing: you have a problem, you want to see what exists before picking one.
 
@@ -42,9 +42,17 @@ If you are an LLM or building a tool around one, read [`llms.txt`](llms.txt) ins
   - [CLI and TUI](#cli-and-tui) (4)
   - [IoT and hardware](#iot-and-hardware) (37)
   - [Alternatives to asyncio](#alternatives-to-asyncio) (7)
-  - [Misc](#misc) (39)
+  - [Caching](#caching) (4)
+  - [Email](#email) (4)
+  - [Development tools](#development-tools) (5)
+  - [Async helpers](#async-helpers) (6)
+  - [Events and workflows](#events-and-workflows) (9)
+  - [AI and LLM](#ai-and-llm) (3)
+  - [Misc](#misc) (8)
 - [How the data is collected](#how-the-data-is-collected)
 - [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
+- [About the author](#about-the-author)
 - [License](#license)
 
 ## New this week
@@ -701,50 +709,92 @@ Other async runtimes and compatibility layers.
 | [aioresult](https://github.com/arthur-tacca/aioresult) | Capture and retrieve results from Trio or anyio tasks | ✅ | 2026-08-24 | 1.3 | 20 |
 | [curio](https://github.com/dabeaz/curio) | The coroutine concurrency library | 🗄️ | 2025-12-21 | 1.6 | 4.1k |
 
+### Caching
+
+Cache managers and memoization for async code.
+
+| Library | Description | Status | Last commit | Latest version | Stars |
+|---|---|:-:|---|---|--:|
+| [aiocache](https://github.com/aio-libs/aiocache) | Cache manager for different backends | ✅ | 2026-06-28 | 0.12.3 | 1.4k |
+| [async-lru](https://github.com/aio-libs/async-lru) | LRU cache implementation for asyncio functions | ✅ | 2026-09-30 | 2.3.0 | 954 |
+| [asyncache](https://github.com/hephex/asyncache) | Wrapper for cachetools library to work with async functions | 💤 | 2023-12-22 | 0.3.1 | 109 |
+| [async-cache](https://github.com/iamsinghrajat/async-cache) | Caching solution for asyncio applications | ✅ | 2026-05-28 | 2.0.3 | 107 |
+
+### Email
+
+Send and receive email without blocking.
+
+| Library | Description | Status | Last commit | Latest version | Stars |
+|---|---|:-:|---|---|--:|
+| [aiosmtplib](https://github.com/cole/aiosmtplib) | Async SMTP client library for sending emails over asyncio | ✅ | 2026-09-18 | 5.1.3 | 433 |
+| [aiosmtpd](https://github.com/aio-libs/aiosmtpd) | SMTP server implementation based on asyncio | ✅ | 2026-10-01 | 1.4.6 | 372 |
+| [aioyagmail](https://github.com/kootenpv/aioyagmail) | Async email sending with Gmail | 💤 | 2018-06-27 | 0.0.4 | 33 |
+| [async-django-email](https://github.com/python019/async-django-email) | Async email support for Django | 💤 | 2022-10-13 | - | 33 |
+
+### Development tools
+
+Reloaders, file watchers and notebook helpers.
+
+| Library | Description | Status | Last commit | Latest version | Stars |
+|---|---|:-:|---|---|--:|
+| [watchfiles](https://github.com/samuelcolvin/watchfiles) | Async file system monitoring with a Rust backend | ✅ | 2026-09-21 | 1.3.0 | 2.5k |
+| [aiohttp-devtools](https://github.com/aio-libs/aiohttp-devtools) | Development tools for aiohttp applications | ✅ | 2026-10-01 | 1.1.2 | 266 |
+| [asyncio-ipython-magic](https://github.com/Gr1N/asyncio-ipython-magic) | IPython magic command extension for running asyncio code | 💤 | 2017-02-14 | 0.0.3 | 28 |
+| [aioreloader](https://github.com/and800/aioreloader) | Auto-reloader for asyncio applications | 💤 | 2020-11-11 | 0.4.0 | 26 |
+| [async-ipython-magic](https://github.com/leriomaggio/async-ipython-magic) | Async IPython magic for notebook cells | 💤 | 2020-12-04 | - | 22 |
+
+### Async helpers
+
+Small building blocks for everyday async code.
+
+| Library | Description | Status | Last commit | Latest version | Stars |
+|---|---|:-:|---|---|--:|
+| [asyncstdlib](https://github.com/maxfischer2781/asyncstdlib) | Async equivalents of itertools and functools | ✅ | 2026-10-04 | 3.14.0 | 380 |
+| [aioify](https://github.com/perkfly/aioify) | Make functions async and awaitable | 💤 | 2022-04-04 | - | 99 |
+| [aiocontextvars](https://github.com/fantix/aiocontextvars) | Asyncio support for contextvars backport | 💤 | 2019-04-08 | 0.2.2 | 56 |
+| [async-class](https://github.com/mosquito/async-class) | Async constructor support for Python classes | 💤 | 2021-10-03 | 0.5.0 | 38 |
+| [aioutils](https://github.com/observerss/aioutils) | Utility functions for asyncio development | 💤 | 2015-03-12 | 0.3.10 | 33 |
+| [asyncio-atexit](https://github.com/minrk/asyncio-atexit) | Exit handlers and cleanup utilities for asyncio applications | 💤 | 2025-01-07 | 1.0.1 | 22 |
+
+### Events and workflows
+
+Signals, dataflow graphs and pipelines.
+
+| Library | Description | Status | Last commit | Latest version | Stars |
+|---|---|:-:|---|---|--:|
+| [aiodataloader](https://github.com/syrusakbary/aiodataloader) | DataLoader batch utility for asyncio applications | ✅ | 2025-11-29 | 0.4.3 | 296 |
+| [AsyncFlow](https://github.com/AsyncFlow-Sim/AsyncFlow) | Simulator for async distributed systems | 💤 | 2025-09-18 | v0.1.1 | 81 |
+| [async-btree](https://github.com/geronimo-iia/async-btree) | Asynchronous behavior tree implementation for Python | ✅ | 2026-09-06 | 3.0.1 | 45 |
+| [aiodag](https://github.com/mitstake/aiodag) | Build and execute DAGs with asyncio | 💤 | 2021-09-23 | 0.4 | 28 |
+| [async-signals](https://github.com/ddanier/async-signals) | Async version of Django signals | ✅ | 2026-08-22 | v0.4.1 | 25 |
+| [aioredux](https://github.com/kasbah/aioredux) | Redux-style state management for asyncio applications | 💤 | 2018-08-05 | - | 23 |
+| [AsyncPP](https://github.com/PluralisResearch/AsyncPP) | Asynchronous pipeline parallel optimization | ✅ | 2026-02-02 | - | 23 |
+| [async-graph-data-flow](https://github.com/civisanalytics/async-graph-data-flow) | Async functions for directed acyclic graphs | ✅ | 2026-04-21 | 2.0.0 | 22 |
+| [asyncio_dispatch](https://github.com/lenzenmi/asyncio_dispatch) | Event signalling for asyncio | 💤 | 2015-11-12 | 1.1.0 | 20 |
+
+### AI and LLM
+
+Async clients and tooling for AI workloads.
+
+| Library | Description | Status | Last commit | Latest version | Stars |
+|---|---|:-:|---|---|--:|
+| [async-agentic-tools](https://github.com/mikegc-aws/async-agentic-tools) | Background task execution framework for AI agents | ✅ | 2026-05-28 | - | 41 |
+| [Aios](https://github.com/harshitgavita-07/Aios) | AI orchestration framework for building digital coworkers | ✅ | 2026-07-26 | v2.0.0 | 26 |
+| [asyncgpt](https://github.com/Just1z/asyncgpt) | Async framework for ChatGPT API integration | 💤 | 2023-03-05 | - | 22 |
+
 ### Misc
 
 Everything else.
 
 | Library | Description | Status | Last commit | Latest version | Stars |
 |---|---|:-:|---|---|--:|
-| [watchfiles](https://github.com/samuelcolvin/watchfiles) | Async file system monitoring with a Rust backend | ✅ | 2026-09-21 | 1.3.0 | 2.5k |
-| [aiocache](https://github.com/aio-libs/aiocache) | Cache manager for different backends | ✅ | 2026-06-28 | 0.12.3 | 1.4k |
-| [async-lru](https://github.com/aio-libs/async-lru) | LRU cache implementation for asyncio functions | ✅ | 2026-09-30 | 2.3.0 | 954 |
 | [aiotieba](https://github.com/lumina37/aiotieba) | Async client library for Baidu Tieba community platform | ✅ | 2026-10-02 | 4.8.0 | 688 |
 | [aioquant](https://github.com/paulran/aioquant) | Event-driven framework for quantitative trading | 💤 | 2025-05-26 | - | 500 |
-| [aiosmtplib](https://github.com/cole/aiosmtplib) | Async SMTP client library for sending emails over asyncio | ✅ | 2026-09-18 | 5.1.3 | 433 |
-| [asyncstdlib](https://github.com/maxfischer2781/asyncstdlib) | Async equivalents of itertools and functools | ✅ | 2026-10-04 | 3.14.0 | 380 |
-| [aiosmtpd](https://github.com/aio-libs/aiosmtpd) | SMTP server implementation based on asyncio | ✅ | 2026-10-01 | 1.4.6 | 372 |
-| [aiodataloader](https://github.com/syrusakbary/aiodataloader) | DataLoader batch utility for asyncio applications | ✅ | 2025-11-29 | 0.4.3 | 296 |
-| [aiohttp-devtools](https://github.com/aio-libs/aiohttp-devtools) | Development tools for aiohttp applications | ✅ | 2026-10-01 | 1.1.2 | 266 |
 | [aiopandas](https://github.com/telekinesis-inc/aiopandas) | Async support for Pandas map, apply and transform operations | 💤 | 2025-06-12 | 0.0.3 | 133 |
-| [asyncache](https://github.com/hephex/asyncache) | Wrapper for cachetools library to work with async functions | 💤 | 2023-12-22 | 0.3.1 | 109 |
-| [async-cache](https://github.com/iamsinghrajat/async-cache) | Caching solution for asyncio applications | ✅ | 2026-05-28 | 2.0.3 | 107 |
-| [aioify](https://github.com/perkfly/aioify) | Make functions async and awaitable | 💤 | 2022-04-04 | - | 99 |
-| [AsyncFlow](https://github.com/AsyncFlow-Sim/AsyncFlow) | Simulator for async distributed systems | 💤 | 2025-09-18 | v0.1.1 | 81 |
-| [aiocontextvars](https://github.com/fantix/aiocontextvars) | Asyncio support for contextvars backport | 💤 | 2019-04-08 | 0.2.2 | 56 |
 | [aio-mc-rcon](https://github.com/Iapetus-11/aio-mc-rcon) | Asynchronous RCON client for Minecraft server administration | ✅ | 2026-09-18 | 3.5.0 | 53 |
 | [aiosendspin](https://github.com/Sendspin/aiosendspin) | Async library implementing the Sendspin protocol | ✅ | 2026-10-02 | 9.1.1 | 51 |
 | [asyncapi-python](https://github.com/dutradda/asyncapi-python) | Publish events from asyncapi specification | 💤 | 2020-12-01 | - | 46 |
-| [async-btree](https://github.com/geronimo-iia/async-btree) | Asynchronous behavior tree implementation for Python | ✅ | 2026-09-06 | 3.0.1 | 45 |
-| [async-agentic-tools](https://github.com/mikegc-aws/async-agentic-tools) | Background task execution framework for AI agents | ✅ | 2026-05-28 | - | 41 |
-| [async-class](https://github.com/mosquito/async-class) | Async constructor support for Python classes | 💤 | 2021-10-03 | 0.5.0 | 38 |
-| [aioyagmail](https://github.com/kootenpv/aioyagmail) | Async email sending with Gmail | 💤 | 2018-06-27 | 0.0.4 | 33 |
-| [aioutils](https://github.com/observerss/aioutils) | Utility functions for asyncio development | 💤 | 2015-03-12 | 0.3.10 | 33 |
-| [async-django-email](https://github.com/python019/async-django-email) | Async email support for Django | 💤 | 2022-10-13 | - | 33 |
-| [aiodag](https://github.com/mitstake/aiodag) | Build and execute DAGs with asyncio | 💤 | 2021-09-23 | 0.4 | 28 |
-| [asyncio-ipython-magic](https://github.com/Gr1N/asyncio-ipython-magic) | IPython magic command extension for running asyncio code | 💤 | 2017-02-14 | 0.0.3 | 28 |
-| [Aios](https://github.com/harshitgavita-07/Aios) | AI orchestration framework for building digital coworkers | ✅ | 2026-07-26 | v2.0.0 | 26 |
-| [aioreloader](https://github.com/and800/aioreloader) | Auto-reloader for asyncio applications | 💤 | 2020-11-11 | 0.4.0 | 26 |
-| [async-signals](https://github.com/ddanier/async-signals) | Async version of Django signals | ✅ | 2026-08-22 | v0.4.1 | 25 |
 | [asyncapi-python](https://github.com/G-USI/asyncapi-python) | CLI to generate Python code from AsyncAPI spec | ✅ | 2026-04-04 | 0.3.1 | 24 |
-| [aioredux](https://github.com/kasbah/aioredux) | Redux-style state management for asyncio applications | 💤 | 2018-08-05 | - | 23 |
-| [AsyncPP](https://github.com/PluralisResearch/AsyncPP) | Asynchronous pipeline parallel optimization | ✅ | 2026-02-02 | - | 23 |
-| [async-graph-data-flow](https://github.com/civisanalytics/async-graph-data-flow) | Async functions for directed acyclic graphs | ✅ | 2026-04-21 | 2.0.0 | 22 |
-| [asyncgpt](https://github.com/Just1z/asyncgpt) | Async framework for ChatGPT API integration | 💤 | 2023-03-05 | - | 22 |
-| [asyncio-atexit](https://github.com/minrk/asyncio-atexit) | Exit handlers and cleanup utilities for asyncio applications | 💤 | 2025-01-07 | 1.0.1 | 22 |
-| [async-ipython-magic](https://github.com/leriomaggio/async-ipython-magic) | Async IPython magic for notebook cells | 💤 | 2020-12-04 | - | 22 |
-| [asyncio_dispatch](https://github.com/lenzenmi/asyncio_dispatch) | Event signalling for asyncio | 💤 | 2015-11-12 | 1.1.0 | 20 |
 | [asyncqt](https://github.com/gmarull/asyncqt) | Integration of asyncio event loop with PyQt and PySide | 🗄️ | 2020-12-29 | 0.8.0 | 155 |
 
 ## How the data is collected
@@ -765,6 +815,14 @@ $ uv run tools/update.py
 
 Missing a library? [Open an issue](../../issues/new?template=add-library.yml) or send a pull request that adds an entry to `libraries.yml`. Details are in [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## Acknowledgments
+
+The list started from [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio), which is no longer maintained.
+
+## About the author
+
+Made by Daniel Alfocea ([@cr0hn](https://github.com/cr0hn)). If you want to get in touch, write to [cr0hn@cr0hn.com](mailto:cr0hn@cr0hn.com).
+
 ## License
 
-[CC0 1.0](LICENSE). The list started from [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio), which is no longer maintained.
+[CC BY 4.0](LICENSE). You can copy, reuse and adapt the list, even commercially, as long as you credit this project and link to it: [github.com/cr0hn/awesome-asyncio](https://github.com/cr0hn/awesome-asyncio).
