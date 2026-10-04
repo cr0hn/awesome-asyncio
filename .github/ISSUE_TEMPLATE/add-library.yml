@@ -1,0 +1,29 @@
+name: Add a library
+description: Suggest a library for the list
+title: "Add: "
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repository
+      placeholder: owner/name
+    validations:
+      required: true
+  - type: input
+    id: pypi
+    attributes:
+      label: PyPI package
+      description: Leave empty if it is not published.
+  - type: input
+    id: category
+    attributes:
+      label: Group
+      description: Use an id from the top of libraries.yml.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What does it do, and how does it use asyncio?
+    validations:
+      required: true

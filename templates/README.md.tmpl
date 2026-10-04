@@ -1,0 +1,51 @@
+# awesome-asyncio
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Libraries](https://img.shields.io/badge/libraries-{{COUNT}}-FF7A28?labelColor=0F1E3D)](#libraries)
+[![Updated](https://img.shields.io/badge/updated-{{UPDATED}}-FF7A28?labelColor=0F1E3D)](#new-this-week)
+[![License: CC0](https://img.shields.io/badge/license-CC0-FF7A28?labelColor=0F1E3D)](LICENSE)
+
+Python libraries built on [asyncio](https://docs.python.org/3/library/asyncio.html) or that work with it, grouped by what they do. It is meant for browsing: you have a problem, you want to see what exists before picking one.
+
+Every entry shows whether the repository is archived, when its last commit landed, its latest release and its star count. A script refreshes those numbers every Monday.
+
+## Contents
+
+- [New this week](#new-this-week)
+- [Libraries](#libraries)
+{{INDEX}}
+- [How the data is collected](#how-the-data-is-collected)
+- [Contributing](#contributing)
+- [License](#license)
+
+## New this week
+
+Releases published and libraries added in the last 7 days. Older weeks are in [news/](news/), and there is an [Atom feed](feed.xml) if you prefer a reader.
+
+{{NEWS}}
+
+## Libraries
+
+Status: ✅ commit in the last year, 💤 no commit for over a year, 🗄️ archived on GitHub. Inside each group, archived projects come last and the rest are sorted by stars.
+
+{{LIBRARIES}}
+
+## How the data is collected
+
+[`libraries.yml`](libraries.yml) holds the name, repository, PyPI package, group and description of each library. [`tools/update.py`](tools/update.py) reads it, asks the GitHub GraphQL API for archive state, stars and last commit, asks PyPI for the latest version (falling back to the latest GitHub release), and rewrites this file. The release date comes from PyPI or GitHub, not from the commit.
+
+A GitHub Action runs the script every Monday and commits the result. If a lookup fails, the previous values are kept. The agent instructions for the weekly run are in [`CLAUDE.md`](CLAUDE.md).
+
+To run it yourself:
+
+```console
+$ uv run tools/update.py
+```
+
+## Contributing
+
+Missing a library? [Open an issue](../../issues/new?template=add-library.yml) or send a pull request that adds an entry to `libraries.yml`. Details are in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## License
+
+[CC0 1.0](LICENSE). The list started from [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio), which is no longer maintained.

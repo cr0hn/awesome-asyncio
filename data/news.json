@@ -1,0 +1,193 @@
+[
+ {
+  "week": "2026-W40",
+  "date": "2026-10-04",
+  "releases": [
+   {
+    "name": "AsyncSSH",
+    "repo": "ronf/asyncssh",
+    "url": "https://github.com/ronf/asyncssh",
+    "version": "2.24.1",
+    "date": "2026-10-04",
+    "description": "Provides an asynchronous client and server implementation of the SSHv2 protocol"
+   },
+   {
+    "name": "Strawberry",
+    "repo": "strawberry-graphql/strawberry",
+    "url": "https://github.com/strawberry-graphql/strawberry",
+    "version": "0.330.3",
+    "date": "2026-10-04",
+    "description": "Code-first Python 3 GraphQL server with Django, Flask and FastAPI/Starlette support"
+   },
+   {
+    "name": "async-firebase",
+    "repo": "healthjoy/async-firebase",
+    "url": "https://github.com/healthjoy/async-firebase",
+    "version": "6.3.0",
+    "date": "2026-10-04",
+    "description": "Lightweight async client for Firebase Cloud Messaging"
+   },
+   {
+    "name": "websockets",
+    "repo": "python-websockets/websockets",
+    "url": "https://github.com/python-websockets/websockets",
+    "version": "17.2",
+    "date": "2026-10-03",
+    "description": "A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity"
+   },
+   {
+    "name": "aiohomematic",
+    "repo": "SukramJ/aiohomematic",
+    "url": "https://github.com/SukramJ/aiohomematic",
+    "version": "2026.10.3",
+    "date": "2026-10-03",
+    "description": "Interface for asyncio interaction with HomeMatic devices"
+   },
+   {
+    "name": "aiofranka",
+    "repo": "younghyopark/aiofranka",
+    "url": "https://github.com/younghyopark/aiofranka",
+    "version": "0.6.1",
+    "date": "2026-10-03",
+    "description": "Async library for controlling Franka robots"
+   },
+   {
+    "name": "aiotieba",
+    "repo": "lumina37/aiotieba",
+    "url": "https://github.com/lumina37/aiotieba",
+    "version": "4.8.0",
+    "date": "2026-10-02",
+    "description": "Async client library for Baidu Tieba community platform"
+   },
+   {
+    "name": "asyncwhois",
+    "repo": "pogzyb/asyncwhois",
+    "url": "https://github.com/pogzyb/asyncwhois",
+    "version": "1.1.15",
+    "date": "2026-10-02",
+    "description": "Async WHOIS and RDAP client for domain information"
+   },
+   {
+    "name": "uvloop",
+    "repo": "MagicStack/uvloop",
+    "url": "https://github.com/MagicStack/uvloop",
+    "version": "0.23.0",
+    "date": "2026-10-01",
+    "description": "Drop-in replacement for the asyncio event loop, built on libuv"
+   },
+   {
+    "name": "aiobotocore",
+    "repo": "aio-libs/aiobotocore",
+    "url": "https://github.com/aio-libs/aiobotocore",
+    "version": "3.9.2",
+    "date": "2026-10-01",
+    "description": "Asyncio support for botocore library using aiohttp for AWS API access"
+   },
+   {
+    "name": "aiofastnet",
+    "repo": "aio-libs/aiofastnet",
+    "url": "https://github.com/aio-libs/aiofastnet",
+    "version": "1.2.0",
+    "date": "2026-10-01",
+    "description": "Ultra-fast TCP networking with kernel TLS for asyncio"
+   },
+   {
+    "name": "FastAPI",
+    "repo": "fastapi/fastapi",
+    "url": "https://github.com/fastapi/fastapi",
+    "version": "0.142.2",
+    "date": "2026-09-30",
+    "description": "API framework built on Starlette and Pydantic, driven by type hints"
+   },
+   {
+    "name": "granian",
+    "repo": "emmett-framework/granian",
+    "url": "https://github.com/emmett-framework/granian",
+    "version": "2.8.4",
+    "date": "2026-09-30",
+    "description": "HTTP server for Python with a Rust core, supporting ASGI, RSGI and WSGI"
+   },
+   {
+    "name": "winloop",
+    "repo": "Vizonex/Winloop",
+    "url": "https://github.com/Vizonex/Winloop",
+    "version": "0.7.0",
+    "date": "2026-09-30",
+    "description": "Alternative library for uvloop compatibility with Windows"
+   },
+   {
+    "name": "aioshelly",
+    "repo": "home-assistant-libs/aioshelly",
+    "url": "https://github.com/home-assistant-libs/aioshelly",
+    "version": "13.34.1",
+    "date": "2026-09-30",
+    "description": "Control Shelly smart home devices via asyncio"
+   },
+   {
+    "name": "aioamazondevices",
+    "repo": "chemelli74/aioamazondevices",
+    "url": "https://github.com/chemelli74/aioamazondevices",
+    "version": "16.3.1",
+    "date": "2026-09-30",
+    "description": "Async library for controlling Amazon smart home devices"
+   },
+   {
+    "name": "aiormq",
+    "repo": "mosquito/aiormq",
+    "url": "https://github.com/mosquito/aiormq",
+    "version": "7.2.1",
+    "date": "2026-09-29",
+    "description": "Pure python AMQP asynchronous client library for asyncio"
+   },
+   {
+    "name": "Crawlee",
+    "repo": "apify/crawlee-python",
+    "url": "https://github.com/apify/crawlee-python",
+    "version": "1.10.3",
+    "date": "2026-09-29",
+    "description": "Web scraping and automation library for crawlers, extracts data with proxy rotation"
+   },
+   {
+    "name": "aiograpi",
+    "repo": "subzeroid/aiograpi",
+    "url": "https://github.com/subzeroid/aiograpi",
+    "version": "2.0.15",
+    "date": "2026-09-29",
+    "description": "Asynchronous client library for Instagram Private API"
+   },
+   {
+    "name": "aiounifi",
+    "repo": "Kane610/aiounifi",
+    "url": "https://github.com/Kane610/aiounifi",
+    "version": "97",
+    "date": "2026-09-29",
+    "description": "Library for communicating with Ubiquiti UniFi controllers"
+   },
+   {
+    "name": "asynckivy",
+    "repo": "asyncgui/asynckivy",
+    "url": "https://github.com/asyncgui/asynckivy",
+    "version": "0.12.0",
+    "date": "2026-09-29",
+    "description": "Async support library for Kivy framework"
+   },
+   {
+    "name": "aio_energy_management",
+    "repo": "kotope/aio_energy_management",
+    "url": "https://github.com/kotope/aio_energy_management",
+    "version": "1.2.1",
+    "date": "2026-09-29",
+    "description": "Home Assistant integration for energy management"
+   },
+   {
+    "name": "aiomisc",
+    "repo": "aiokitchen/aiomisc",
+    "url": "https://github.com/aiokitchen/aiomisc",
+    "version": "18.0.33",
+    "date": "2026-09-28",
+    "description": "Miscellaneous utils for asyncio"
+   }
+  ],
+  "added": []
+ }
+]

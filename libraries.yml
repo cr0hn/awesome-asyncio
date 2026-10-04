@@ -1,0 +1,2477 @@
+categories:
+- id: web-frameworks
+  title: Web frameworks
+  blurb: Frameworks and toolkits to build web apps and APIs.
+- id: asgi-servers
+  title: ASGI servers
+  blurb: Servers that run asyncio web applications.
+- id: http-clients
+  title: HTTP clients
+  blurb: Async HTTP clients and request helpers.
+- id: websockets-realtime
+  title: WebSockets and realtime
+  blurb: WebSocket, SSE and pub/sub libraries.
+- id: graphql
+  title: GraphQL
+  blurb: Libraries to build and query GraphQL APIs.
+- id: rpc
+  title: RPC and serialization
+  blurb: gRPC, JSON-RPC and other remote call libraries.
+- id: message-queues
+  title: Message queues and brokers
+  blurb: Clients for AMQP, Kafka, NATS, ZeroMQ, MQTT and others.
+- id: task-queues
+  title: Task queues and schedulers
+  blurb: Background jobs, workers and cron-style scheduling.
+- id: database-drivers
+  title: Database drivers
+  blurb: Async drivers for SQL, NoSQL, search and time-series databases.
+- id: orm
+  title: ORMs and query builders
+  blurb: Object mappers and query builders on top of async drivers.
+- id: networking
+  title: Networking
+  blurb: DNS, SSH, ping, sockets and protocol implementations.
+- id: cloud-devops
+  title: Cloud and DevOps
+  blurb: SDKs and clients for cloud providers, Kubernetes and Docker.
+- id: files-io
+  title: Files and I/O
+  blurb: Async file access, subprocesses, serial ports and streams.
+- id: concurrency
+  title: Concurrency utilities
+  blurb: Primitives, rate limiters, pools, timeouts and runners.
+- id: event-loops
+  title: Event loops
+  blurb: Alternative event loop implementations.
+- id: testing
+  title: Testing
+  blurb: Test runners, mocks and fixtures for async code.
+- id: observability
+  title: Observability and debugging
+  blurb: Tracing, metrics, profiling and debugging tools.
+- id: scraping-automation
+  title: Scraping and browser automation
+  blurb: Crawlers and headless browser drivers.
+- id: bots-chat
+  title: Bots and chat
+  blurb: Client libraries for chat platforms and bot frameworks.
+- id: auth-security
+  title: Auth and security
+  blurb: Authentication, authorization and crypto helpers.
+- id: cli-tui
+  title: CLI and TUI
+  blurb: Command line and terminal UI libraries with async support.
+- id: iot-hardware
+  title: IoT and hardware
+  blurb: Home automation, devices and embedded protocols.
+- id: alternatives
+  title: Alternatives to asyncio
+  blurb: Other async runtimes and compatibility layers.
+- id: misc
+  title: Misc
+  blurb: Everything else.
+libraries:
+- name: FastAPI
+  repo: fastapi/fastapi
+  pypi: fastapi
+  category: web-frameworks
+  description: API framework built on Starlette and Pydantic, driven by type hints
+- name: Django
+  repo: django/django
+  pypi: django
+  category: web-frameworks
+  description: An established, high-level Python web framework with a huge community and ecosystem
+- name: Starlette
+  repo: encode/starlette
+  pypi: starlette
+  category: web-frameworks
+  description: ASGI framework and toolkit for building web services
+- name: aiohttp
+  repo: aio-libs/aiohttp
+  pypi: aiohttp
+  category: web-frameworks
+  description: Http client/server for asyncio (PEP-3156)
+- name: sanic
+  repo: sanic-org/sanic
+  pypi: sanic
+  category: web-frameworks
+  description: Web server and framework written for speed, with async request handling
+- name: Quart
+  repo: pallets/quart
+  pypi: quart
+  category: web-frameworks
+  description: An asyncio web microframework with the same API as Flask
+- name: autobahn
+  repo: crossbario/autobahn-python
+  pypi: autobahn
+  category: websockets-realtime
+  description: WebSocket and WAMP supporting asyncio and Twisted, for clients and servers
+- name: websockets
+  repo: python-websockets/websockets
+  pypi: websockets
+  category: websockets-realtime
+  description: A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity
+- name: Tornado
+  repo: tornadoweb/tornado
+  pypi: tornado
+  category: web-frameworks
+  description: Performant web framework and asynchronous networking library
+- name: uvicorn
+  repo: encode/uvicorn
+  pypi: uvicorn
+  category: asgi-servers
+  description: ASGI server built on uvloop and httptools
+- name: aioamqp
+  repo: Polyconseil/aioamqp
+  pypi: aioamqp
+  category: message-queues
+  description: AMQP implementation using asyncio
+- name: pyzmq
+  repo: zeromq/pyzmq
+  pypi: pyzmq
+  category: message-queues
+  description: Python bindings for ZeroMQ
+- name: aiozmq
+  repo: aio-libs/aiozmq
+  pypi: aiozmq
+  category: message-queues
+  description: Alternative Asyncio integration with ZeroMQ
+- name: crossbar
+  repo: crossbario/crossbar
+  pypi: crossbar
+  category: message-queues
+  description: Crossbar.io is a networking platform for distributed and microservice applications
+- name: asyncio-nats
+  repo: nats-io/nats.py
+  pypi: nats-py
+  category: message-queues
+  description: Client for the NATS messaging system
+- name: aiokafka
+  repo: aio-libs/aiokafka
+  pypi: aiokafka
+  category: message-queues
+  description: Client for Apache Kafka
+- name: asyncpg
+  repo: MagicStack/asyncpg
+  pypi: asyncpg
+  category: database-drivers
+  description: PostgreSQL client library for asyncio
+- name: asyncpgsa
+  repo: CanopyTax/asyncpgsa
+  pypi: asyncpgsa
+  category: database-drivers
+  description: Asyncpg with sqlalchemy core support
+- name: aiopg
+  repo: aio-libs/aiopg
+  pypi: aiopg
+  category: database-drivers
+  description: Library for accessing a PostgreSQL database
+- name: aiomysql
+  repo: aio-libs/aiomysql
+  pypi: aiomysql
+  category: database-drivers
+  description: Library for accessing a MySQL database
+- name: aioodbc
+  repo: aio-libs/aioodbc
+  pypi: aioodbc
+  category: database-drivers
+  description: Library for accessing a ODBC databases
+- name: pymongo
+  repo: mongodb/mongo-python-driver
+  pypi: pymongo
+  category: database-drivers
+  description: The Official MongoDB Python driver, offering both synchronous and asynchronous APIs
+- name: redis-py
+  repo: redis/redis-py
+  pypi: redis
+  category: database-drivers
+  description: Redis Python Client (which includes aioreadis now)
+- name: aiocouchdb
+  repo: aio-libs/aiocouchdb
+  pypi: aiocouchdb
+  category: database-drivers
+  description: CouchDB client built on top of aiohttp (asyncio)
+- name: aioinflux
+  repo: plugaai/aioinflux
+  pypi: aioinflux
+  category: database-drivers
+  description: InfluxDB client built on top of aiohttp
+- name: aioes
+  repo: aio-libs/aioes
+  pypi: aioes
+  category: database-drivers
+  description: Asyncio compatible driver for elasticsearch
+- name: peewee-async
+  repo: 05bit/peewee-async
+  pypi: peewee-async
+  category: orm
+  description: ORM implementation based on peewee and aiopg
+- name: GINO
+  repo: python-gino/gino
+  pypi: gino
+  category: orm
+  description: is a lightweight asynchronous Python ORM based on SQLAlchemy core, with asyncpg dialect
+- name: Tortoise ORM
+  repo: tortoise/tortoise-orm
+  pypi: tortoise-orm
+  category: orm
+  description: native multi-backend ORM with Django-like API and easy relations management
+- name: Databases
+  repo: encode/databases
+  pypi: databases
+  category: orm
+  description: Async database access for SQLAlchemy core, with support for PostgreSQL, MySQL, and SQLite
+- name: Prisma Client Python
+  repo: RobertCraigie/prisma-client-py
+  pypi: prisma
+  category: orm
+  description: Type-safe ORM generated from your schema, for SQLite, PostgreSQL, MySQL and MongoDB
+- name: Piccolo
+  repo: piccolo-orm/piccolo
+  pypi: piccolo
+  category: orm
+  description: An ORM / query builder which can work in async and sync modes, with a nice admin GUI, and ASGI middleware
+- name: Beanie
+  repo: BeanieODM/beanie
+  pypi: beanie
+  category: orm
+  description: An async MongoDB ODM built on pymongo and Pydantic
+- name: AsyncSSH
+  repo: ronf/asyncssh
+  pypi: asyncssh
+  category: networking
+  description: Provides an asynchronous client and server implementation of the SSHv2 protocol
+- name: aiodns
+  repo: aio-libs/aiodns
+  pypi: aiodns
+  category: networking
+  description: DNS resolver for asyncio built on pycares
+- name: aioping
+  repo: stellarbit/aioping
+  pypi: aioping
+  category: networking
+  description: Asyncio implementation of the ICMP ping protocol
+- name: httpx
+  repo: encode/httpx
+  pypi: httpx
+  category: http-clients
+  description: asynchronous HTTP client for Python 3 with requests compatible API
+- name: Ariadne
+  repo: mirumee/ariadne
+  pypi: ariadne
+  category: graphql
+  description: Schema-first Python library for implementing GraphQL servers
+- name: Tartiflette
+  repo: tartiflette/tartiflette
+  pypi: tartiflette
+  category: graphql
+  description: Schema-first Python 3.6+ GraphQL engine built on top of libgraphqlparser
+- name: Strawberry
+  repo: strawberry-graphql/strawberry
+  pypi: strawberry-graphql
+  category: graphql
+  description: Code-first Python 3 GraphQL server with Django, Flask and FastAPI/Starlette support
+- name: aiomock
+  repo: nhumrich/aiomock
+  pypi: aiomock
+  category: testing
+  description: A python mock library that supports async methods
+- name: asynctest
+  repo: Martiusweb/asynctest
+  pypi: asynctest
+  category: testing
+  description: Enhance the standard unittest package with features for testing. asyncio libraries
+- name: pytest-asyncio
+  repo: pytest-dev/pytest-asyncio
+  pypi: pytest-asyncio
+  category: testing
+  description: Pytest support for asyncio
+- name: aresponses
+  repo: aresponses/aresponses
+  pypi: aresponses
+  category: testing
+  description: Asyncio http mocking. Similar to the responses library used for requests
+- name: aioresponses
+  repo: pnuckowski/aioresponses
+  pypi: aioresponses
+  category: testing
+  description: Helper for mock/fake web requests in Python aiohttp package
+- name: uvloop
+  repo: MagicStack/uvloop
+  pypi: uvloop
+  category: event-loops
+  description: Drop-in replacement for the asyncio event loop, built on libuv
+- name: aiochan
+  repo: zh217/aiochan
+  pypi: aiochan
+  category: concurrency
+  description: CSP-style concurrency with channels, select and multiprocessing on top of asyncio
+- name: aiocache
+  repo: aio-libs/aiocache
+  pypi: aiocache
+  category: misc
+  description: Cache manager for different backends
+- name: aiofiles
+  repo: Tinche/aiofiles
+  pypi: aiofiles
+  category: files-io
+  description: File support for asyncio
+- name: aiopath
+  repo: alexdelorenzo/aiopath
+  pypi: aiopath
+  category: files-io
+  description: Asynchronous pathlib for asyncio
+- name: aiodebug
+  repo: qntln/aiodebug
+  pypi: aiodebug
+  category: observability
+  description: A tiny library for monitoring and testing asyncio programs
+- name: aiorun
+  repo: cjrh/aiorun
+  pypi: aiorun
+  category: concurrency
+  description: A run() function that handles all the usual boilerplate for startup and graceful shutdown
+- name: aiosc
+  repo: artfwo/aiosc
+  pypi: aiosc
+  category: iot-hardware
+  description: Lightweight Open Sound Control implementation
+- name: aioserial
+  repo: changyuheng/aioserial
+  pypi: aioserial
+  category: iot-hardware
+  description: A drop-in replacement of pySerial
+- name: aiozipkin
+  repo: aio-libs/aiozipkin
+  pypi: aiozipkin
+  category: observability
+  description: Distributed tracing instrumentation for asyncio with zipkin
+- name: asgiref
+  repo: django/asgiref
+  pypi: asgiref
+  category: web-frameworks
+  description: Backend utils for ASGI to WSGI integration, includes sync_to_async and async_to_sync function wrappers
+- name: async_property
+  repo: ryananguiano/async_property
+  pypi: async-property
+  category: concurrency
+  description: Python decorator for async properties
+- name: ruia
+  repo: howie6879/ruia
+  pypi: ruia
+  category: scraping-automation
+  description: An async web scraping micro-framework based on asyncio
+- name: kubernetes_asyncio
+  repo: tomplus/kubernetes_asyncio
+  pypi: kubernetes-asyncio
+  category: cloud-devops
+  description: Asynchronous client library for Kubernetes
+- name: aiomisc
+  repo: aiokitchen/aiomisc
+  pypi: aiomisc
+  category: concurrency
+  description: Miscellaneous utils for asyncio
+- name: taskiq
+  repo: taskiq-python/taskiq
+  pypi: taskiq
+  category: task-queues
+  description: Asynchronous distributed task manager (like celery, but async)
+- name: curio
+  repo: dabeaz/curio
+  pypi: curio
+  category: alternatives
+  description: The coroutine concurrency library
+- name: trio
+  repo: python-trio/trio
+  pypi: trio
+  category: alternatives
+  description: Pythonic async I/O for humans and snake people
+- name: trio-asyncio
+  repo: python-trio/trio-asyncio
+  pypi: trio-asyncio
+  category: alternatives
+  description: re-implementation of the asyncio mainloop on top of Trio
+- name: AnyIO
+  repo: agronholm/anyio
+  pypi: anyio
+  category: alternatives
+  description: High level asynchronous concurrency and networking framework that works on top of either trio or asyncio
+- name: django-ninja
+  repo: vitalik/django-ninja
+  pypi: django-ninja
+  category: web-frameworks
+  description: Async-ready REST framework for Django, with type hints and Pydantic schemas
+- name: Litestar
+  repo: litestar-org/litestar
+  pypi: litestar
+  category: web-frameworks
+  description: Production-ready extensible ASGI framework with excellent performance and developer experience
+- name: granian
+  repo: emmett-framework/granian
+  pypi: granian
+  category: asgi-servers
+  description: HTTP server for Python with a Rust core, supporting ASGI, RSGI and WSGI
+- name: Hypercorn
+  repo: pgjones/hypercorn
+  pypi: hypercorn
+  category: asgi-servers
+  description: ASGI server based on Hyper libraries and inspired by Gunicorn
+- name: socketify
+  repo: cirospaciari/socketify.py
+  pypi: socketify
+  category: asgi-servers
+  description: HTTP and WebSocket server for PyPy3 and Python 3, built on uWebSockets
+- name: graphene
+  repo: graphql-python/graphene
+  pypi: graphene
+  category: graphql
+  description: GraphQL framework for Python with schema definition and query execution
+- name: aiortc
+  repo: aiortc/aiortc
+  pypi: aiortc
+  category: websockets-realtime
+  description: WebRTC and ORTC implementation using asyncio for real-time communication
+- name: python-socketio
+  repo: miguelgrinberg/python-socketio
+  pypi: python-socketio
+  category: websockets-realtime
+  description: Socket.IO server and client for bidirectional real-time communication
+- name: betterproto
+  repo: danielgtaylor/python-betterproto
+  pypi: betterproto
+  category: rpc
+  description: Code generator and library for Protocol Buffers with async gRPC support
+- name: grpclib
+  repo: vmagamedov/grpclib
+  pypi: grpclib
+  category: rpc
+  description: Pure-Python gRPC implementation for asyncio with full protocol support
+- name: fastapi-jsonrpc
+  repo: smagafurov/fastapi-jsonrpc
+  pypi: fastapi-jsonrpc
+  category: rpc
+  description: JSON-RPC 2.0 server framework built on FastAPI
+- name: faststream
+  repo: ag2ai/faststream
+  pypi: faststream
+  category: message-queues
+  description: Async client for Kafka, RabbitMQ, NATS, Redis and MQTT with AsyncAPI docs
+- name: aio-pika
+  repo: mosquito/aio-pika
+  pypi: aio-pika
+  category: message-queues
+  description: Asyncio wrapper for RabbitMQ built on aiormq for asyncio and humans
+- name: aiomqtt
+  repo: empicano/aiomqtt
+  pypi: aiomqtt
+  category: message-queues
+  description: Idiomatic asyncio MQTT client with type hints and async/await support
+- name: aiormq
+  repo: mosquito/aiormq
+  pypi: aiormq
+  category: message-queues
+  description: Pure python AMQP asynchronous client library for asyncio
+- name: arq
+  repo: python-arq/arq
+  pypi: arq
+  category: task-queues
+  description: Job queues and background tasks with asyncio and Redis
+- name: saq
+  repo: tobymao/saq
+  pypi: saq
+  category: task-queues
+  description: Distributed Python job queue with asyncio and redis architecture
+- name: streaq
+  repo: tastyware/streaq
+  pypi: streaq
+  category: task-queues
+  description: Typed distributed task queue for asyncio, backed by Redis streams
+- name: motor
+  repo: mongodb/motor
+  pypi: motor
+  category: database-drivers
+  description: Non-blocking MongoDB driver for asyncio and Tornado with native async/await
+- name: aiosqlite
+  repo: omnilib/aiosqlite
+  pypi: aiosqlite
+  category: database-drivers
+  description: Asyncio bridge to the standard sqlite3 module with complete async interface
+- name: asyncmy
+  repo: long2ice/asyncmy
+  pypi: asyncmy
+  category: database-drivers
+  description: The fastest asyncio MySQL/MariaDB driver for Python with pure async design
+- name: ormar
+  repo: ormar-orm/ormar
+  pypi: ormar
+  category: orm
+  description: Async ORM with fastapi in mind, pydantic validation and relational support
+- name: odmantic
+  repo: art049/odmantic
+  pypi: odmantic
+  category: orm
+  description: Sync and async ODM for MongoDB based on python type hints and pydantic
+- name: oxyde
+  repo: mr-fatalyst/oxyde
+  pypi: oxyde
+  category: orm
+  description: Async ORM for Python with a Rust core
+- name: edgy
+  repo: dymmond/edgy
+  pypi: edgy
+  category: orm
+  description: Perfect ORM for complex database queries with full async/await support
+- name: aiobotocore
+  repo: aio-libs/aiobotocore
+  pypi: aiobotocore
+  category: cloud-devops
+  description: Asyncio support for botocore library using aiohttp for AWS API access
+- name: aioboto3
+  repo: terricain/aioboto3
+  pypi: aioboto3
+  category: cloud-devops
+  description: Wrapper to use boto3 resources with the aiobotocore async backend
+- name: aiodocker
+  repo: aio-libs/aiodocker
+  pypi: aiodocker
+  category: cloud-devops
+  description: Python Docker API client based on asyncio and aiohttp
+- name: aioaws
+  repo: samuelcolvin/aioaws
+  pypi: aioaws
+  category: cloud-devops
+  description: Asyncio compatible SDK for AWS services
+- name: aiomultiprocess
+  repo: omnilib/aiomultiprocess
+  pypi: aiomultiprocess
+  category: concurrency
+  description: Run asyncio code across multiple processes
+- name: aiostream
+  repo: vxgmichel/aiostream
+  pypi: aiostream
+  category: concurrency
+  description: Generator-based operators for asynchronous iteration
+- name: aiorwlock
+  repo: aio-libs/aiorwlock
+  pypi: aiorwlock
+  category: concurrency
+  description: Read write lock for asyncio
+- name: aiotools
+  repo: achimnol/aiotools
+  pypi: aiotools
+  category: concurrency
+  description: Idiomatic asyncio utilities and helpers
+- name: asyncudp
+  repo: eerimoq/asyncudp
+  pypi: asyncudp
+  category: networking
+  description: Asyncio high level UDP sockets
+- name: winloop
+  repo: Vizonex/Winloop
+  pypi: winloop
+  category: event-loops
+  description: Alternative library for uvloop compatibility with Windows
+- name: pyuv
+  repo: saghul/pyuv
+  pypi: pyuv
+  category: event-loops
+  description: Python interface for libuv event loop implementation
+- name: discord.py
+  repo: Rapptz/discord.py
+  pypi: discord.py
+  category: bots-chat
+  description: Async API wrapper for Discord
+- name: python-telegram-bot
+  repo: python-telegram-bot/python-telegram-bot
+  pypi: python-telegram-bot
+  category: bots-chat
+  description: Fully asynchronous Python interface for Telegram Bot API with type hints
+- name: nonebot2
+  repo: nonebot/nonebot2
+  pypi: nonebot2
+  category: bots-chat
+  description: Cross-platform asynchronous chatbot framework supporting multiple backends
+- name: pyrogram
+  repo: pyrogram/pyrogram
+  pypi: pyrogram
+  category: bots-chat
+  description: Async Telegram MTProto API framework for users and bots
+- name: Textual
+  repo: Textualize/textual
+  pypi: textual
+  category: cli-tui
+  description: Framework for building terminal and web UIs with an async Python API
+- name: Crawlee
+  repo: apify/crawlee-python
+  pypi: crawlee
+  category: scraping-automation
+  description: Web scraping and automation library for crawlers, extracts data with proxy rotation
+- name: respx
+  repo: lundberg/respx
+  pypi: respx
+  category: testing
+  description: Mock HTTPX library with awesome patterns and side effects for testing async code
+- name: aiosmtplib
+  repo: cole/aiosmtplib
+  pypi: aiosmtplib
+  category: misc
+  description: Async SMTP client library for sending emails over asyncio
+- name: watchfiles
+  repo: samuelcolvin/watchfiles
+  pypi: watchfiles
+  category: misc
+  description: Async file system monitoring with a Rust backend
+- name: authlib
+  repo: lepture/authlib
+  pypi: authlib
+  category: auth-security
+  description: Ultimate Python library for building OAuth and OpenID Connect servers and clients
+- name: opentelemetry-api
+  repo: open-telemetry/opentelemetry-python
+  pypi: opentelemetry-api
+  category: observability
+  description: OpenTelemetry Python API for distributed tracing and metrics collection
+- name: aiogram
+  repo: aiogram/aiogram
+  pypi: aiogram
+  category: bots-chat
+  description: Modern asynchronous framework for Telegram Bot API
+- name: asyncer
+  repo: fastapi/asyncer
+  pypi: asyncer
+  category: concurrency
+  description: Utility library for working with asyncio coroutines and async/await syntax
+- name: aioredis-py
+  repo: aio-libs-abandoned/aioredis-py
+  category: database-drivers
+  description: Asyncio client for Redis
+- name: aioquic
+  repo: aiortc/aioquic
+  pypi: aioquic
+  category: networking
+  description: QUIC and HTTP/3 protocol implementation in Python
+- name: aiosql
+  repo: nackjicholson/aiosql
+  pypi: aiosql
+  category: database-drivers
+  description: Execute SQL queries asynchronously using asyncio
+- name: async-lru
+  repo: aio-libs/async-lru
+  pypi: async-lru
+  category: misc
+  description: LRU cache implementation for asyncio functions
+- name: aiojobs
+  repo: aio-libs/aiojobs
+  pypi: aiojobs
+  category: task-queues
+  description: Scheduler for managing background tasks with asyncio
+- name: aiogram_dialog
+  repo: Tishka17/aiogram_dialog
+  pypi: aiogram_dialog
+  category: bots-chat
+  description: GUI framework for Telegram bots built on aiogram
+- name: aiolimiter
+  repo: mjpieters/aiolimiter
+  pypi: aiolimiter
+  category: concurrency
+  description: Rate limiter implementation for asyncio tasks
+- name: aiomonitor
+  repo: aio-libs/aiomonitor
+  pypi: aiomonitor
+  category: observability
+  description: Monitor and REPL for asyncio applications
+- name: aiotieba
+  repo: lumina37/aiotieba
+  pypi: aiotieba
+  category: misc
+  description: Async client library for Baidu Tieba community platform
+- name: aiodnsbrute
+  repo: blark/aiodnsbrute
+  pypi: aiodnsbrute
+  category: networking
+  description: Async DNS brute force utility for discovering DNS records
+- name: aioprocessing
+  repo: dano/aioprocessing
+  pypi: aioprocessing
+  category: concurrency
+  description: Integration of multiprocessing module with asyncio for parallel execution
+- name: asyncmongo
+  repo: bitly/asyncmongo
+  pypi: asyncmongo
+  category: database-drivers
+  description: Async library for accessing MongoDB with tornado.ioloop
+- name: aiofile
+  repo: mosquito/aiofile
+  pypi: aiofile
+  category: files-io
+  description: Real asynchronous file operations with native support
+- name: async-timeout
+  repo: aio-libs-abandoned/async-timeout
+  category: concurrency
+  description: Asyncio-compatible timeout context manager
+- name: asyncio-redis
+  repo: jonathanslenders/asyncio-redis
+  pypi: asyncio-redis
+  category: database-drivers
+  description: Redis client library for Python asyncio
+- name: aioquant
+  repo: paulran/aioquant
+  category: misc
+  description: Event-driven framework for quantitative trading
+- name: aioconsole
+  repo: vxgmichel/aioconsole
+  pypi: aioconsole
+  category: cli-tui
+  description: Asynchronous console I/O for asyncio applications
+- name: aiograpi
+  repo: subzeroid/aiograpi
+  pypi: aiograpi
+  category: cloud-devops
+  description: Asynchronous client library for Instagram Private API
+- name: aiotasks
+  repo: cr0hn/aiotasks
+  pypi: aiotasks
+  category: task-queues
+  description: Async task manager that distributes coroutines like Celery
+- name: aiometer
+  repo: florimondmanca/aiometer
+  pypi: aiometer
+  category: concurrency
+  description: Concurrency scheduling library supporting asyncio and trio
+- name: aiosqlitepool
+  repo: slaily/aiosqlitepool
+  pypi: aiosqlitepool
+  category: database-drivers
+  description: Connection pool for async SQLite operations
+- name: aioreactive
+  repo: dbrattli/aioreactive
+  pypi: aioreactive
+  category: concurrency
+  description: Reactive programming utilities for async/await code
+- name: asyncstdlib
+  repo: maxfischer2781/asyncstdlib
+  pypi: asyncstdlib
+  category: misc
+  description: Async equivalents of itertools and functools
+- name: aiotg
+  repo: szastupov/aiotg
+  pypi: aiotg
+  category: bots-chat
+  description: Async client library for Telegram Bot API
+- name: aiocron
+  repo: gawel/aiocron
+  pypi: aiocron
+  category: task-queues
+  description: Crontab-style job scheduling for asyncio applications
+- name: aiosmtpd
+  repo: aio-libs/aiosmtpd
+  pypi: aiosmtpd
+  category: misc
+  description: SMTP server implementation based on asyncio
+- name: async-proxy-pool
+  repo: chenjiandongx/async-proxy-pool
+  category: scraping-automation
+  description: Asynchronous proxy pool for web scraping
+- name: aiowebsocket
+  repo: asyncins/aiowebsocket
+  pypi: aiowebsocket
+  category: websockets-realtime
+  description: Lightweight async WebSocket client library
+- name: aioredlock
+  repo: joanvila/aioredlock
+  pypi: aioredlock
+  category: concurrency
+  description: Distributed locking for asyncio using Redis
+- name: aiocqhttp
+  repo: nonebot/aiocqhttp
+  pypi: aiocqhttp
+  category: bots-chat
+  description: Async Python SDK for CQHTTP protocol
+- name: aiodataloader
+  repo: syrusakbary/aiodataloader
+  pypi: aiodataloader
+  category: misc
+  description: DataLoader batch utility for asyncio applications
+- name: aiocoap
+  repo: chrysn/aiocoap
+  pypi: aiocoap
+  category: networking
+  description: Constrained Application Protocol (CoAP) library for asyncio
+- name: aioitertools
+  repo: omnilib/aioitertools
+  pypi: aioitertools
+  category: concurrency
+  description: Async-compatible itertools and builtins for asyncio
+- name: aiohttp_retry
+  repo: inyutin/aiohttp_retry
+  pypi: aiohttp-retry
+  category: http-clients
+  description: Automatic retry mechanism for aiohttp requests
+- name: aiohttp-devtools
+  repo: aio-libs/aiohttp-devtools
+  pypi: aiohttp-devtools
+  category: misc
+  description: Development tools for aiohttp applications
+- name: aiochclient
+  repo: maximdanilchenko/aiochclient
+  pypi: aiochclient
+  category: database-drivers
+  description: Lightweight async HTTP ClickHouse client with type conversion
+- name: aiohttp-session
+  repo: aio-libs/aiohttp-session
+  pypi: aiohttp-session
+  category: web-frameworks
+  description: Session management for aiohttp web applications
+- name: asynch
+  repo: long2ice/asynch
+  pypi: asynch
+  category: database-drivers
+  description: Asyncio ClickHouse client with TCP interface
+- name: aiohttp-socks
+  repo: romis2012/aiohttp-socks
+  pypi: aiohttp_socks
+  category: http-clients
+  description: SOCKS and HTTP proxy connector for aiohttp
+- name: aioclock
+  repo: ManiMozaffar/aioclock
+  pypi: aioclock
+  category: task-queues
+  description: Scheduling framework with dependency injection for asyncio
+- name: aiohttp-security
+  repo: aio-libs/aiohttp-security
+  pypi: aiohttp-security
+  category: auth-security
+  description: Authentication and permissions for aiohttp
+- name: aiohttp-jinja2
+  repo: aio-libs/aiohttp-jinja2
+  pypi: aiohttp-jinja2
+  category: web-frameworks
+  description: Jinja2 template rendering support for aiohttp web applications
+- name: aiohttp-sse
+  repo: aio-libs/aiohttp-sse
+  pypi: aiohttp-sse
+  category: websockets-realtime
+  description: Server-sent events support for aiohttp
+- name: aiohttp-wsgi
+  repo: etianen/aiohttp-wsgi
+  pypi: aiohttp-wsgi
+  category: web-frameworks
+  description: WSGI adapter for aiohttp servers
+- name: aioauth
+  repo: aliev/aioauth
+  pypi: aioauth
+  category: auth-security
+  description: OAuth 2.0 server implementation for asyncio
+- name: aiohttp-apispec
+  repo: maximdanilchenko/aiohttp-apispec
+  pypi: aiohttp-apispec
+  category: web-frameworks
+  description: REST API documentation builder for aiohttp and apispec
+- name: aiogoogle
+  repo: omarryhan/aiogoogle
+  pypi: aiogoogle
+  category: cloud-devops
+  description: Asynchronous client library for Google API and authentication
+- name: aiohttp-cors
+  repo: aio-libs/aiohttp-cors
+  pypi: aiohttp-cors
+  category: web-frameworks
+  description: CORS support middleware for aiohttp
+- name: aiosmb
+  repo: skelsec/aiosmb
+  pypi: aiosmb
+  category: networking
+  description: Asynchronous SMB (Server Message Block) client library
+- name: aiohttp-admin
+  repo: aio-libs/aiohttp-admin
+  category: web-frameworks
+  description: Admin interface for aiohttp applications
+- name: aioxmpp
+  repo: horazont/aioxmpp
+  pypi: aioxmpp
+  category: networking
+  description: XMPP library for asyncio clients and servers
+- name: aioftp
+  repo: aio-libs/aioftp
+  pypi: aioftp
+  category: networking
+  description: FTP client and server for asyncio
+- name: aioflask
+  repo: miguelgrinberg/aioflask
+  pypi: aioflask
+  category: web-frameworks
+  description: Flask running on top of asyncio
+- name: aioesphomeapi
+  repo: esphome/aioesphomeapi
+  pypi: aioesphomeapi
+  category: iot-hardware
+  description: Async Python client for ESPHome native API
+- name: aiogram_calendar
+  repo: noXplode/aiogram_calendar
+  pypi: aiogram-calendar
+  category: bots-chat
+  description: Calendar widget for Telegram bots with aiogram
+- name: aioprometheus
+  repo: claws/aioprometheus
+  pypi: aioprometheus
+  category: observability
+  description: Prometheus metrics client library for asyncio applications
+- name: asyncio-socks-server
+  repo: Amaindex/asyncio-socks-server
+  pypi: asyncio-socks-server
+  category: networking
+  description: SOCKS5 server with asynchronous Python hooks
+- name: asyncorm
+  repo: monobot/asyncorm
+  pypi: asyncorm
+  category: orm
+  description: Fully asynchronous ORM inspired by Django with async/await support
+- name: aioimaplib
+  repo: iroco-co/aioimaplib
+  category: networking
+  description: Asyncio IMAP4rev1 client library
+- name: aiosonic
+  repo: sonic182/aiosonic
+  pypi: aiosonic
+  category: http-clients
+  description: Fast HTTP and WebSocket client for asyncio
+- name: aiosignal
+  repo: aio-libs/aiosignal
+  pypi: aiosignal
+  category: concurrency
+  description: List of registered asynchronous callbacks for event handling
+- name: aioch
+  repo: mymarilyn/aioch
+  pypi: aioch
+  category: database-drivers
+  description: ClickHouse database driver for asyncio
+- name: aiohomematic
+  repo: SukramJ/aiohomematic
+  pypi: aiohomematic
+  category: iot-hardware
+  description: Interface for asyncio interaction with HomeMatic devices
+- name: aioshadowsocks
+  repo: Ehco1996/aioshadowsocks
+  pypi: aioshadowsocks
+  category: networking
+  description: Shadowsocks proxy implementation using asyncio
+- name: aioapns
+  repo: Fatal1ty/aioapns
+  pypi: aioapns
+  category: bots-chat
+  description: Async client library for Apple Push Notification service
+- name: aioinflux
+  repo: gusutabopb/aioinflux
+  pypi: aioinflux
+  category: database-drivers
+  description: Async client library for InfluxDB time-series database
+- name: async-asgi-testclient
+  repo: vinissimus/async-asgi-testclient
+  pypi: async-asgi-testclient
+  category: testing
+  description: Framework-agnostic test client for ASGI applications
+- name: aiotask-context
+  repo: Skyscanner/aiotask-context
+  category: concurrency
+  description: Context management utilities for asyncio tasks
+- name: aiomcache
+  repo: aio-libs/aiomcache
+  pypi: aiomcache
+  category: database-drivers
+  description: Minimal asyncio memcached client
+- name: AsyncTorndb
+  repo: mayflaver/AsyncTorndb
+  category: database-drivers
+  description: Async MySQL client for Tornado with asyncio support
+- name: aiohttp-client-cache
+  repo: requests-cache/aiohttp-client-cache
+  pypi: aiohttp-client-cache
+  category: http-clients
+  description: Async persistent cache for aiohttp requests
+- name: asyncqt
+  repo: gmarull/asyncqt
+  pypi: asyncqt
+  category: misc
+  description: Integration of asyncio event loop with PyQt and PySide
+- name: asyncpraw
+  repo: praw-dev/asyncpraw
+  pypi: asyncpraw
+  category: http-clients
+  description: Async wrapper for Reddit API
+- name: aiologger
+  repo: async-worker/aiologger
+  pypi: aiologger
+  category: observability
+  description: Asynchronous logging handler for asyncio applications
+- name: aiomql
+  repo: Ichinga-Samuel/aiomql
+  pypi: aiomql
+  category: cloud-devops
+  description: Async client library for MetaTrader 5 trading platform
+- name: aiotdlib
+  repo: pylakey/aiotdlib
+  pypi: aiotdlib
+  category: bots-chat
+  description: Asynchronous Telegram client library based on TDLib
+- name: aioauth-client
+  repo: klen/aioauth-client
+  pypi: aioauth-client
+  category: auth-security
+  description: OAuth client library for aiohttp
+- name: aioserial.py
+  repo: johannjhang/aioserial.py
+  category: iot-hardware
+  description: Async wrapper for serial port communication
+- name: aioice
+  repo: aiortc/aioice
+  pypi: aioice
+  category: networking
+  description: Asyncio implementation of Interactive Connectivity Establishment
+- name: aioelasticsearch
+  repo: aio-libs/aioelasticsearch
+  pypi: aioelasticsearch
+  category: database-drivers
+  description: Async client for Elasticsearch
+- name: aiopandas
+  repo: telekinesis-inc/aiopandas
+  pypi: aiopandas
+  category: misc
+  description: Async support for Pandas map, apply and transform operations
+- name: asyncio-throttle
+  repo: hallazzang/asyncio-throttle
+  pypi: asyncio-throttle
+  category: concurrency
+  description: Simple rate limiter for asyncio applications
+- name: aioblescan
+  repo: frawau/aioblescan
+  pypi: aioblescan
+  category: iot-hardware
+  description: Scan and decode Bluetooth Low Energy advertising packets
+- name: aiov2_ctl
+  repo: hackergadgets/aiov2_ctl
+  category: iot-hardware
+  description: Control client for uConsole AIO v2 board
+- name: aionotify
+  repo: rbarrois/aionotify
+  pypi: aionotify
+  category: files-io
+  description: Asyncio wrapper for Linux inotify file system events
+- name: async_rithmic
+  repo: rundef/async_rithmic
+  pypi: async-rithmic
+  category: networking
+  description: Async client for Rithmic Protocol Buffer API
+- name: asyncio-pool
+  repo: gistart/asyncio-pool
+  pypi: asyncio-pool
+  category: concurrency
+  description: Worker pool for asyncio with multiprocessing and threading support
+- name: aiosocks
+  repo: nibrag/aiosocks
+  pypi: aiosocks
+  category: networking
+  description: SOCKS proxy client implementation for asyncio
+- name: asyncio-buffered-pipeline
+  repo: michalc/asyncio-buffered-pipeline
+  pypi: asyncio-buffered-pipeline
+  category: concurrency
+  description: Utility for parallelizing asyncio iterator pipelines
+- name: aiohttp-graphql
+  repo: graphql-python/aiohttp-graphql
+  pypi: aiohttp-graphql
+  category: graphql
+  description: GraphQL support integration for aiohttp web applications
+- name: aioscpy
+  repo: ihandmine/aioscpy
+  pypi: aioscpy
+  category: scraping-automation
+  description: Async web scraper imitating scrapy patterns
+- name: aiogrpc
+  repo: hubo1016/aiogrpc
+  pypi: aiogrpc
+  category: rpc
+  description: Asyncio wrapper for gRPC
+- name: asyncache
+  repo: hephex/asyncache
+  pypi: asyncache
+  category: misc
+  description: Wrapper for cachetools library to work with async functions
+- name: asyncmcp
+  repo: bh-rat/asyncmcp
+  pypi: asyncmcp
+  category: networking
+  description: Async transport layers for MCP
+- name: aiocomfoconnect
+  repo: michaelarnauts/aiocomfoconnect
+  pypi: aiocomfoconnect
+  category: iot-hardware
+  description: Zehnder ComfoConnect interface for home ventilation systems
+- name: aiosteampy
+  repo: somespecialone/aiosteampy
+  pypi: aiosteampy
+  category: http-clients
+  description: Manage Steam sessions and trading with asyncio
+- name: async-cache
+  repo: iamsinghrajat/async-cache
+  pypi: async-cache
+  category: misc
+  description: Caching solution for asyncio applications
+- name: aiops-modules
+  repo: awslabs/aiops-modules
+  category: cloud-devops
+  description: Reusable IaC modules for ML and GenAI on AWS
+- name: aiomoex
+  repo: WLM1ke/aiomoex
+  pypi: aiomoex
+  category: cloud-devops
+  description: Async client for Moscow Stock Exchange ISS API
+- name: async_generator
+  repo: python-trio/async_generator
+  pypi: async_generator
+  category: concurrency
+  description: Backward compatibility for async generators from Python 3.5
+- name: aiocryptopay
+  repo: layerqa/aiocryptopay
+  pypi: aiocryptopay
+  category: bots-chat
+  description: Asynchronous client for Telegram Crypto Pay API
+- name: asyncpy
+  repo: lixi5338619/asyncpy
+  pypi: asyncpy
+  category: scraping-automation
+  description: Lightweight async web scraping framework
+- name: asyncwhois
+  repo: pogzyb/asyncwhois
+  pypi: asyncwhois
+  category: networking
+  description: Async WHOIS and RDAP client for domain information
+- name: aioes
+  repo: aio-libs-abandoned/aioes
+  category: database-drivers
+  description: Elasticsearch client driver for asyncio
+- name: aioify
+  repo: perkfly/aioify
+  category: misc
+  description: Make functions async and awaitable
+- name: aiovk
+  repo: alexanderlarin/aiovk
+  pypi: aiovk
+  category: cloud-devops
+  description: Async client library for VKontakte (VK.com) API
+- name: aiodynamo
+  repo: HENNGE/aiodynamo
+  category: database-drivers
+  description: Asynchronous DynamoDB client with Pythonic API
+- name: async-tkinter-loop
+  repo: insolor/async-tkinter-loop
+  pypi: async-tkinter-loop
+  category: cli-tui
+  description: Async event loop integration for tkinter GUI applications
+- name: aiologic
+  repo: x42005e1f/aiologic
+  pypi: aiologic
+  category: concurrency
+  description: GIL-powered locking library for asyncio
+- name: aioalice
+  repo: mahenzon/aioalice
+  pypi: aioAlice
+  category: bots-chat
+  description: Async library for Yandex Dialogs API
+- name: aiounifi
+  repo: Kane610/aiounifi
+  pypi: aiounifi
+  category: iot-hardware
+  description: Library for communicating with Ubiquiti UniFi controllers
+- name: asynckivy
+  repo: asyncgui/asynckivy
+  pypi: asynckivy
+  category: iot-hardware
+  description: Async support library for Kivy framework
+- name: aiosip
+  repo: Eyepea/aiosip
+  pypi: aiosip
+  category: networking
+  description: SIP protocol support for asyncio
+- name: aiohttp-remotes
+  repo: aio-libs/aiohttp-remotes
+  pypi: aiohttp-remotes
+  category: web-frameworks
+  description: Tools for aiohttp.web servers
+- name: aiocassandra
+  repo: aio-libs/aiocassandra
+  pypi: aiocassandra
+  category: database-drivers
+  description: Cassandra database driver for asyncio
+- name: aionion
+  repo: ultrafunkamsterdam/aionion
+  category: networking
+  description: Proxy pool with request rotation for requests and aiohttp
+- name: asyncio-gevent
+  repo: gfmio/asyncio-gevent
+  pypi: asyncio-gevent
+  category: alternatives
+  description: Asyncio and gevent interoperability
+- name: asynctnt
+  repo: igorcoding/asynctnt
+  pypi: asynctnt
+  category: database-drivers
+  description: Async connector for Tarantool database
+- name: aioshelly
+  repo: home-assistant-libs/aioshelly
+  pypi: aioshelly
+  category: iot-hardware
+  description: Control Shelly smart home devices via asyncio
+- name: AsyncFlow
+  repo: AsyncFlow-Sim/AsyncFlow
+  category: misc
+  description: Simulator for async distributed systems
+- name: aiocfscrape
+  repo: pavlodvornikov/aiocfscrape
+  pypi: aiocfscrape
+  category: scraping-automation
+  description: Async module to bypass Cloudflare anti-bot protection
+- name: asyncmq
+  repo: dymmond/asyncmq
+  pypi: asyncmq
+  category: task-queues
+  description: Asynchronous task queue framework
+- name: asyncpool
+  repo: CaliDog/asyncpool
+  pypi: asyncpool
+  category: concurrency
+  description: Coroutine worker pool for managing concurrent asyncio tasks
+- name: aioh2
+  repo: decentfox/aioh2
+  pypi: aioh2
+  category: networking
+  description: HTTP/2 implementation for asyncio
+- name: aiorpc
+  repo: choleraehyq/aiorpc
+  pypi: aiorpc
+  category: rpc
+  description: Fast Python RPC library based on asyncio and MessagePack
+- name: aiopyramid
+  repo: housleyjk/aiopyramid
+  pypi: aiopyramid
+  category: web-frameworks
+  description: Run Pyramid web framework with asyncio support
+- name: aiohttp-jwt
+  repo: hzlmn/aiohttp-jwt
+  pypi: aiohttp-jwt
+  category: auth-security
+  description: JSON Web Token middleware for aiohttp
+- name: aiocogeo
+  repo: geospatial-jeff/aiocogeo
+  pypi: aiocogeo
+  category: files-io
+  description: Async reader for Cloud Optimized GeoTIFF files
+- name: aiohue
+  repo: home-assistant-libs/aiohue
+  pypi: aiohue
+  category: iot-hardware
+  description: Control Philips Hue devices using asyncio
+- name: aiohttp-pydantic
+  repo: Maillol/aiohttp-pydantic
+  pypi: aiohttp-pydantic
+  category: web-frameworks
+  description: Request validation with Pydantic for aiohttp
+- name: aio_energy_management
+  repo: kotope/aio_energy_management
+  category: iot-hardware
+  description: Home Assistant integration for energy management
+- name: aiotinydb
+  repo: aiotinydb/aiotinydb
+  pypi: aiotinydb
+  category: database-drivers
+  description: Asyncio compatibility wrapper for TinyDB
+- name: aiocsv
+  repo: MKuranowski/aiocsv
+  pypi: aiocsv
+  category: files-io
+  description: Asynchronous CSV reading and writing
+- name: async_dns
+  repo: gera2ld/async_dns
+  pypi: async-dns
+  category: networking
+  description: DNS resolver library built on asyncio
+- name: aiosnow
+  repo: rbw/aiosnow
+  pypi: aiosnow
+  category: cloud-devops
+  description: Asynchronous client library for ServiceNow API
+- name: aiohomekit
+  repo: Jc2k/aiohomekit
+  pypi: aiohomekit
+  category: iot-hardware
+  description: Asyncio support for HomeKit protocol
+- name: aio-scrapy
+  repo: ConlinH/aio-scrapy
+  pypi: aio-scrapy
+  category: scraping-automation
+  description: Web scraper implementing scrapy patterns with asyncio
+- name: aiogram_tests
+  repo: OCCASS/aiogram_tests
+  category: testing
+  description: Test utilities and fixtures for aiogram bot framework
+- name: async_dropbox
+  repo: bdarnell/async_dropbox
+  category: cloud-devops
+  description: Async client for Dropbox API
+- name: aiouv
+  repo: saghul/aiouv
+  pypi: aiouv
+  category: event-loops
+  description: Event loop implementation compatible with PEP-3156 asyncio specification
+- name: aioslsk
+  repo: JurgenR/aioslsk
+  pypi: aioslsk
+  category: networking
+  description: SoulSeek client library using asyncio
+- name: AsyncDB
+  repo: JimChengLin/AsyncDB
+  category: database-drivers
+  description: In-memory async database implementation with B-Tree structure
+- name: aiograph
+  repo: aiogram/aiograph
+  pypi: aiograph
+  category: bots-chat
+  description: Async Telegra.ph API wrapper
+- name: aiodnsresolver
+  repo: michalc/aiodnsresolver
+  pypi: aiodnsresolver
+  category: networking
+  description: DNS resolver implementation for asyncio
+- name: asyncio_extras
+  repo: agronholm/asyncio_extras
+  pypi: asyncio_extras
+  category: concurrency
+  description: Async generators, context managers and utilities for asyncio
+- name: asyncz
+  repo: dymmond/asyncz
+  pypi: asyncz
+  category: task-queues
+  description: Task scheduler and cron-like job executor for asyncio
+- name: aiohttp_chromium
+  repo: milahu/aiohttp_chromium
+  category: scraping-automation
+  description: Aiohttp-like interface to Chromium
+- name: aiohttp-swagger3
+  repo: hh-h/aiohttp-swagger3
+  pypi: aiohttp-swagger3
+  category: web-frameworks
+  description: OpenAPI 3.0 documentation and validation for aiohttp applications
+- name: aio-celery
+  repo: earlgreyness/aio-celery
+  pypi: aio-celery
+  category: task-queues
+  description: Celery worker for running asyncio coroutines
+- name: aio-vextractor
+  repo: panoslin/aio-vextractor
+  category: scraping-automation
+  description: Video information parser for multiple platforms
+- name: aiosend
+  repo: vovchic17/aiosend
+  pypi: aiosend
+  category: cloud-devops
+  description: Asynchronous client for Crypto Pay API
+- name: aioinject
+  repo: notypecheck/aioinject
+  pypi: aioinject
+  category: concurrency
+  description: Async-first dependency injection library for Python
+- name: async-spider
+  repo: waahah/async-spider
+  category: scraping-automation
+  description: Async web scraper for downloading content
+- name: aiounittest
+  repo: kwarunek/aiounittest
+  pypi: aiounittest
+  category: testing
+  description: Test framework for Python asyncio code
+- name: async-pmtiles
+  repo: developmentseed/async-pmtiles
+  pypi: async-pmtiles
+  category: files-io
+  description: Async PMTiles reader for Python
+- name: async-geotiff
+  repo: developmentseed/async-geotiff
+  pypi: async-geotiff
+  category: files-io
+  description: Async reader for GeoTIFF and Cloud Optimized GeoTIFF files
+- name: aioetherscan
+  repo: ape364/aioetherscan
+  pypi: aioetherscan
+  category: http-clients
+  description: Async wrapper for Etherscan blockchain API
+- name: aiologstash
+  repo: aio-libs/aiologstash
+  pypi: aiologstash
+  category: observability
+  description: Asyncio logging handler for Logstash integration
+- name: aiortsp
+  repo: marss/aiortsp
+  pypi: aiortsp
+  category: networking
+  description: RTSP library using asyncio
+- name: aiodl
+  repo: cshuaimin/aiodl
+  pypi: aiodl
+  category: files-io
+  description: Asynchronous download utility
+- name: aiocontextvars
+  repo: fantix/aiocontextvars
+  pypi: aiocontextvars
+  category: misc
+  description: Asyncio support for contextvars backport
+- name: async_upnp_client
+  repo: StevenLooman/async_upnp_client
+  pypi: async-upnp-client
+  category: iot-hardware
+  description: Async client for UPnP (Universal Plug and Play) devices
+- name: asyncio-dgram
+  repo: jsbronder/asyncio-dgram
+  pypi: asyncio-dgram
+  category: networking
+  description: Higher level UDP datagram support for asyncio
+- name: aioamazondevices
+  repo: chemelli74/aioamazondevices
+  pypi: aioamazondevices
+  category: iot-hardware
+  description: Async library for controlling Amazon smart home devices
+- name: aiowebostv
+  repo: home-assistant-libs/aiowebostv
+  pypi: aiowebostv
+  category: iot-hardware
+  description: Async library to control LG webOS-based TVs
+- name: aiomqtt
+  repo: mossblaser/aiomqtt
+  category: message-queues
+  description: Async wrapper for paho-mqtt
+- name: aiohttp-json-rpc
+  repo: pengutronix/aiohttp-json-rpc
+  pypi: aiohttp-json-rpc
+  category: rpc
+  description: JSON-RPC 2.0 server implementation for aiohttp
+- name: aiohttp-requests
+  repo: maxzheng/aiohttp-requests
+  pypi: aiohttp-requests
+  category: http-clients
+  description: Thin wrapper for aiohttp with requests-like API
+- name: asyncdb
+  repo: phenobarbital/asyncdb
+  pypi: asyncdb
+  category: database-drivers
+  description: Generic asynchronous database connectors for multiple backends
+- name: aioqzone
+  repo: aioqzone/aioqzone
+  pypi: aioqzone
+  category: cloud-devops
+  description: Async client library for Qzone social network API
+- name: aiosnmp
+  repo: hh-h/aiosnmp
+  pypi: aiosnmp
+  category: networking
+  description: Async SNMP client and trap server for asyncio
+- name: asyncio-redis-rate-limit
+  repo: wemake-services/asyncio-redis-rate-limit
+  pypi: asyncio-redis-rate-limit
+  category: concurrency
+  description: Rate limiting utility using Redis backend for asyncio
+- name: aiobungie
+  repo: nxtlo/aiobungie
+  pypi: aiobungie
+  category: http-clients
+  description: Async Bungie API wrapper
+- name: aiohttp-middlewares
+  repo: playpauseandstop/aiohttp-middlewares
+  pypi: aiohttp-middlewares
+  category: web-frameworks
+  description: Middleware collection for aiohttp web applications
+- name: aiodine
+  repo: bocadilloproject/aiodine
+  pypi: aiodine
+  category: concurrency
+  description: Async-first Python dependency injection library
+- name: aio-mc-rcon
+  repo: Iapetus-11/aio-mc-rcon
+  pypi: aio-mc-rcon
+  category: misc
+  description: Asynchronous RCON client for Minecraft server administration
+- name: aiozk
+  repo: micro-fan/aiozk
+  pypi: aiozk
+  category: cloud-devops
+  description: Async client for Apache ZooKeeper
+- name: aiosendspin
+  repo: Sendspin/aiosendspin
+  category: misc
+  description: Async library implementing the Sendspin protocol
+- name: aiopokeapi
+  repo: beastmatser/aiopokeapi
+  pypi: aiopokeapi
+  category: cloud-devops
+  description: Asynchronous wrapper for Pokemon API
+- name: aiohttp-login
+  repo: imbolc/aiohttp-login
+  pypi: aiohttp-login
+  category: auth-security
+  description: Registration and authorization for aiohttp apps
+- name: aiogram-media-group
+  repo: deptyped/aiogram-media-group
+  pypi: aiogram-media-group
+  category: bots-chat
+  description: Handler for Telegram media groups and albums
+- name: asynction
+  repo: dedoussis/asynction
+  pypi: asynction
+  category: web-frameworks
+  description: SocketIO framework for asyncio driven by AsyncAPI specification
+- name: aioshutil
+  repo: kumaraditya303/aioshutil
+  pypi: aioshutil
+  category: files-io
+  description: Async equivalents of shutil functions
+- name: asyncpg-stubs
+  repo: bryanforbes/asyncpg-stubs
+  pypi: asyncpg-stubs
+  category: testing
+  description: Type stubs for the asyncpg PostgreSQL driver
+- name: aiotuya
+  repo: frawau/aiotuya
+  pypi: aiotuya
+  category: iot-hardware
+  description: Async library for LAN control of Tuya devices
+- name: aiogram-tonconnect
+  repo: nessshon/aiogram-tonconnect
+  pypi: aiogram-tonconnect
+  category: bots-chat
+  description: TON Connect UI integration library for aiogram Telegram bots
+- name: aiohttp_validate
+  repo: dchaplinsky/aiohttp_validate
+  pypi: aiohttp-validate
+  category: web-frameworks
+  description: JSON schema validation library for aiohttp
+- name: asyncoro
+  repo: pgiri/asyncoro
+  pypi: asyncoro
+  category: alternatives
+  description: Framework for asynchronous distributed concurrent network programming
+- name: aiohttp-sse-client
+  repo: rtfol/aiohttp-sse-client
+  pypi: aiohttp-sse-client
+  category: websockets-realtime
+  description: Server-Sent Events (SSE) client library for aiohttp
+- name: async-firebase
+  repo: healthjoy/async-firebase
+  pypi: async-firebase
+  category: cloud-devops
+  description: Lightweight async client for Firebase Cloud Messaging
+- name: aiopvpc
+  repo: azogue/aiopvpc
+  pypi: aiopvpc
+  category: cloud-devops
+  description: Library for fetching Spanish electricity hourly prices from PVPC API
+- name: aiohttp-utils
+  repo: sloria/aiohttp-utils
+  pypi: aiohttp-utils
+  category: web-frameworks
+  description: Utility functions for aiohttp web development
+- name: asyncinotify
+  repo: ProCern/asyncinotify
+  pypi: asyncinotify
+  category: files-io
+  description: Async inotify module for file system monitoring
+- name: asyncpg-listen
+  repo: anna-money/asyncpg-listen
+  pypi: asyncpg-listen
+  category: database-drivers
+  description: Simplify PostgreSQL LISTEN notifications with asyncpg
+- name: aiosfstream
+  repo: robertmrk/aiosfstream
+  pypi: aiosfstream
+  category: http-clients
+  description: Salesforce Streaming API client for asyncio
+- name: aiohappyeyeballs
+  repo: aio-libs/aiohappyeyeballs
+  pypi: aiohappyeyeballs
+  category: networking
+  description: Happy Eyeballs IPv4/IPv6 connection algorithm for asyncio
+- name: aioworkers
+  repo: aioworkers/aioworkers
+  pypi: aioworkers
+  category: task-queues
+  description: Configurable worker framework based on asyncio
+- name: aiopeewee
+  repo: kszucs/aiopeewee
+  pypi: aiopeewee
+  category: orm
+  description: Asyncio integration for Peewee ORM
+- name: asyncpal
+  repo: pyrustic/asyncpal
+  pypi: asyncpal
+  category: concurrency
+  description: Concurrency and parallelism utilities for asyncio
+- name: asyncapi-python
+  repo: dutradda/asyncapi-python
+  category: misc
+  description: Publish events from asyncapi specification
+- name: aiohttp-cache
+  repo: cr0hn/aiohttp-cache
+  pypi: aiohttp-cache
+  category: web-frameworks
+  description: Caching system for aiohttp server responses
+- name: aiohttp-ip-rotator
+  repo: D4rkwat3r/aiohttp-ip-rotator
+  pypi: aiohttp-ip-rotator
+  category: http-clients
+  description: Async IP rotation library for aiohttp
+- name: async-pubmed-scraper
+  repo: IliaZenkov/async-pubmed-scraper
+  category: scraping-automation
+  description: Async scraper for PubMed article search and extraction
+- name: async-btree
+  repo: geronimo-iia/async-btree
+  pypi: async_btree
+  category: misc
+  description: Asynchronous behavior tree implementation for Python
+- name: Async-Poe-Client
+  repo: canxin121/Async-Poe-Client
+  category: http-clients
+  description: Async client for poe.com
+- name: asyncvnc
+  repo: barneygale/asyncvnc
+  pypi: asyncvnc
+  category: iot-hardware
+  description: Asynchronous VNC client for Python
+- name: aiogremlin
+  repo: davebshow/aiogremlin
+  pypi: aiogremlin
+  category: database-drivers
+  description: Async Gremlin client for Python
+- name: aiothrift
+  repo: ryanwang520/aiothrift
+  pypi: aiothrift
+  category: rpc
+  description: Thrift protocol support for asyncio
+- name: aiorospy
+  repo: locusrobotics/aiorospy
+  category: iot-hardware
+  description: Asyncio wrapper for ROS Python client
+- name: aiomax
+  repo: dpnspn/aiomax
+  pypi: aiomax
+  category: bots-chat
+  description: Asynchronous framework for Max Bot API
+- name: AIonDemandCluster
+  repo: jhammant/AIonDemandCluster
+  pypi: aiondemandcluster
+  category: cloud-devops
+  description: GPU cluster manager with Claude Code integration
+- name: asyncari
+  repo: M-o-a-T/asyncari
+  pypi: asyncari
+  category: iot-hardware
+  description: Asterisk telephony API wrapper for Trio and asyncio
+- name: aioauth-fastapi
+  repo: aliev/aioauth-fastapi
+  pypi: aioauth-fastapi
+  category: auth-security
+  description: Integration of aioauth authentication with FastAPI framework
+- name: aiokef
+  repo: basnijholt/aiokef
+  pypi: aiokef
+  category: iot-hardware
+  description: Asyncio Python API for KEF speakers
+- name: aiohttp_apiset
+  repo: aamalev/aiohttp_apiset
+  pypi: aiohttp-apiset
+  category: web-frameworks
+  description: Swagger/OpenAPI specification-based routing for aiohttp
+- name: aiochannel
+  repo: tudborg/aiochannel
+  pypi: aiochannel
+  category: concurrency
+  description: Closable queues (channels) for Python asyncio
+- name: async-agentic-tools
+  repo: mikegc-aws/async-agentic-tools
+  category: misc
+  description: Background task execution framework for AI agents
+- name: aiotarantool
+  repo: shveenkov/aiotarantool
+  pypi: aiotarantool
+  category: database-drivers
+  description: Asynchronous connector for Tarantool database
+- name: AsyncPayments
+  repo: I-ToSa-I/AsyncPayments
+  pypi: AsyncPayments
+  category: cloud-devops
+  description: Async payment processing library
+- name: aioswitcher
+  repo: TomerFi/aioswitcher
+  pypi: aioswitcher
+  category: iot-hardware
+  description: Control Switcher smart devices via asyncio
+- name: asynciolimiter
+  repo: bharel/asynciolimiter
+  pypi: asynciolimiter
+  category: concurrency
+  description: Rate limiter for asyncio applications
+- name: aioedgeos
+  repo: brontide/aioedgeos
+  category: cloud-devops
+  description: Asynchronous API client for EdgeOS device management
+- name: async-class
+  repo: mosquito/async-class
+  pypi: async-class
+  category: misc
+  description: Async constructor support for Python classes
+- name: async-batcher
+  repo: hussein-awala/async-batcher
+  pypi: async-batcher
+  category: http-clients
+  description: HTTP request batching service for asyncio
+- name: AIOD-rest-api
+  repo: aiondemand/AIOD-rest-api
+  category: web-frameworks
+  description: REST API services for AIoD metadata catalog and authentication
+- name: aiotractive
+  repo: zhulik/aiotractive
+  pypi: aiotractive
+  category: http-clients
+  description: Async client for Tractive REST API
+- name: AioContext
+  repo: sqreen/AioContext
+  pypi: aiocontext
+  category: concurrency
+  description: Context storage and management for asyncio applications
+- name: aio-openapi
+  repo: quantmind/aio-openapi
+  pypi: aio-openapi
+  category: web-frameworks
+  description: OpenAPI-compliant REST server framework with async support
+- name: asyncinject
+  repo: simonw/asyncinject
+  pypi: asyncinject
+  category: testing
+  description: Async workflow execution with pytest-style dependency injection
+- name: async-stripe
+  repo: bhch/async-stripe
+  pypi: async-stripe
+  category: http-clients
+  description: Async wrapper around Stripe official Python library
+- name: aioaria2
+  repo: synodriver/aioaria2
+  pypi: aioaria2
+  category: http-clients
+  description: Async wrapper for aria2-json-rpc
+- name: asyncio-glib
+  repo: jhenstridge/asyncio-glib
+  pypi: asyncio-glib
+  category: event-loops
+  description: Python asyncio event loop implementation on top of GLib
+- name: aiofcm
+  repo: Fatal1ty/aiofcm
+  pypi: aiofcm
+  category: cloud-devops
+  description: Firebase Cloud Messaging (FCM) client for asyncio
+- name: aioScrapy
+  repo: bytebuff/aioScrapy
+  category: scraping-automation
+  description: Async web scraper framework based on asyncio
+- name: aioambient
+  repo: bachya/aioambient
+  pypi: aioambient
+  category: cloud-devops
+  description: Asynchronous client for Ambient Weather API
+- name: aioetcd3
+  repo: gaopeiliang/aioetcd3
+  pypi: aioetcd3
+  category: database-drivers
+  description: Async etcd3 client
+- name: aiofastnet
+  repo: aio-libs/aiofastnet
+  pypi: aiofastnet
+  category: networking
+  description: Ultra-fast TCP networking with kernel TLS for asyncio
+- name: aiorest-ws
+  repo: Relrin/aiorest-ws
+  pypi: aiorest-ws
+  category: web-frameworks
+  description: REST framework with WebSocket support
+- name: aioamqp_consumer
+  repo: aio-libs/aioamqp_consumer
+  pypi: aioamqp_consumer
+  category: message-queues
+  description: Consumer, producer and RPC utilities built on aioamqp
+- name: aiohttp-sentry
+  repo: underyx/aiohttp-sentry
+  pypi: aiohttp-sentry
+  category: observability
+  description: Sentry error reporting middleware for aiohttp
+- name: AsyncLine
+  repo: Alnyz/AsyncLine
+  category: bots-chat
+  description: Async client library for LINE Bot Messaging API
+- name: AsyncIRC
+  repo: kageurufu/AsyncIRC
+  pypi: AsyncIRC
+  category: networking
+  description: Buffered non-blocking IRC client library
+- name: asyncom
+  repo: vinissimus/asyncom
+  pypi: asyncom
+  category: orm
+  description: Asynchronous Python object mapper for database operations
+- name: aiohttp-xmlrpc
+  repo: mosquito/aiohttp-xmlrpc
+  pypi: aiohttp-xmlrpc
+  category: rpc
+  description: XML-RPC implementation for aiohttp
+- name: aiocouch
+  repo: metricq/aiocouch
+  pypi: aiocouch
+  category: database-drivers
+  description: Async client library for CouchDB NoSQL database
+- name: aiodogstatsd
+  repo: Gr1N/aiodogstatsd
+  pypi: aiodogstatsd
+  category: observability
+  description: Async StatsD client with DogStatsD extension
+- name: aiopyql
+  repo: codemation/aiopyql
+  pypi: aiopyql
+  category: orm
+  description: Async ORM for RDBMS with Python
+- name: asynckafka
+  repo: jmf-mordis/asynckafka
+  pypi: asynckafka
+  category: message-queues
+  description: Kafka client for asyncio
+- name: async-flask-sqlalchemy-postgresql
+  repo: sixu05202004/async-flask-sqlalchemy-postgresql
+  category: database-drivers
+  description: Async PostgreSQL database connector
+- name: async_yookassa
+  repo: proDreams/async_yookassa
+  pypi: async_yookassa
+  category: cloud-devops
+  description: Asynchronous client library for YooKassa payment API
+- name: async-utils
+  repo: mikeshardmind/async-utils
+  category: concurrency
+  description: Collection of async utilities
+- name: aiohttp-s3-client
+  repo: aiokitchen/aiohttp-s3-client
+  pypi: aiohttp-s3-client
+  category: cloud-devops
+  description: Async AWS S3 client for aiohttp
+- name: aiotunnel
+  repo: codepr/aiotunnel
+  category: networking
+  description: HTTP tunnel implementation using aiohttp and asyncio
+- name: aioyagmail
+  repo: kootenpv/aioyagmail
+  pypi: aioyagmail
+  category: misc
+  description: Async email sending with Gmail
+- name: aioutils
+  repo: observerss/aioutils
+  pypi: aioutils
+  category: misc
+  description: Utility functions for asyncio development
+- name: async-downloader
+  repo: ShichaoMa/async-downloader
+  pypi: async-downloader
+  category: files-io
+  description: Async downloader utility
+- name: async-django-email
+  repo: python019/async-django-email
+  category: misc
+  description: Async email support for Django
+- name: aiohttp-mako
+  repo: aio-libs-abandoned/aiohttp-mako
+  category: web-frameworks
+  description: Mako template support for aiohttp web framework
+- name: aiopipe
+  repo: kchmck/aiopipe
+  pypi: aiopipe
+  category: concurrency
+  description: Multiprocess communication pipes for asyncio
+- name: aiosocksy
+  repo: romis2012/aiosocksy
+  pypi: aiosocksy
+  category: networking
+  description: SOCKS proxy client for aiohttp
+- name: aiostratum_proxy
+  repo: wetblanketcc/aiostratum_proxy
+  pypi: aiostratum-proxy
+  category: networking
+  description: Modular Stratum mining proxy protocol implementation
+- name: aiowmi
+  repo: cesbit/aiowmi
+  pypi: aiowmi
+  category: iot-hardware
+  description: Async Windows Management Instrumentation queries
+- name: aiotiktok
+  repo: sheldygg/aiotiktok
+  pypi: aiotiktok
+  category: cloud-devops
+  description: Asynchronous client library for TikTok API
+- name: aiomanhole
+  repo: nhoad/aiomanhole
+  category: observability
+  description: Manhole for accessing asyncio applications
+- name: aiomixcloud
+  repo: amikrop/aiomixcloud
+  pypi: aiomixcloud
+  category: cloud-devops
+  description: Async client library for Mixcloud API
+- name: aiorpcX
+  repo: kyuupichan/aiorpcX
+  pypi: aiorpcX
+  category: rpc
+  description: Generic async RPC implementation
+- name: aiobmsble
+  repo: patman15/aiobmsble
+  pypi: aiobmsble
+  category: iot-hardware
+  description: Async library for querying BMS (battery management systems) via Bluetooth
+- name: aioaquarea
+  repo: cjaliaga/aioaquarea
+  pypi: aioaquarea
+  category: iot-hardware
+  description: Control Panasonic Aquarea heat pump devices asynchronously
+- name: aiographql-client
+  repo: abn/aiographql-client
+  pypi: aiographql-client
+  category: graphql
+  description: GraphQL client for aiohttp
+- name: aiobreaker
+  repo: arlyon/aiobreaker
+  pypi: aiobreaker
+  category: concurrency
+  description: Circuit breaker pattern implementation for asyncio
+- name: aioscheduler
+  repo: Gelbpunkt/aioscheduler
+  pypi: aioscheduler
+  category: task-queues
+  description: Scalable task scheduler for asyncio
+- name: aiogithubapi
+  repo: ludeeus/aiogithubapi
+  pypi: aiogithubapi
+  category: http-clients
+  description: Async GitHub API client library
+- name: aiogcd
+  repo: cesbit/aiogcd
+  pypi: aiogcd
+  category: cloud-devops
+  description: Async Google Cloud Datastore client
+- name: aioraft
+  repo: lisael/aioraft
+  pypi: aioraft
+  category: concurrency
+  description: RAFT consensus algorithm implementation for asyncio
+- name: aiocmd
+  repo: KimiNewt/aiocmd
+  pypi: aiocmd
+  category: cli-tui
+  description: Automatic CLI builder using asyncio and prompt-toolkit
+- name: async_cron
+  repo: aohan237/async_cron
+  pypi: async-cron
+  category: task-queues
+  description: Crontab scheduler for Python asyncio
+- name: aioharmony
+  repo: Harmony-Libs/aioharmony
+  pypi: aioharmony
+  category: iot-hardware
+  description: Async library for controlling Logitech Harmony devices
+- name: aioneo4j
+  repo: aio-libs/aioneo4j
+  category: database-drivers
+  description: Asynchronous client driver for Neo4j graph database
+- name: aiosseclient
+  repo: ebraminio/aiosseclient
+  pypi: aiosseclient
+  category: http-clients
+  description: Async Server-Sent Events client
+- name: aiopytesseract
+  repo: amenezes/aiopytesseract
+  pypi: aiopytesseract
+  category: scraping-automation
+  description: Async wrapper for Tesseract OCR text extraction
+- name: aiobtdht
+  repo: bashkirtsevich-llc/aiobtdht
+  category: networking
+  description: Async BitTorrent DHT server implementation
+- name: aiohttp-rpc
+  repo: michael-sulyak/aiohttp-rpc
+  pypi: aiohttp-rpc
+  category: rpc
+  description: JSON-RPC 2.0 implementation for aiohttp
+- name: aiogram-forms
+  repo: 13g10n/aiogram-forms
+  pypi: aiogram-forms
+  category: bots-chat
+  description: Form handling extension for aiogram
+- name: aiocurl
+  repo: fsbs/aiocurl
+  pypi: aiocurl
+  category: http-clients
+  description: Asyncio extension of PycURL library
+- name: aiowsgi
+  repo: gawel/aiowsgi
+  pypi: aiowsgi
+  category: asgi-servers
+  description: Minimal WSGI server implementation using asyncio
+- name: aiodag
+  repo: mitstake/aiodag
+  category: misc
+  description: Build and execute DAGs with asyncio
+- name: aio-eth
+  repo: Narasimha1997/aio-eth
+  pypi: aio-eth
+  category: cloud-devops
+  description: Async library for Ethereum blockchain Web3 JSON-RPC queries
+- name: aio-monitor
+  repo: Physton/aio-monitor
+  category: observability
+  description: Real-time system monitoring panel for multiple platforms
+- name: asyncpioneer
+  repo: realthk/asyncpioneer
+  category: iot-hardware
+  description: Control Pioneer audio/video receivers asynchronously
+- name: asyncio-connection-pool
+  repo: fellowapp/asyncio-connection-pool
+  pypi: asyncio-connection-pool
+  category: concurrency
+  description: High-throughput connection pool implementation for asyncio
+- name: async-caches
+  repo: rafalp/async-caches
+  pypi: async-caches
+  category: concurrency
+  description: Async caching library with multiple backends
+- name: asyncio-hn
+  repo: itielshwartz/asyncio-hn
+  pypi: asyncio_hn
+  category: http-clients
+  description: Async wrapper for Hacker News API
+- name: asyncio-ipython-magic
+  repo: Gr1N/asyncio-ipython-magic
+  pypi: asyncio-ipython-magic
+  category: misc
+  description: IPython magic command extension for running asyncio code
+- name: asyncio-for-robotics
+  repo: 2lian/asyncio-for-robotics
+  pypi: asyncio-for-robotics
+  category: iot-hardware
+  description: Asyncio interface for ROS 2 and robotics systems
+- name: aioax25
+  repo: sjlongland/aioax25
+  pypi: aioax25
+  category: networking
+  description: Asynchronous AX.25 protocol library
+- name: aiomotorengine
+  repo: ilex/aiomotorengine
+  category: orm
+  description: Motor/MotorEngine compatibility ORM for asyncio
+- name: aiodav
+  repo: jorgeajimenezl/aiodav
+  pypi: aiodav
+  category: networking
+  description: Async WebDAV client
+- name: asyncmongo-orm
+  repo: marcelnicolay/asyncmongo-orm
+  category: orm
+  description: Object-relational mapping for asyncmongo
+- name: asyncio-testing
+  repo: miguelgrinberg/asyncio-testing
+  category: testing
+  description: Helpers for unit testing asyncio code
+- name: async-titiler
+  repo: developmentseed/async-titiler
+  category: cloud-devops
+  description: Asynchronous GeoTIFF tile server based on TiTiler
+- name: aioasuswrt
+  repo: kennedyshead/aioasuswrt
+  pypi: aioasuswrt
+  category: iot-hardware
+  description: Async client for ASUS router via SSH/telnet
+- name: aiolifx
+  repo: aiolifx/aiolifx
+  pypi: aiolifx
+  category: iot-hardware
+  description: Async library for controlling LIFX smart bulbs via LAN
+- name: aioudp
+  repo: bashkirtsevich-llc/aioudp
+  category: networking
+  description: Async UDP server implementation
+- name: aioupnp
+  repo: lbryio/aioupnp
+  pypi: aioupnp
+  category: networking
+  description: Universal Plug and Play (UPnP) protocol support for asyncio
+- name: aiohttp-asgi
+  repo: mosquito/aiohttp-asgi
+  pypi: aiohttp_asgi
+  category: web-frameworks
+  description: Run ASGI applications with aiohttp
+- name: Aios
+  repo: harshitgavita-07/Aios
+  category: misc
+  description: AI orchestration framework for building digital coworkers
+- name: aioreloader
+  repo: and800/aioreloader
+  pypi: aioreloader
+  category: misc
+  description: Auto-reloader for asyncio applications
+- name: aiotorrent
+  repo: Mys7erio/aiotorrent
+  pypi: aiotorrent
+  category: networking
+  description: Asynchronous BitTorrent client library in pure Python
+- name: aiodns
+  repo: vshymanskyy/aiodns
+  category: networking
+  description: Async DNS client for MicroPython
+- name: aiorcon
+  repo: skmendez/aiorcon
+  category: networking
+  description: Async interface for Source RCON protocol
+- name: aio_api_ros
+  repo: frostspb/aio_api_ros
+  pypi: aio-api-ros
+  category: networking
+  description: Async Mikrotik API client
+- name: aio-intex-spa
+  repo: mathieu-mp/aio-intex-spa
+  pypi: aio-intex-spa
+  category: iot-hardware
+  description: Control Intex wifi-enabled spa devices asynchronously
+- name: aiogram_broadcaster
+  repo: loRes228/aiogram_broadcaster
+  pypi: aiogram-broadcaster
+  category: bots-chat
+  description: Telegram message broadcaster library for aiogram bots
+- name: aiolinkding
+  repo: bachya/aiolinkding
+  pypi: aiolinkding
+  category: http-clients
+  description: Async interface to linkding bookmark API
+- name: async_factory_boy
+  repo: kuzxnia/async_factory_boy
+  pypi: async-factory-boy
+  category: testing
+  description: Factory Boy integration for async ORM testing
+- name: async-signals
+  repo: ddanier/async-signals
+  category: misc
+  description: Async version of Django signals
+- name: asyncflux
+  repo: puentesarrin/asyncflux
+  category: database-drivers
+  description: Async client for InfluxDB
+- name: aiosparql
+  repo: aio-libs/aiosparql
+  pypi: aiosparql
+  category: database-drivers
+  description: SPARQL query client for asyncio using aiohttp
+- name: aioredis-cluster
+  repo: DriverX/aioredis-cluster
+  pypi: aioredis-cluster
+  category: database-drivers
+  description: Redis Cluster support extension for aioredis
+- name: aioredis-lock
+  repo: mattrasband/aioredis-lock
+  category: concurrency
+  description: Distributed locking implementation for aioredis
+- name: aiowiki
+  repo: Gelbpunkt/aiowiki
+  category: cloud-devops
+  description: Asynchronous client for MediaWiki API
+- name: aiowinreg
+  repo: skelsec/aiowinreg
+  pypi: aiowinreg
+  category: files-io
+  description: Registry hive parsing using asyncio
+- name: aiohttp-toolbox
+  repo: samuelcolvin/aiohttp-toolbox
+  pypi: aiohttp-toolbox
+  category: web-frameworks
+  description: Utility toolkit for aiohttp web development
+- name: aiokubernetes
+  repo: olitheolix/aiokubernetes
+  pypi: aiokubernetes
+  category: cloud-devops
+  description: Async Kubernetes client library
+- name: aiogram_widgets
+  repo: ggindinson/aiogram_widgets
+  pypi: aiogram-widgets
+  category: bots-chat
+  description: Pre-built UI widgets for aiogram Telegram bot framework
+- name: async-kinesis
+  repo: hampsterx/async-kinesis
+  pypi: async-kinesis
+  category: cloud-devops
+  description: Async client for AWS Kinesis
+- name: async-bili-spider
+  repo: chenjiandongx/async-bili-spider
+  category: scraping-automation
+  description: Async web scraper for Bilibili video platform
+- name: asynctwitch
+  repo: Martmists-GH/asynctwitch
+  category: bots-chat
+  description: Asynchronous Twitch chat client
+- name: async_pubsub
+  repo: abhinavsingh/async_pubsub
+  pypi: async_pubsub
+  category: message-queues
+  description: Publish/Subscribe messaging using Redis, ZMQ and asyncio
+- name: asyncapi-python
+  repo: G-USI/asyncapi-python
+  pypi: asyncapi-python
+  category: misc
+  description: CLI to generate Python code from AsyncAPI spec
+- name: aioecowitt
+  repo: home-assistant-libs/aioecowitt
+  pypi: aioecowitt
+  category: iot-hardware
+  description: EcoWitt weather station protocol library for asyncio
+- name: aiorabbit
+  repo: gmr/aiorabbit
+  pypi: aiorabbit
+  category: message-queues
+  description: RabbitMQ client library for asyncio
+- name: aioredux
+  repo: kasbah/aioredux
+  category: misc
+  description: Redux-style state management for asyncio applications
+- name: aiopppp
+  repo: devbis/aiopppp
+  pypi: aiopppp
+  category: iot-hardware
+  description: Tool for managing PPPP cameras
+- name: aiohttp_autoreload
+  repo: anti1869/aiohttp_autoreload
+  pypi: aiohttp_autoreload
+  category: web-frameworks
+  description: Auto-reload functionality for aiohttp server during development
+- name: aiosu
+  repo: NiceAesth/aiosu
+  pypi: aiosu
+  category: cloud-devops
+  description: Async client library for osu! game API
+- name: aiogram-inline-paginations
+  repo: daniilshamraev/aiogram-inline-paginations
+  pypi: aiogram-inline-paginations
+  category: bots-chat
+  description: Library for Telegram inline keyboard pagination
+- name: aio-executor
+  repo: miguelgrinberg/aio-executor
+  pypi: aio-executor
+  category: concurrency
+  description: Executor implementation for running asyncio tasks in an event loop
+- name: AsyncPP
+  repo: PluralisResearch/AsyncPP
+  category: misc
+  description: Asynchronous pipeline parallel optimization
+- name: aiostomp
+  repo: pedrokiefer/aiostomp
+  pypi: aiostomp
+  category: message-queues
+  description: Async STOMP protocol client
+- name: aiotfm
+  repo: Athesdrake/aiotfm
+  pypi: aiotfm
+  category: cloud-devops
+  description: Asynchronous event-based client for Transformice game
+- name: aiobfd
+  repo: netedgeplus/aiobfd
+  pypi: aiobfd
+  category: networking
+  description: Bidirectional Forwarding Detection (BFD) daemon for asyncio
+- name: aionn
+  repo: wrobell/aionn
+  category: message-queues
+  description: Async messaging library based on nanomsg
+- name: aioesphomeserver
+  repo: peterkeen/aioesphomeserver
+  category: iot-hardware
+  description: ESPHome native protocol server implementation in Python
+- name: aiobastion
+  repo: safepost/aiobastion
+  category: cloud-devops
+  description: Framework for Cyberark API
+- name: aioscript
+  repo: asvetlov/aioscript
+  category: concurrency
+  description: Async operations abstraction with threading and multiprocessing support
+- name: aiohttp-spider
+  repo: Crypto-KK/aiohttp-spider
+  category: scraping-automation
+  description: Async web scraper with aiohttp
+- name: aiotx
+  repo: crypto-libs/aiotx
+  category: cloud-devops
+  description: Asynchronous blockchain transaction monitoring and sending
+- name: aiochrome
+  repo: fate0/aiochrome
+  pypi: aiochrome
+  category: scraping-automation
+  description: Async client for Chrome DevTools Protocol
+- name: aiohappybase
+  repo: python-happybase/aiohappybase
+  pypi: aiohappybase
+  category: database-drivers
+  description: Asyncio fork of HappyBase for HBase access
+- name: async_retrying
+  repo: hellysmile/async_retrying
+  category: concurrency
+  description: Retry mechanism with backoff strategies for asyncio functions
+- name: async-graph-data-flow
+  repo: civisanalytics/async-graph-data-flow
+  pypi: async-graph-data-flow
+  category: misc
+  description: Async functions for directed acyclic graphs
+- name: asyncgpt
+  repo: Just1z/asyncgpt
+  category: misc
+  description: Async framework for ChatGPT API integration
+- name: asyncio-atexit
+  repo: minrk/asyncio-atexit
+  pypi: asyncio-atexit
+  category: misc
+  description: Exit handlers and cleanup utilities for asyncio applications
+- name: async-ipython-magic
+  repo: leriomaggio/async-ipython-magic
+  category: misc
+  description: Async IPython magic for notebook cells
+- name: aionostr
+  repo: davestgermain/aionostr
+  pypi: aionostr
+  category: bots-chat
+  description: Async Nostr protocol client
+- name: aiopenapi3
+  repo: commonism/aiopenapi3
+  pypi: aiopenapi3
+  category: http-clients
+  description: OpenAPI 3.0 client and validator with async/await support
+- name: aio-hcaptcha
+  repo: RuslanUC/aio-hcaptcha
+  category: auth-security
+  description: Async wrapper for hCaptcha
+- name: aiooss2
+  repo: karajan1001/aiooss2
+  pypi: aiooss2
+  category: cloud-devops
+  description: Async client for Aliyun OSS (Object Storage Service)
+- name: aiofranka
+  repo: younghyopark/aiofranka
+  pypi: aiofranka
+  category: iot-hardware
+  description: Async library for controlling Franka robots
+- name: aiossdb
+  repo: Microndgt/aiossdb
+  pypi: aiossdb
+  category: database-drivers
+  description: SSDB database client driver for asyncio
+- name: aiotrino
+  repo: mvanderlee/aiotrino
+  pypi: aiotrino
+  category: database-drivers
+  description: Async Trino SQL client
+- name: aioconnectors
+  repo: mori-b/aioconnectors
+  pypi: aioconnectors
+  category: message-queues
+  description: Secure async message queue implementation
+- name: aiocop
+  repo: Feverup/aiocop
+  pypi: aiocop
+  category: observability
+  description: Monitor asyncio event loop for blocking I/O and CPU calls
+- name: aiomqttc
+  repo: Tangerino/aiomqttc
+  pypi: aiomqttc
+  category: message-queues
+  description: Async MQTT client for Python
+- name: Async-Channel
+  repo: Drakkar-Software/Async-Channel
+  pypi: async-channel
+  category: message-queues
+  description: Async multi-task communication library for concurrent operations
+- name: asyncio-sse
+  repo: brutasse/asyncio-sse
+  pypi: asyncio-sse
+  category: websockets-realtime
+  description: Server-Sent Events implementation for asyncio and aiohttp
+- name: async-reduce
+  repo: sirkonst/async-reduce
+  pypi: async-reduce
+  category: concurrency
+  description: Reducer utility for coordinating concurrent coroutines
+- name: asyncio-multisubscriber-queue
+  repo: smithk86/asyncio-multisubscriber-queue
+  pypi: asyncio-multisubscriber-queue
+  category: concurrency
+  description: Queue for single producer to multiple consumers
+- name: aioruckus
+  repo: ms264556/aioruckus
+  pypi: aioruckus
+  category: iot-hardware
+  description: Async client for Ruckus Unleashed WiFi controller
+- name: aioetcd
+  repo: lisael/aioetcd
+  category: database-drivers
+  description: Async etcd client
+- name: aioppspp
+  repo: aio-libs/aioppspp
+  category: networking
+  description: Peer-to-Peer Streaming Protocol (PPSP) implementation
+- name: aiohttp_json_api
+  repo: vovanbo/aiohttp_json_api
+  pypi: aiohttp-json-api
+  category: web-frameworks
+  description: JSON API implementation for aiohttp
+- name: aiogqlc
+  repo: DoctorJohn/aiogqlc
+  pypi: aiogqlc
+  category: graphql
+  description: GraphQL client with async support, file uploads and subscriptions
+- name: aiobravado
+  repo: sjaensch/aiobravado
+  pypi: aiobravado
+  category: http-clients
+  description: Asyncio client for Swagger 2.0 services
+- name: aiohttp_traversal
+  repo: zzzsochi/aiohttp_traversal
+  pypi: aiohttp_traversal
+  category: web-frameworks
+  description: Traversal-based URL routing for aiohttp web applications
+- name: aioresult
+  repo: arthur-tacca/aioresult
+  pypi: aioresult
+  category: alternatives
+  description: Capture and retrieve results from Trio or anyio tasks
+- name: aiopolymarket
+  repo: the-odds-company/aiopolymarket
+  category: http-clients
+  description: Type-safe async client for Polymarket API
+- name: aiokalshi
+  repo: the-odds-company/aiokalshi
+  category: cloud-devops
+  description: Async client for Kalshi prediction market API
+- name: asyncio_dispatch
+  repo: lenzenmi/asyncio_dispatch
+  pypi: asyncio_dispatch
+  category: misc
+  description: Event signalling for asyncio
+- name: async-oss
+  repo: Yaocool/async-oss
+  category: cloud-devops
+  description: Async SDK for Aliyun Object Storage Service (OSS)
+- name: async-requests
+  repo: inglesp/async-requests
+  category: http-clients
+  description: Async HTTP requests library

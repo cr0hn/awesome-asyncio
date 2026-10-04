@@ -1,0 +1,3970 @@
+{
+ "05bit/peewee-async": {
+  "archived": false,
+  "last_commit": "2026-08-28T09:33:43Z",
+  "stars": 762,
+  "url": "https://github.com/05bit/peewee-async",
+  "version": "2.1.0",
+  "version_date": "2026-08-06T10:09:08.560339Z"
+ },
+ "13g10n/aiogram-forms": {
+  "archived": false,
+  "last_commit": "2023-08-06T20:33:24Z",
+  "stars": 28,
+  "url": "https://github.com/13g10n/aiogram-forms",
+  "version": "1.1.1",
+  "version_date": "2023-04-22T21:06:44.015762Z"
+ },
+ "2lian/asyncio-for-robotics": {
+  "archived": false,
+  "last_commit": "2026-09-16T04:03:51Z",
+  "stars": 28,
+  "url": "https://github.com/2lian/asyncio-for-robotics",
+  "version": "1.5.0",
+  "version_date": "2026-07-20T08:29:30.544249Z"
+ },
+ "Alnyz/AsyncLine": {
+  "archived": false,
+  "last_commit": "2023-07-10T06:39:39Z",
+  "stars": 35,
+  "url": "https://github.com/Alnyz/AsyncLine",
+  "version": "v1.5.9.2",
+  "version_date": "2019-09-05T11:16:19Z"
+ },
+ "Amaindex/asyncio-socks-server": {
+  "archived": false,
+  "last_commit": "2026-08-25T09:11:11Z",
+  "stars": 183,
+  "url": "https://github.com/Amaindex/asyncio-socks-server",
+  "version": "1.3.3",
+  "version_date": "2026-08-25T09:14:40.336889Z"
+ },
+ "AsyncFlow-Sim/AsyncFlow": {
+  "archived": false,
+  "last_commit": "2025-09-18T15:21:29Z",
+  "stars": 81,
+  "url": "https://github.com/AsyncFlow-Sim/AsyncFlow",
+  "version": "v0.1.1",
+  "version_date": "2025-08-29T15:35:52Z"
+ },
+ "Athesdrake/aiotfm": {
+  "archived": false,
+  "last_commit": "2024-09-22T22:35:11Z",
+  "stars": 22,
+  "url": "https://github.com/Athesdrake/aiotfm",
+  "version": "1.4.9",
+  "version_date": "2024-09-22T22:36:44.157433Z"
+ },
+ "BeanieODM/beanie": {
+  "archived": false,
+  "last_commit": "2026-08-31T23:11:14Z",
+  "stars": 2702,
+  "url": "https://github.com/BeanieODM/beanie",
+  "version": "2.2.0",
+  "version_date": "2026-08-07T17:15:24.494618Z"
+ },
+ "CaliDog/asyncpool": {
+  "archived": false,
+  "last_commit": "2018-01-24T07:02:37Z",
+  "stars": 79,
+  "url": "https://github.com/CaliDog/asyncpool",
+  "version": "1.0",
+  "version_date": "2017-12-07T06:40:11.957095Z"
+ },
+ "CanopyTax/asyncpgsa": {
+  "archived": false,
+  "last_commit": "2021-02-26T00:38:42Z",
+  "stars": 505,
+  "url": "https://github.com/CanopyTax/asyncpgsa",
+  "version": "0.27.1",
+  "version_date": "2021-02-26T00:38:53.708141Z"
+ },
+ "ConlinH/aio-scrapy": {
+  "archived": false,
+  "last_commit": "2026-07-23T02:08:48Z",
+  "stars": 71,
+  "url": "https://github.com/ConlinH/aio-scrapy",
+  "version": "2.1.9",
+  "version_date": "2026-02-05T04:04:32.849200Z"
+ },
+ "Crypto-KK/aiohttp-spider": {
+  "archived": false,
+  "last_commit": "2019-03-05T04:03:21Z",
+  "stars": 22,
+  "url": "https://github.com/Crypto-KK/aiohttp-spider",
+  "version": null,
+  "version_date": null
+ },
+ "D4rkwat3r/aiohttp-ip-rotator": {
+  "archived": false,
+  "last_commit": "2025-01-10T16:30:43Z",
+  "stars": 45,
+  "url": "https://github.com/D4rkwat3r/aiohttp-ip-rotator",
+  "version": "1.0",
+  "version_date": "2023-04-30T17:40:36.782390Z"
+ },
+ "DoctorJohn/aiogqlc": {
+  "archived": false,
+  "last_commit": "2026-05-17T18:39:09Z",
+  "stars": 20,
+  "url": "https://github.com/DoctorJohn/aiogqlc",
+  "version": "5.4.0",
+  "version_date": "2025-10-18T00:48:24.958816Z"
+ },
+ "Drakkar-Software/Async-Channel": {
+  "archived": true,
+  "last_commit": "2026-01-03T10:35:03Z",
+  "stars": 21,
+  "url": "https://github.com/Drakkar-Software/Async-Channel",
+  "version": "2.2.2",
+  "version_date": "2026-01-03T10:37:30.578001Z"
+ },
+ "DriverX/aioredis-cluster": {
+  "archived": false,
+  "last_commit": "2023-12-18T12:21:19Z",
+  "stars": 24,
+  "url": "https://github.com/DriverX/aioredis-cluster",
+  "version": "2.7.0",
+  "version_date": "2023-12-18T13:11:59.686285Z"
+ },
+ "Ehco1996/aioshadowsocks": {
+  "archived": true,
+  "last_commit": "2021-06-27T23:26:37Z",
+  "stars": 165,
+  "url": "https://github.com/Ehco1996/aioshadowsocks",
+  "version": "0.1.8",
+  "version_date": "2021-12-27T01:40:31.304287Z"
+ },
+ "Eyepea/aiosip": {
+  "archived": false,
+  "last_commit": "2020-12-21T11:49:47Z",
+  "stars": 86,
+  "url": "https://github.com/Eyepea/aiosip",
+  "version": "0.2.0",
+  "version_date": "2017-09-14T12:37:22.695725Z"
+ },
+ "Fatal1ty/aioapns": {
+  "archived": false,
+  "last_commit": "2025-04-14T12:34:34Z",
+  "stars": 165,
+  "url": "https://github.com/Fatal1ty/aioapns",
+  "version": "4.0",
+  "version_date": "2025-04-14T12:37:24.817547Z"
+ },
+ "Fatal1ty/aiofcm": {
+  "archived": false,
+  "last_commit": "2023-04-16T13:04:01Z",
+  "stars": 35,
+  "url": "https://github.com/Fatal1ty/aiofcm",
+  "version": "1.4",
+  "version_date": "2023-03-14T09:39:52.999993Z"
+ },
+ "Feverup/aiocop": {
+  "archived": false,
+  "last_commit": "2026-08-24T08:48:37Z",
+  "stars": 21,
+  "url": "https://github.com/Feverup/aiocop",
+  "version": "1.2.0",
+  "version_date": "2026-08-24T08:49:17.947704Z"
+ },
+ "G-USI/asyncapi-python": {
+  "archived": false,
+  "last_commit": "2026-04-04T15:39:11Z",
+  "stars": 24,
+  "url": "https://github.com/G-USI/asyncapi-python",
+  "version": "0.3.1",
+  "version_date": "2026-04-04T15:41:20.491172Z"
+ },
+ "Gelbpunkt/aioscheduler": {
+  "archived": false,
+  "last_commit": "2020-10-02T16:14:51Z",
+  "stars": 30,
+  "url": "https://github.com/Gelbpunkt/aioscheduler",
+  "version": "1.4.2",
+  "version_date": "2020-08-02T12:32:14.803188Z"
+ },
+ "Gelbpunkt/aiowiki": {
+  "archived": false,
+  "last_commit": "2021-02-21T14:52:47Z",
+  "stars": 24,
+  "url": "https://github.com/Gelbpunkt/aiowiki",
+  "version": "0.2.0",
+  "version_date": "2018-10-30T21:31:19Z"
+ },
+ "Gr1N/aiodogstatsd": {
+  "archived": false,
+  "last_commit": "2021-12-12T21:48:00Z",
+  "stars": 34,
+  "url": "https://github.com/Gr1N/aiodogstatsd",
+  "version": "0.16.0.post0",
+  "version_date": "2021-12-12T21:45:23.136735Z"
+ },
+ "Gr1N/asyncio-ipython-magic": {
+  "archived": false,
+  "last_commit": "2017-02-14T18:57:30Z",
+  "stars": 28,
+  "url": "https://github.com/Gr1N/asyncio-ipython-magic",
+  "version": "0.0.3",
+  "version_date": "2017-02-14T18:57:48.911591Z"
+ },
+ "HENNGE/aiodynamo": {
+  "archived": false,
+  "last_commit": "2026-07-03T07:45:52Z",
+  "stars": 94,
+  "url": "https://github.com/HENNGE/aiodynamo",
+  "version": "26.4",
+  "version_date": "2026-04-22T08:07:39Z"
+ },
+ "Harmony-Libs/aioharmony": {
+  "archived": false,
+  "last_commit": "2026-09-18T20:43:55Z",
+  "stars": 28,
+  "url": "https://github.com/Harmony-Libs/aioharmony",
+  "version": "1.0.10",
+  "version_date": "2026-09-18T20:43:50.507582Z"
+ },
+ "I-ToSa-I/AsyncPayments": {
+  "archived": false,
+  "last_commit": "2026-08-31T13:00:01Z",
+  "stars": 40,
+  "url": "https://github.com/I-ToSa-I/AsyncPayments",
+  "version": "1.7",
+  "version_date": "2026-08-31T13:02:02.555483Z"
+ },
+ "Iapetus-11/aio-mc-rcon": {
+  "archived": false,
+  "last_commit": "2026-09-18T15:54:13Z",
+  "stars": 53,
+  "url": "https://github.com/Iapetus-11/aio-mc-rcon",
+  "version": "3.5.0",
+  "version_date": "2026-09-18T15:55:44.108252Z"
+ },
+ "Ichinga-Samuel/aiomql": {
+  "archived": false,
+  "last_commit": "2026-02-28T21:22:43Z",
+  "stars": 150,
+  "url": "https://github.com/Ichinga-Samuel/aiomql",
+  "version": "4.1.2",
+  "version_date": "2026-02-28T21:21:00.585901Z"
+ },
+ "IliaZenkov/async-pubmed-scraper": {
+  "archived": false,
+  "last_commit": "2020-11-05T21:41:21Z",
+  "stars": 45,
+  "url": "https://github.com/IliaZenkov/async-pubmed-scraper",
+  "version": null,
+  "version_date": null
+ },
+ "Jc2k/aiohomekit": {
+  "archived": false,
+  "last_commit": "2026-08-14T16:38:46Z",
+  "stars": 72,
+  "url": "https://github.com/Jc2k/aiohomekit",
+  "version": "4.0.1",
+  "version_date": "2026-08-14T14:17:47.434505Z"
+ },
+ "JimChengLin/AsyncDB": {
+  "archived": false,
+  "last_commit": "2019-05-20T10:37:43Z",
+  "stars": 66,
+  "url": "https://github.com/JimChengLin/AsyncDB",
+  "version": null,
+  "version_date": null
+ },
+ "JurgenR/aioslsk": {
+  "archived": false,
+  "last_commit": "2026-10-03T17:31:02Z",
+  "stars": 66,
+  "url": "https://github.com/JurgenR/aioslsk",
+  "version": "1.6.4",
+  "version_date": "2026-09-22T11:16:10.211965Z"
+ },
+ "Just1z/asyncgpt": {
+  "archived": false,
+  "last_commit": "2023-03-05T12:14:38Z",
+  "stars": 22,
+  "url": "https://github.com/Just1z/asyncgpt",
+  "version": null,
+  "version_date": null
+ },
+ "Kane610/aiounifi": {
+  "archived": false,
+  "last_commit": "2026-10-01T07:33:54Z",
+  "stars": 90,
+  "url": "https://github.com/Kane610/aiounifi",
+  "version": "97",
+  "version_date": "2026-09-29T05:44:53.362829Z"
+ },
+ "KimiNewt/aiocmd": {
+  "archived": false,
+  "last_commit": "2021-12-29T14:31:03Z",
+  "stars": 29,
+  "url": "https://github.com/KimiNewt/aiocmd",
+  "version": "0.1.5",
+  "version_date": "2020-06-19T07:13:52.332600Z"
+ },
+ "M-o-a-T/asyncari": {
+  "archived": false,
+  "last_commit": "2025-06-19T04:56:20Z",
+  "stars": 42,
+  "url": "https://github.com/M-o-a-T/asyncari",
+  "version": "0.20.6",
+  "version_date": "2025-05-25T09:02:21.708692Z"
+ },
+ "MKuranowski/aiocsv": {
+  "archived": false,
+  "last_commit": "2026-05-23T06:00:49Z",
+  "stars": 74,
+  "url": "https://github.com/MKuranowski/aiocsv",
+  "version": "1.4.1",
+  "version_date": "2026-05-23T06:11:28.088493Z"
+ },
+ "MagicStack/asyncpg": {
+  "archived": false,
+  "last_commit": "2026-10-03T03:40:48Z",
+  "stars": 8097,
+  "url": "https://github.com/MagicStack/asyncpg",
+  "version": "0.31.0",
+  "version_date": "2025-11-24T23:27:00.812315Z"
+ },
+ "MagicStack/uvloop": {
+  "archived": false,
+  "last_commit": "2026-10-01T15:38:13Z",
+  "stars": 11906,
+  "url": "https://github.com/MagicStack/uvloop",
+  "version": "0.23.0",
+  "version_date": "2026-10-01T03:17:04.400341Z"
+ },
+ "Maillol/aiohttp-pydantic": {
+  "archived": false,
+  "last_commit": "2026-09-23T18:59:29Z",
+  "stars": 75,
+  "url": "https://github.com/Maillol/aiohttp-pydantic",
+  "version": "3.0.2",
+  "version_date": "2026-09-23T19:06:24.197769Z"
+ },
+ "ManiMozaffar/aioclock": {
+  "archived": false,
+  "last_commit": "2026-09-13T13:26:39Z",
+  "stars": 243,
+  "url": "https://github.com/ManiMozaffar/aioclock",
+  "version": "0.3.0",
+  "version_date": "2024-08-18T18:46:21.066950Z"
+ },
+ "Martiusweb/asynctest": {
+  "archived": false,
+  "last_commit": "2019-11-13T20:35:50Z",
+  "stars": 310,
+  "url": "https://github.com/Martiusweb/asynctest",
+  "version": "0.13.0",
+  "version_date": "2019-05-14T16:42:24.242020Z"
+ },
+ "Martmists-GH/asynctwitch": {
+  "archived": false,
+  "last_commit": "2017-08-12T11:12:50Z",
+  "stars": 24,
+  "url": "https://github.com/Martmists-GH/asynctwitch",
+  "version": null,
+  "version_date": null
+ },
+ "Microndgt/aiossdb": {
+  "archived": false,
+  "last_commit": "2017-08-22T04:50:08Z",
+  "stars": 21,
+  "url": "https://github.com/Microndgt/aiossdb",
+  "version": "0.0.5",
+  "version_date": "2018-05-22T00:04:31.213834Z"
+ },
+ "Mys7erio/aiotorrent": {
+  "archived": false,
+  "last_commit": "2025-10-05T07:24:01Z",
+  "stars": 26,
+  "url": "https://github.com/Mys7erio/aiotorrent",
+  "version": "0.9.2",
+  "version_date": "2025-09-21T16:46:44.630280Z"
+ },
+ "Narasimha1997/aio-eth": {
+  "archived": false,
+  "last_commit": "2022-04-24T04:38:42Z",
+  "stars": 28,
+  "url": "https://github.com/Narasimha1997/aio-eth",
+  "version": "0.0.1",
+  "version_date": "2022-04-23T19:34:09.471306Z"
+ },
+ "NiceAesth/aiosu": {
+  "archived": false,
+  "last_commit": "2026-09-22T00:35:53Z",
+  "stars": 23,
+  "url": "https://github.com/NiceAesth/aiosu",
+  "version": "2.5.1",
+  "version_date": "2026-07-13T21:48:07.720477Z"
+ },
+ "OCCASS/aiogram_tests": {
+  "archived": false,
+  "last_commit": "2023-02-20T18:37:21Z",
+  "stars": 71,
+  "url": "https://github.com/OCCASS/aiogram_tests",
+  "version": "v1.0.3",
+  "version_date": "2022-10-26T16:54:11Z"
+ },
+ "Physton/aio-monitor": {
+  "archived": false,
+  "last_commit": "2024-05-21T16:58:45Z",
+  "stars": 28,
+  "url": "https://github.com/Physton/aio-monitor",
+  "version": "v0.0.5",
+  "version_date": "2024-04-11T05:55:09Z"
+ },
+ "PluralisResearch/AsyncPP": {
+  "archived": false,
+  "last_commit": "2026-02-02T02:15:18Z",
+  "stars": 23,
+  "url": "https://github.com/PluralisResearch/AsyncPP",
+  "version": null,
+  "version_date": null
+ },
+ "Polyconseil/aioamqp": {
+  "archived": false,
+  "last_commit": "2022-04-05T22:36:30Z",
+  "stars": 282,
+  "url": "https://github.com/Polyconseil/aioamqp",
+  "version": "0.15.0",
+  "version_date": "2022-04-05T22:38:31.426113Z"
+ },
+ "ProCern/asyncinotify": {
+  "archived": false,
+  "last_commit": "2026-05-28T23:14:18Z",
+  "stars": 47,
+  "url": "https://github.com/ProCern/asyncinotify",
+  "version": "4.4.4",
+  "version_date": "2026-04-13T20:32:27.416093Z"
+ },
+ "Rapptz/discord.py": {
+  "archived": false,
+  "last_commit": "2026-09-01T09:17:34Z",
+  "stars": 16194,
+  "url": "https://github.com/Rapptz/discord.py",
+  "version": "2.7.1",
+  "version_date": "2026-03-03T18:40:46.240241Z"
+ },
+ "Relrin/aiorest-ws": {
+  "archived": false,
+  "last_commit": "2017-10-16T06:52:09Z",
+  "stars": 35,
+  "url": "https://github.com/Relrin/aiorest-ws",
+  "version": "1.1.1",
+  "version_date": "2017-09-29T14:01:14.920353Z"
+ },
+ "RobertCraigie/prisma-client-py": {
+  "archived": true,
+  "last_commit": "2025-03-23T17:43:00Z",
+  "stars": 2093,
+  "url": "https://github.com/RobertCraigie/prisma-client-py",
+  "version": "0.15.0",
+  "version_date": "2024-08-16T02:54:03.919000Z"
+ },
+ "RuslanUC/aio-hcaptcha": {
+  "archived": false,
+  "last_commit": "2022-10-28T13:31:11Z",
+  "stars": 21,
+  "url": "https://github.com/RuslanUC/aio-hcaptcha",
+  "version": null,
+  "version_date": null
+ },
+ "Sendspin/aiosendspin": {
+  "archived": false,
+  "last_commit": "2026-10-02T08:34:38Z",
+  "stars": 51,
+  "url": "https://github.com/Sendspin/aiosendspin",
+  "version": "9.1.1",
+  "version_date": "2026-08-25T15:28:09Z"
+ },
+ "ShichaoMa/async-downloader": {
+  "archived": false,
+  "last_commit": "2018-06-30T06:00:26Z",
+  "stars": 33,
+  "url": "https://github.com/ShichaoMa/async-downloader",
+  "version": "0.2.1",
+  "version_date": "2018-06-30T06:00:24.905875Z"
+ },
+ "Skyscanner/aiotask-context": {
+  "archived": true,
+  "last_commit": "2020-01-21T09:19:59Z",
+  "stars": 159,
+  "url": "https://github.com/Skyscanner/aiotask-context",
+  "version": null,
+  "version_date": null
+ },
+ "StevenLooman/async_upnp_client": {
+  "archived": false,
+  "last_commit": "2026-10-03T20:22:41Z",
+  "stars": 56,
+  "url": "https://github.com/StevenLooman/async_upnp_client",
+  "version": "0.48.2",
+  "version_date": "2026-09-17T19:54:01.038274Z"
+ },
+ "SukramJ/aiohomematic": {
+  "archived": false,
+  "last_commit": "2026-10-03T13:41:36Z",
+  "stars": 168,
+  "url": "https://github.com/SukramJ/aiohomematic",
+  "version": "2026.10.3",
+  "version_date": "2026-10-03T13:43:41.015869Z"
+ },
+ "Tangerino/aiomqttc": {
+  "archived": false,
+  "last_commit": "2025-05-21T11:40:05Z",
+  "stars": 21,
+  "url": "https://github.com/Tangerino/aiomqttc",
+  "version": "1.0.7",
+  "version_date": "2025-05-21T05:24:43.729155Z"
+ },
+ "Textualize/textual": {
+  "archived": false,
+  "last_commit": "2026-07-11T06:02:34Z",
+  "stars": 37397,
+  "url": "https://github.com/Textualize/textual",
+  "version": "8.2.8",
+  "version_date": "2026-06-30T06:51:26.364743Z"
+ },
+ "Tinche/aiofiles": {
+  "archived": false,
+  "last_commit": "2026-09-28T21:44:39Z",
+  "stars": 3264,
+  "url": "https://github.com/Tinche/aiofiles",
+  "version": "25.1.0",
+  "version_date": "2025-10-09T20:51:04.358782Z"
+ },
+ "Tishka17/aiogram_dialog": {
+  "archived": false,
+  "last_commit": "2026-06-15T13:11:36Z",
+  "stars": 900,
+  "url": "https://github.com/Tishka17/aiogram_dialog",
+  "version": "2.6.0",
+  "version_date": "2026-03-22T12:30:24.325367Z"
+ },
+ "TomerFi/aioswitcher": {
+  "archived": false,
+  "last_commit": "2026-10-04T13:55:52Z",
+  "stars": 39,
+  "url": "https://github.com/TomerFi/aioswitcher",
+  "version": "6.3.0",
+  "version_date": "2026-08-25T20:37:23.112872Z"
+ },
+ "Vizonex/Winloop": {
+  "archived": false,
+  "last_commit": "2026-10-02T15:10:00Z",
+  "stars": 232,
+  "url": "https://github.com/Vizonex/Winloop",
+  "version": "0.7.0",
+  "version_date": "2026-09-30T16:12:03.432387Z"
+ },
+ "WLM1ke/aiomoex": {
+  "archived": false,
+  "last_commit": "2025-05-25T05:31:26Z",
+  "stars": 104,
+  "url": "https://github.com/WLM1ke/aiomoex",
+  "version": "2.2.0",
+  "version_date": "2025-05-25T05:11:55.519741Z"
+ },
+ "Yaocool/async-oss": {
+  "archived": false,
+  "last_commit": "2024-07-05T16:43:26Z",
+  "stars": 20,
+  "url": "https://github.com/Yaocool/async-oss",
+  "version": null,
+  "version_date": null
+ },
+ "aamalev/aiohttp_apiset": {
+  "archived": false,
+  "last_commit": "2025-03-22T12:07:17Z",
+  "stars": 41,
+  "url": "https://github.com/aamalev/aiohttp_apiset",
+  "version": "0.9.18",
+  "version_date": "2025-03-22T00:17:27.624606Z"
+ },
+ "abhinavsingh/async_pubsub": {
+  "archived": false,
+  "last_commit": "2014-02-06T09:12:46Z",
+  "stars": 24,
+  "url": "https://github.com/abhinavsingh/async_pubsub",
+  "version": "0.1.1",
+  "version_date": "2014-02-06T09:13:26.232735Z"
+ },
+ "abn/aiographql-client": {
+  "archived": false,
+  "last_commit": "2026-09-21T19:39:40Z",
+  "stars": 30,
+  "url": "https://github.com/abn/aiographql-client",
+  "version": "2.0.0",
+  "version_date": "2026-09-19T01:40:06.217600Z"
+ },
+ "achimnol/aiotools": {
+  "archived": false,
+  "last_commit": "2026-07-21T07:13:46Z",
+  "stars": 168,
+  "url": "https://github.com/achimnol/aiotools",
+  "version": "2.2.4",
+  "version_date": "2026-07-21T07:17:21.149998Z"
+ },
+ "ag2ai/faststream": {
+  "archived": false,
+  "last_commit": "2026-10-02T22:03:08Z",
+  "stars": 5360,
+  "url": "https://github.com/ag2ai/faststream",
+  "version": "0.7.7",
+  "version_date": "2026-09-23T20:36:14.055281Z"
+ },
+ "agronholm/anyio": {
+  "archived": false,
+  "last_commit": "2026-10-04T21:16:38Z",
+  "stars": 2550,
+  "url": "https://github.com/agronholm/anyio",
+  "version": "4.15.1",
+  "version_date": "2026-09-05T10:42:39.440376Z"
+ },
+ "agronholm/asyncio_extras": {
+  "archived": false,
+  "last_commit": "2018-06-04T06:11:42Z",
+  "stars": 63,
+  "url": "https://github.com/agronholm/asyncio_extras",
+  "version": "1.3.2",
+  "version_date": "2018-06-04T06:16:43.931535Z"
+ },
+ "aio-libs-abandoned/aioes": {
+  "archived": true,
+  "last_commit": "2017-08-22T10:27:01Z",
+  "stars": 99,
+  "url": "https://github.com/aio-libs-abandoned/aioes",
+  "version": "v0.7.1",
+  "version_date": "2017-04-19T19:09:27Z"
+ },
+ "aio-libs-abandoned/aiohttp-mako": {
+  "archived": true,
+  "last_commit": "2021-11-29T08:03:43Z",
+  "stars": 32,
+  "url": "https://github.com/aio-libs-abandoned/aiohttp-mako",
+  "version": "v0.2.0",
+  "version_date": "2016-12-14T17:08:16Z"
+ },
+ "aio-libs-abandoned/aioredis-py": {
+  "archived": true,
+  "last_commit": "2022-02-22T14:33:33Z",
+  "stars": 2282,
+  "url": "https://github.com/aio-libs-abandoned/aioredis-py",
+  "version": "v2.0.1",
+  "version_date": "2021-12-27T20:27:36Z"
+ },
+ "aio-libs-abandoned/async-timeout": {
+  "archived": true,
+  "last_commit": "2025-09-22T02:05:18Z",
+  "stars": 570,
+  "url": "https://github.com/aio-libs-abandoned/async-timeout",
+  "version": "v5.0.1",
+  "version_date": "2024-11-06T16:41:40Z"
+ },
+ "aio-libs/aioamqp_consumer": {
+  "archived": false,
+  "last_commit": "2020-08-19T15:35:08Z",
+  "stars": 35,
+  "url": "https://github.com/aio-libs/aioamqp_consumer",
+  "version": "0.3.4",
+  "version_date": "2020-08-19T15:35:45.716064Z"
+ },
+ "aio-libs/aiobotocore": {
+  "archived": false,
+  "last_commit": "2026-10-02T06:24:40Z",
+  "stars": 1425,
+  "url": "https://github.com/aio-libs/aiobotocore",
+  "version": "3.9.2",
+  "version_date": "2026-10-01T02:01:59.522048Z"
+ },
+ "aio-libs/aiocache": {
+  "archived": false,
+  "last_commit": "2026-06-28T20:08:27Z",
+  "stars": 1437,
+  "url": "https://github.com/aio-libs/aiocache",
+  "version": "0.12.3",
+  "version_date": "2024-09-25T13:20:23.823921Z"
+ },
+ "aio-libs/aiocassandra": {
+  "archived": true,
+  "last_commit": "2019-04-23T19:34:23Z",
+  "stars": 85,
+  "url": "https://github.com/aio-libs/aiocassandra",
+  "version": "2.0.1",
+  "version_date": "2018-02-19T10:46:36.521694Z"
+ },
+ "aio-libs/aiocouchdb": {
+  "archived": false,
+  "last_commit": "2016-09-12T19:43:27Z",
+  "stars": 54,
+  "url": "https://github.com/aio-libs/aiocouchdb",
+  "version": "0.9.1",
+  "version_date": "2016-02-03T05:03:53.722779Z"
+ },
+ "aio-libs/aiodns": {
+  "archived": false,
+  "last_commit": "2026-09-28T19:19:59Z",
+  "stars": 592,
+  "url": "https://github.com/aio-libs/aiodns",
+  "version": "4.0.4",
+  "version_date": "2026-05-20T01:54:15.557371Z"
+ },
+ "aio-libs/aiodocker": {
+  "archived": false,
+  "last_commit": "2026-06-04T08:41:53Z",
+  "stars": 538,
+  "url": "https://github.com/aio-libs/aiodocker",
+  "version": "0.27.0",
+  "version_date": "2026-05-27T07:06:49.731084Z"
+ },
+ "aio-libs/aioelasticsearch": {
+  "archived": false,
+  "last_commit": "2022-01-22T12:09:51Z",
+  "stars": 137,
+  "url": "https://github.com/aio-libs/aioelasticsearch",
+  "version": "0.7.0",
+  "version_date": "2020-06-04T10:22:53.618274Z"
+ },
+ "aio-libs/aioes": {
+  "archived": true,
+  "last_commit": "2017-08-22T10:27:01Z",
+  "stars": 99,
+  "url": "https://github.com/aio-libs-abandoned/aioes",
+  "version": "0.7.2",
+  "version_date": "2017-04-19T19:43:20.785436Z"
+ },
+ "aio-libs/aiofastnet": {
+  "archived": false,
+  "last_commit": "2026-10-01T10:12:12Z",
+  "stars": 35,
+  "url": "https://github.com/aio-libs/aiofastnet",
+  "version": "1.2.0",
+  "version_date": "2026-10-01T10:47:26.103986Z"
+ },
+ "aio-libs/aioftp": {
+  "archived": false,
+  "last_commit": "2026-09-19T14:22:52Z",
+  "stars": 211,
+  "url": "https://github.com/aio-libs/aioftp",
+  "version": "0.28.3",
+  "version_date": "2026-09-19T14:39:39.621820Z"
+ },
+ "aio-libs/aiohappyeyeballs": {
+  "archived": false,
+  "last_commit": "2026-07-25T08:20:26Z",
+  "stars": 46,
+  "url": "https://github.com/aio-libs/aiohappyeyeballs",
+  "version": "2.7.1",
+  "version_date": "2026-07-01T17:11:55.501366Z"
+ },
+ "aio-libs/aiohttp": {
+  "archived": false,
+  "last_commit": "2026-10-04T19:24:22Z",
+  "stars": 16569,
+  "url": "https://github.com/aio-libs/aiohttp",
+  "version": "3.14.3",
+  "version_date": "2026-07-23T01:57:27.037320Z"
+ },
+ "aio-libs/aiohttp-admin": {
+  "archived": false,
+  "last_commit": "2026-09-28T03:58:03Z",
+  "stars": 219,
+  "url": "https://github.com/aio-libs/aiohttp-admin",
+  "version": "v0.0.4",
+  "version_date": "2019-11-03T20:50:08Z"
+ },
+ "aio-libs/aiohttp-cors": {
+  "archived": false,
+  "last_commit": "2026-09-28T09:48:26Z",
+  "stars": 220,
+  "url": "https://github.com/aio-libs/aiohttp-cors",
+  "version": "0.8.1",
+  "version_date": "2025-03-31T14:16:20.048046Z"
+ },
+ "aio-libs/aiohttp-devtools": {
+  "archived": false,
+  "last_commit": "2026-10-01T22:46:18Z",
+  "stars": 266,
+  "url": "https://github.com/aio-libs/aiohttp-devtools",
+  "version": "1.1.2",
+  "version_date": "2023-12-07T17:02:57.429573Z"
+ },
+ "aio-libs/aiohttp-jinja2": {
+  "archived": false,
+  "last_commit": "2026-10-01T02:34:52Z",
+  "stars": 240,
+  "url": "https://github.com/aio-libs/aiohttp-jinja2",
+  "version": "1.6",
+  "version_date": "2023-11-18T15:30:52.559091Z"
+ },
+ "aio-libs/aiohttp-remotes": {
+  "archived": false,
+  "last_commit": "2026-09-28T03:18:36Z",
+  "stars": 85,
+  "url": "https://github.com/aio-libs/aiohttp-remotes",
+  "version": "1.3.0",
+  "version_date": "2024-11-01T17:16:49.974223Z"
+ },
+ "aio-libs/aiohttp-security": {
+  "archived": false,
+  "last_commit": "2026-10-01T11:55:57Z",
+  "stars": 240,
+  "url": "https://github.com/aio-libs/aiohttp-security",
+  "version": "0.5.0",
+  "version_date": "2023-11-18T20:10:32.735133Z"
+ },
+ "aio-libs/aiohttp-session": {
+  "archived": false,
+  "last_commit": "2026-10-01T00:07:46Z",
+  "stars": 245,
+  "url": "https://github.com/aio-libs/aiohttp-session",
+  "version": "2.12.1",
+  "version_date": "2024-09-25T15:15:45.458220Z"
+ },
+ "aio-libs/aiohttp-sse": {
+  "archived": false,
+  "last_commit": "2026-10-01T19:35:19Z",
+  "stars": 238,
+  "url": "https://github.com/aio-libs/aiohttp-sse",
+  "version": "2.2.0",
+  "version_date": "2024-02-29T18:43:48.118475Z"
+ },
+ "aio-libs/aiojobs": {
+  "archived": false,
+  "last_commit": "2026-10-01T21:44:04Z",
+  "stars": 929,
+  "url": "https://github.com/aio-libs/aiojobs",
+  "version": "1.4.0",
+  "version_date": "2025-04-05T00:39:07.771226Z"
+ },
+ "aio-libs/aiokafka": {
+  "archived": false,
+  "last_commit": "2026-09-10T13:25:38Z",
+  "stars": 1403,
+  "url": "https://github.com/aio-libs/aiokafka",
+  "version": "0.14.0",
+  "version_date": "2026-04-29T10:43:03.574019Z"
+ },
+ "aio-libs/aiologstash": {
+  "archived": false,
+  "last_commit": "2022-01-23T21:17:56Z",
+  "stars": 57,
+  "url": "https://github.com/aio-libs/aiologstash",
+  "version": "2.0.0",
+  "version_date": "2019-11-02T22:14:42.601853Z"
+ },
+ "aio-libs/aiomcache": {
+  "archived": false,
+  "last_commit": "2026-09-01T03:26:59Z",
+  "stars": 158,
+  "url": "https://github.com/aio-libs/aiomcache",
+  "version": "0.8.2",
+  "version_date": "2024-05-07T15:03:14.434004Z"
+ },
+ "aio-libs/aiomonitor": {
+  "archived": false,
+  "last_commit": "2026-03-30T14:33:06Z",
+  "stars": 777,
+  "url": "https://github.com/aio-libs/aiomonitor",
+  "version": "0.7.1",
+  "version_date": "2024-11-11T21:48:05.103715Z"
+ },
+ "aio-libs/aiomysql": {
+  "archived": false,
+  "last_commit": "2025-12-22T18:16:05Z",
+  "stars": 1895,
+  "url": "https://github.com/aio-libs/aiomysql",
+  "version": "0.3.2",
+  "version_date": "2025-10-22T00:15:21.278950Z"
+ },
+ "aio-libs/aioneo4j": {
+  "archived": false,
+  "last_commit": "2022-01-23T19:27:08Z",
+  "stars": 28,
+  "url": "https://github.com/aio-libs/aioneo4j",
+  "version": null,
+  "version_date": null
+ },
+ "aio-libs/aioodbc": {
+  "archived": false,
+  "last_commit": "2023-10-28T21:32:18Z",
+  "stars": 325,
+  "url": "https://github.com/aio-libs/aioodbc",
+  "version": "0.5.0",
+  "version_date": "2023-10-28T21:37:29.966287Z"
+ },
+ "aio-libs/aiopg": {
+  "archived": false,
+  "last_commit": "2025-12-03T20:59:03Z",
+  "stars": 1432,
+  "url": "https://github.com/aio-libs/aiopg",
+  "version": "1.4.0",
+  "version_date": "2022-10-26T09:31:49.478981Z"
+ },
+ "aio-libs/aioppspp": {
+  "archived": false,
+  "last_commit": "2016-02-03T05:31:59Z",
+  "stars": 20,
+  "url": "https://github.com/aio-libs/aioppspp",
+  "version": null,
+  "version_date": null
+ },
+ "aio-libs/aiorwlock": {
+  "archived": false,
+  "last_commit": "2026-10-04T12:50:34Z",
+  "stars": 176,
+  "url": "https://github.com/aio-libs/aiorwlock",
+  "version": "1.5.1",
+  "version_date": "2026-02-20T17:42:18.095233Z"
+ },
+ "aio-libs/aiosignal": {
+  "archived": false,
+  "last_commit": "2026-09-30T22:04:08Z",
+  "stars": 170,
+  "url": "https://github.com/aio-libs/aiosignal",
+  "version": "1.4.0",
+  "version_date": "2025-07-03T22:54:43.528302Z"
+ },
+ "aio-libs/aiosmtpd": {
+  "archived": false,
+  "last_commit": "2026-10-01T17:02:30Z",
+  "stars": 372,
+  "url": "https://github.com/aio-libs/aiosmtpd",
+  "version": "1.4.6",
+  "version_date": "2024-05-18T11:37:50.029837Z"
+ },
+ "aio-libs/aiosparql": {
+  "archived": false,
+  "last_commit": "2021-02-27T13:15:38Z",
+  "stars": 24,
+  "url": "https://github.com/aio-libs/aiosparql",
+  "version": "0.12.0",
+  "version_date": "2020-11-21T13:26:50.004541Z"
+ },
+ "aio-libs/aiozipkin": {
+  "archived": false,
+  "last_commit": "2025-01-02T10:53:54Z",
+  "stars": 193,
+  "url": "https://github.com/aio-libs/aiozipkin",
+  "version": "1.1.1",
+  "version_date": "2021-10-23T11:16:24.659231Z"
+ },
+ "aio-libs/aiozmq": {
+  "archived": false,
+  "last_commit": "2026-03-26T15:49:32Z",
+  "stars": 431,
+  "url": "https://github.com/aio-libs/aiozmq",
+  "version": "1.0.0",
+  "version_date": "2022-11-03T01:36:16.184717Z"
+ },
+ "aio-libs/async-lru": {
+  "archived": false,
+  "last_commit": "2026-09-30T15:54:33Z",
+  "stars": 954,
+  "url": "https://github.com/aio-libs/async-lru",
+  "version": "2.3.0",
+  "version_date": "2026-03-19T01:04:32.413284Z"
+ },
+ "aiogram/aiogram": {
+  "archived": false,
+  "last_commit": "2026-09-27T18:56:43Z",
+  "stars": 5887,
+  "url": "https://github.com/aiogram/aiogram",
+  "version": "3.31.0",
+  "version_date": "2026-08-26T00:00:42.970690Z"
+ },
+ "aiogram/aiograph": {
+  "archived": false,
+  "last_commit": "2021-11-20T00:50:56Z",
+  "stars": 65,
+  "url": "https://github.com/aiogram/aiograph",
+  "version": "0.2",
+  "version_date": "2019-03-09T22:38:17.945563Z"
+ },
+ "aiokitchen/aiohttp-s3-client": {
+  "archived": false,
+  "last_commit": "2026-02-12T11:35:08Z",
+  "stars": 33,
+  "url": "https://github.com/aiokitchen/aiohttp-s3-client",
+  "version": "1.1.2",
+  "version_date": "2026-03-11T11:32:06.665034Z"
+ },
+ "aiokitchen/aiomisc": {
+  "archived": false,
+  "last_commit": "2026-09-28T20:48:19Z",
+  "stars": 426,
+  "url": "https://github.com/aiokitchen/aiomisc",
+  "version": "18.0.33",
+  "version_date": "2026-09-28T20:48:34.705385Z"
+ },
+ "aiolifx/aiolifx": {
+  "archived": false,
+  "last_commit": "2026-05-26T08:14:38Z",
+  "stars": 26,
+  "url": "https://github.com/aiolifx/aiolifx",
+  "version": "1.2.2",
+  "version_date": "2026-05-26T08:16:42.167698Z"
+ },
+ "aiondemand/AIOD-rest-api": {
+  "archived": false,
+  "last_commit": "2026-08-06T11:21:14Z",
+  "stars": 37,
+  "url": "https://github.com/aiondemand/AIOD-rest-api",
+  "version": "v2.1.20251113",
+  "version_date": "2025-11-13T13:24:00Z"
+ },
+ "aioqzone/aioqzone": {
+  "archived": false,
+  "last_commit": "2026-08-15T01:26:50Z",
+  "stars": 54,
+  "url": "https://github.com/aioqzone/aioqzone",
+  "version": "1.9.9.dev1",
+  "version_date": "2026-07-26T00:19:09.982120Z"
+ },
+ "aiortc/aioice": {
+  "archived": false,
+  "last_commit": "2026-03-18T13:14:35Z",
+  "stars": 141,
+  "url": "https://github.com/aiortc/aioice",
+  "version": "0.10.2",
+  "version_date": "2025-11-28T15:56:48.836193Z"
+ },
+ "aiortc/aioquic": {
+  "archived": false,
+  "last_commit": "2025-10-11T10:14:57Z",
+  "stars": 2007,
+  "url": "https://github.com/aiortc/aioquic",
+  "version": "1.3.0",
+  "version_date": "2025-10-11T09:16:30.910476Z"
+ },
+ "aiortc/aiortc": {
+  "archived": false,
+  "last_commit": "2026-07-17T08:17:31Z",
+  "stars": 5109,
+  "url": "https://github.com/aiortc/aiortc",
+  "version": "1.15.0",
+  "version_date": "2026-07-13T19:26:43.314446Z"
+ },
+ "aiotinydb/aiotinydb": {
+  "archived": false,
+  "last_commit": "2023-01-29T12:28:58Z",
+  "stars": 75,
+  "url": "https://github.com/aiotinydb/aiotinydb",
+  "version": "2.0.0",
+  "version_date": "2023-01-29T12:48:25.498295Z"
+ },
+ "aioworkers/aioworkers": {
+  "archived": false,
+  "last_commit": "2025-05-11T17:49:56Z",
+  "stars": 46,
+  "url": "https://github.com/aioworkers/aioworkers",
+  "version": "0.28.0",
+  "version_date": "2024-12-23T00:07:41.813124Z"
+ },
+ "alexanderlarin/aiovk": {
+  "archived": false,
+  "last_commit": "2023-04-10T12:09:52Z",
+  "stars": 97,
+  "url": "https://github.com/alexanderlarin/aiovk",
+  "version": "4.1.0",
+  "version_date": "2023-04-10T12:11:13.920340Z"
+ },
+ "alexdelorenzo/aiopath": {
+  "archived": false,
+  "last_commit": "2024-10-20T22:29:47Z",
+  "stars": 197,
+  "url": "https://github.com/alexdelorenzo/aiopath",
+  "version": "0.7.7",
+  "version_date": "2023-10-16T22:37:11.381980Z"
+ },
+ "aliev/aioauth": {
+  "archived": false,
+  "last_commit": "2026-07-26T14:07:56Z",
+  "stars": 230,
+  "url": "https://github.com/aliev/aioauth",
+  "version": "2.0.1",
+  "version_date": "2026-07-26T15:01:33.494489Z"
+ },
+ "aliev/aioauth-fastapi": {
+  "archived": false,
+  "last_commit": "2024-08-18T07:26:16Z",
+  "stars": 41,
+  "url": "https://github.com/aliev/aioauth-fastapi",
+  "version": "0.1.2",
+  "version_date": "2023-03-20T16:54:54.618223Z"
+ },
+ "amenezes/aiopytesseract": {
+  "archived": false,
+  "last_commit": "2026-01-14T01:34:18Z",
+  "stars": 28,
+  "url": "https://github.com/amenezes/aiopytesseract",
+  "version": "1.1.0",
+  "version_date": "2026-01-14T01:35:47.036761Z"
+ },
+ "amikrop/aiomixcloud": {
+  "archived": false,
+  "last_commit": "2024-02-27T15:39:39Z",
+  "stars": 31,
+  "url": "https://github.com/amikrop/aiomixcloud",
+  "version": "1.0.6",
+  "version_date": "2020-10-11T23:52:17.470338Z"
+ },
+ "and800/aioreloader": {
+  "archived": false,
+  "last_commit": "2020-11-11T17:18:58Z",
+  "stars": 26,
+  "url": "https://github.com/and800/aioreloader",
+  "version": "0.4.0",
+  "version_date": "2020-11-11T20:19:47.925614Z"
+ },
+ "anna-money/asyncpg-listen": {
+  "archived": false,
+  "last_commit": "2026-05-31T17:07:41Z",
+  "stars": 47,
+  "url": "https://github.com/anna-money/asyncpg-listen",
+  "version": "0.0.9",
+  "version_date": "2025-07-16T11:03:29.069057Z"
+ },
+ "anti1869/aiohttp_autoreload": {
+  "archived": false,
+  "last_commit": "2016-02-29T11:29:33Z",
+  "stars": 23,
+  "url": "https://github.com/anti1869/aiohttp_autoreload",
+  "version": "0.0.1",
+  "version_date": "2015-12-18T13:45:04.975677Z"
+ },
+ "aohan237/async_cron": {
+  "archived": false,
+  "last_commit": "2025-10-29T08:05:37Z",
+  "stars": 29,
+  "url": "https://github.com/aohan237/async_cron",
+  "version": "1.6.2",
+  "version_date": "2020-01-27T12:52:39.594577Z"
+ },
+ "ape364/aioetherscan": {
+  "archived": false,
+  "last_commit": "2024-06-20T19:44:26Z",
+  "stars": 57,
+  "url": "https://github.com/ape364/aioetherscan",
+  "version": "0.9.4",
+  "version_date": "2024-06-20T19:45:31.373556Z"
+ },
+ "apify/crawlee-python": {
+  "archived": false,
+  "last_commit": "2026-10-02T07:12:39Z",
+  "stars": 9577,
+  "url": "https://github.com/apify/crawlee-python",
+  "version": "1.10.3",
+  "version_date": "2026-09-29T10:51:35.072935Z"
+ },
+ "aresponses/aresponses": {
+  "archived": false,
+  "last_commit": "2024-07-11T04:34:15Z",
+  "stars": 106,
+  "url": "https://github.com/aresponses/aresponses",
+  "version": "3.0.0",
+  "version_date": "2024-01-12T05:36:34.323115Z"
+ },
+ "arlyon/aiobreaker": {
+  "archived": false,
+  "last_commit": "2021-12-27T20:20:14Z",
+  "stars": 30,
+  "url": "https://github.com/arlyon/aiobreaker",
+  "version": "1.2.0",
+  "version_date": "2021-05-17T11:58:05.278033Z"
+ },
+ "art049/odmantic": {
+  "archived": false,
+  "last_commit": "2026-01-25T11:23:24Z",
+  "stars": 1176,
+  "url": "https://github.com/art049/odmantic",
+  "version": "1.1.0",
+  "version_date": "2026-01-24T18:02:04.459074Z"
+ },
+ "artfwo/aiosc": {
+  "archived": false,
+  "last_commit": "2026-07-11T18:06:28Z",
+  "stars": 40,
+  "url": "https://github.com/artfwo/aiosc",
+  "version": "0.3",
+  "version_date": "2026-07-11T18:12:30.634246Z"
+ },
+ "arthur-tacca/aioresult": {
+  "archived": false,
+  "last_commit": "2026-08-24T21:31:33Z",
+  "stars": 20,
+  "url": "https://github.com/arthur-tacca/aioresult",
+  "version": "1.3",
+  "version_date": "2026-08-24T21:36:34.894458Z"
+ },
+ "asvetlov/aioscript": {
+  "archived": false,
+  "last_commit": "2018-02-02T02:01:45Z",
+  "stars": 22,
+  "url": "https://github.com/asvetlov/aioscript",
+  "version": null,
+  "version_date": null
+ },
+ "async-worker/aiologger": {
+  "archived": false,
+  "last_commit": "2023-06-13T01:23:24Z",
+  "stars": 152,
+  "url": "https://github.com/async-worker/aiologger",
+  "version": "0.7.0",
+  "version_date": "2022-10-05T01:03:22.199432Z"
+ },
+ "asyncgui/asynckivy": {
+  "archived": false,
+  "last_commit": "2026-09-29T10:59:03Z",
+  "stars": 90,
+  "url": "https://github.com/asyncgui/asynckivy",
+  "version": "0.12.0",
+  "version_date": "2026-09-29T11:03:51.709148Z"
+ },
+ "asyncins/aiowebsocket": {
+  "archived": false,
+  "last_commit": "2019-07-29T23:22:35Z",
+  "stars": 317,
+  "url": "https://github.com/asyncins/aiowebsocket",
+  "version": "1.0.0.dev-2",
+  "version_date": "2019-03-07T08:23:42.396369Z"
+ },
+ "awslabs/aiops-modules": {
+  "archived": false,
+  "last_commit": "2026-03-18T14:28:42Z",
+  "stars": 104,
+  "url": "https://github.com/awslabs/aiops-modules",
+  "version": "v3.2.6",
+  "version_date": "2026-03-16T14:01:03Z"
+ },
+ "azogue/aiopvpc": {
+  "archived": false,
+  "last_commit": "2024-03-25T08:40:51Z",
+  "stars": 47,
+  "url": "https://github.com/azogue/aiopvpc",
+  "version": "4.3.1",
+  "version_date": "2024-03-25T08:41:37.900075Z"
+ },
+ "bachya/aioambient": {
+  "archived": false,
+  "last_commit": "2025-02-04T20:28:44Z",
+  "stars": 35,
+  "url": "https://github.com/bachya/aioambient",
+  "version": "2025.2.0",
+  "version_date": "2025-02-03T18:27:48.852754Z"
+ },
+ "bachya/aiolinkding": {
+  "archived": false,
+  "last_commit": "2025-02-04T20:29:40Z",
+  "stars": 25,
+  "url": "https://github.com/bachya/aiolinkding",
+  "version": "2025.2.0",
+  "version_date": "2025-02-04T19:45:34.404648Z"
+ },
+ "barneygale/asyncvnc": {
+  "archived": false,
+  "last_commit": "2023-02-26T19:11:26Z",
+  "stars": 44,
+  "url": "https://github.com/barneygale/asyncvnc",
+  "version": "1.3.0",
+  "version_date": "2023-02-26T19:12:11.007180Z"
+ },
+ "bashkirtsevich-llc/aiobtdht": {
+  "archived": false,
+  "last_commit": "2023-11-01T09:26:19Z",
+  "stars": 28,
+  "url": "https://github.com/bashkirtsevich-llc/aiobtdht",
+  "version": null,
+  "version_date": null
+ },
+ "bashkirtsevich-llc/aioudp": {
+  "archived": false,
+  "last_commit": "2024-07-30T20:12:07Z",
+  "stars": 26,
+  "url": "https://github.com/bashkirtsevich-llc/aioudp",
+  "version": "0.0.7",
+  "version_date": "2021-07-10T08:42:04Z"
+ },
+ "basnijholt/aiokef": {
+  "archived": false,
+  "last_commit": "2023-09-01T21:07:31Z",
+  "stars": 41,
+  "url": "https://github.com/basnijholt/aiokef",
+  "version": "0.2.17",
+  "version_date": "2020-10-18T16:44:31.674639Z"
+ },
+ "bdarnell/async_dropbox": {
+  "archived": false,
+  "last_commit": "2013-05-23T14:30:13Z",
+  "stars": 71,
+  "url": "https://github.com/bdarnell/async_dropbox",
+  "version": null,
+  "version_date": null
+ },
+ "beastmatser/aiopokeapi": {
+  "archived": false,
+  "last_commit": "2026-04-08T17:01:45Z",
+  "stars": 51,
+  "url": "https://github.com/beastmatser/aiopokeapi",
+  "version": "0.1.13",
+  "version_date": "2026-02-21T17:16:41.158600Z"
+ },
+ "bh-rat/asyncmcp": {
+  "archived": false,
+  "last_commit": "2026-05-08T20:10:30Z",
+  "stars": 109,
+  "url": "https://github.com/bh-rat/asyncmcp",
+  "version": "0.2.1",
+  "version_date": "2025-08-21T21:01:30.169444Z"
+ },
+ "bharel/asynciolimiter": {
+  "archived": false,
+  "last_commit": "2025-08-01T23:38:59Z",
+  "stars": 39,
+  "url": "https://github.com/bharel/asynciolimiter",
+  "version": "1.2.0",
+  "version_date": "2025-03-18T08:44:43.489981Z"
+ },
+ "bhch/async-stripe": {
+  "archived": false,
+  "last_commit": "2023-12-03T12:09:06Z",
+  "stars": 37,
+  "url": "https://github.com/bhch/async-stripe",
+  "version": "6.1.0",
+  "version_date": "2023-11-18T03:41:35.896575Z"
+ },
+ "bitly/asyncmongo": {
+  "archived": true,
+  "last_commit": "2014-05-20T02:24:59Z",
+  "stars": 606,
+  "url": "https://github.com/bitly/asyncmongo",
+  "version": "1.3",
+  "version_date": "2014-05-20T02:24:18.439755Z"
+ },
+ "blark/aiodnsbrute": {
+  "archived": false,
+  "last_commit": "2019-06-04T19:40:42Z",
+  "stars": 674,
+  "url": "https://github.com/blark/aiodnsbrute",
+  "version": "0.3.2",
+  "version_date": "2019-06-04T19:43:26.231424Z"
+ },
+ "bocadilloproject/aiodine": {
+  "archived": true,
+  "last_commit": "2019-10-15T07:51:57Z",
+  "stars": 53,
+  "url": "https://github.com/bocadilloproject/aiodine",
+  "version": "1.2.9",
+  "version_date": "2019-10-15T07:57:17.354787Z"
+ },
+ "brontide/aioedgeos": {
+  "archived": true,
+  "last_commit": "2020-07-21T17:42:52Z",
+  "stars": 38,
+  "url": "https://github.com/brontide/aioedgeos",
+  "version": null,
+  "version_date": null
+ },
+ "brutasse/asyncio-sse": {
+  "archived": false,
+  "last_commit": "2014-09-25T12:09:37Z",
+  "stars": 21,
+  "url": "https://github.com/brutasse/asyncio-sse",
+  "version": "0.1",
+  "version_date": "2014-02-23T22:57:04.716021Z"
+ },
+ "bryanforbes/asyncpg-stubs": {
+  "archived": false,
+  "last_commit": "2026-07-10T00:17:41Z",
+  "stars": 50,
+  "url": "https://github.com/bryanforbes/asyncpg-stubs",
+  "version": "0.31.3",
+  "version_date": "2026-07-10T00:18:20.154710Z"
+ },
+ "bytebuff/aioScrapy": {
+  "archived": false,
+  "last_commit": "2019-10-25T14:34:28Z",
+  "stars": 35,
+  "url": "https://github.com/bytebuff/aioScrapy",
+  "version": null,
+  "version_date": null
+ },
+ "canxin121/Async-Poe-Client": {
+  "archived": false,
+  "last_commit": "2023-09-27T14:14:25Z",
+  "stars": 45,
+  "url": "https://github.com/canxin121/Async-Poe-Client",
+  "version": null,
+  "version_date": null
+ },
+ "cesbit/aiogcd": {
+  "archived": false,
+  "last_commit": "2026-03-25T07:38:59Z",
+  "stars": 29,
+  "url": "https://github.com/cesbit/aiogcd",
+  "version": "1.0.2",
+  "version_date": "2026-03-25T07:39:42.716533Z"
+ },
+ "cesbit/aiowmi": {
+  "archived": false,
+  "last_commit": "2026-04-03T13:26:23Z",
+  "stars": 31,
+  "url": "https://github.com/cesbit/aiowmi",
+  "version": "1.1.3",
+  "version_date": "2026-04-03T13:27:29.405113Z"
+ },
+ "changyuheng/aioserial": {
+  "archived": false,
+  "last_commit": "2022-07-25T02:17:49Z",
+  "stars": 145,
+  "url": "https://github.com/johannjhang/aioserial.py",
+  "version": "1.3.1",
+  "version_date": "2022-07-25T02:18:40.793924Z"
+ },
+ "chemelli74/aioamazondevices": {
+  "archived": false,
+  "last_commit": "2026-10-04T05:26:48Z",
+  "stars": 55,
+  "url": "https://github.com/chemelli74/aioamazondevices",
+  "version": "16.3.1",
+  "version_date": "2026-09-30T15:16:44.195070Z"
+ },
+ "chenjiandongx/async-bili-spider": {
+  "archived": false,
+  "last_commit": "2019-02-16T07:11:20Z",
+  "stars": 24,
+  "url": "https://github.com/chenjiandongx/async-bili-spider",
+  "version": null,
+  "version_date": null
+ },
+ "chenjiandongx/async-proxy-pool": {
+  "archived": false,
+  "last_commit": "2019-03-14T01:05:57Z",
+  "stars": 366,
+  "url": "https://github.com/chenjiandongx/async-proxy-pool",
+  "version": null,
+  "version_date": null
+ },
+ "choleraehyq/aiorpc": {
+  "archived": false,
+  "last_commit": "2021-06-18T09:28:59Z",
+  "stars": 78,
+  "url": "https://github.com/choleraehyq/aiorpc",
+  "version": "0.1.7",
+  "version_date": "2020-06-09T04:53:49.935267Z"
+ },
+ "chrysn/aiocoap": {
+  "archived": false,
+  "last_commit": "2026-04-24T22:44:37Z",
+  "stars": 293,
+  "url": "https://github.com/chrysn/aiocoap",
+  "version": "0.4.17",
+  "version_date": "2025-11-05T01:25:36.641228Z"
+ },
+ "cirospaciari/socketify.py": {
+  "archived": false,
+  "last_commit": "2026-08-17T20:47:37Z",
+  "stars": 1716,
+  "url": "https://github.com/cirospaciari/socketify.py",
+  "version": "0.0.31",
+  "version_date": "2024-10-29T19:15:57.411908Z"
+ },
+ "civisanalytics/async-graph-data-flow": {
+  "archived": false,
+  "last_commit": "2026-04-21T14:49:58Z",
+  "stars": 22,
+  "url": "https://github.com/civisanalytics/async-graph-data-flow",
+  "version": "2.0.0",
+  "version_date": "2026-04-21T14:54:08.324181Z"
+ },
+ "cjaliaga/aioaquarea": {
+  "archived": false,
+  "last_commit": "2026-05-07T21:55:59Z",
+  "stars": 30,
+  "url": "https://github.com/cjaliaga/aioaquarea",
+  "version": "1.0.7",
+  "version_date": "2026-05-07T21:57:38.206739Z"
+ },
+ "cjrh/aiorun": {
+  "archived": false,
+  "last_commit": "2026-08-20T15:33:46Z",
+  "stars": 470,
+  "url": "https://github.com/cjrh/aiorun",
+  "version": "2025.1.1",
+  "version_date": "2025-01-27T15:01:42.759877Z"
+ },
+ "claws/aioprometheus": {
+  "archived": false,
+  "last_commit": "2023-12-27T23:53:32Z",
+  "stars": 189,
+  "url": "https://github.com/claws/aioprometheus",
+  "version": "23.12.0",
+  "version_date": "2023-12-27T23:54:29.097297Z"
+ },
+ "codemation/aiopyql": {
+  "archived": false,
+  "last_commit": "2021-05-21T21:37:45Z",
+  "stars": 34,
+  "url": "https://github.com/codemation/aiopyql",
+  "version": "0.359",
+  "version_date": "2021-05-21T21:39:28.981576Z"
+ },
+ "codepr/aiotunnel": {
+  "archived": false,
+  "last_commit": "2020-07-07T16:13:09Z",
+  "stars": 33,
+  "url": "https://github.com/codepr/aiotunnel",
+  "version": null,
+  "version_date": null
+ },
+ "cole/aiosmtplib": {
+  "archived": false,
+  "last_commit": "2026-09-18T00:40:21Z",
+  "stars": 433,
+  "url": "https://github.com/cole/aiosmtplib",
+  "version": "5.1.3",
+  "version_date": "2026-09-08T02:11:20.532406Z"
+ },
+ "commonism/aiopenapi3": {
+  "archived": false,
+  "last_commit": "2026-09-26T14:34:38Z",
+  "stars": 21,
+  "url": "https://github.com/commonism/aiopenapi3",
+  "version": "0.11.0",
+  "version_date": "2026-09-26T13:59:36.165795Z"
+ },
+ "cr0hn/aiohttp-cache": {
+  "archived": false,
+  "last_commit": "2026-09-08T12:28:05Z",
+  "stars": 45,
+  "url": "https://github.com/cr0hn/aiohttp-cache",
+  "version": "4.0.1",
+  "version_date": "2023-03-08T17:40:53.471354Z"
+ },
+ "cr0hn/aiotasks": {
+  "archived": false,
+  "last_commit": "2026-09-08T12:28:10Z",
+  "stars": 456,
+  "url": "https://github.com/cr0hn/aiotasks",
+  "version": "1.0.0",
+  "version_date": "2017-01-17T14:58:44.144279Z"
+ },
+ "crossbario/autobahn-python": {
+  "archived": false,
+  "last_commit": "2026-09-29T16:40:21Z",
+  "stars": 2542,
+  "url": "https://github.com/crossbario/autobahn-python",
+  "version": "26.7.1",
+  "version_date": "2026-07-15T19:14:01.246064Z"
+ },
+ "crossbario/crossbar": {
+  "archived": false,
+  "last_commit": "2026-09-29T15:54:57Z",
+  "stars": 2063,
+  "url": "https://github.com/crossbario/crossbar",
+  "version": "26.7.1",
+  "version_date": "2026-07-17T13:02:43.612386Z"
+ },
+ "crypto-libs/aiotx": {
+  "archived": false,
+  "last_commit": "2025-10-01T22:20:21Z",
+  "stars": 22,
+  "url": "https://github.com/crypto-libs/aiotx",
+  "version": "10.0.0",
+  "version_date": "2025-10-01T22:20:47Z"
+ },
+ "cshuaimin/aiodl": {
+  "archived": false,
+  "last_commit": "2020-08-04T02:23:06Z",
+  "stars": 56,
+  "url": "https://github.com/cshuaimin/aiodl",
+  "version": "0.5.7",
+  "version_date": "2018-03-28T08:40:47.799723Z"
+ },
+ "dabeaz/curio": {
+  "archived": true,
+  "last_commit": "2025-12-21T15:48:48Z",
+  "stars": 4123,
+  "url": "https://github.com/dabeaz/curio",
+  "version": "1.6",
+  "version_date": "2022-10-25T14:22:29.100720Z"
+ },
+ "danielgtaylor/python-betterproto": {
+  "archived": false,
+  "last_commit": "2025-07-17T12:50:40Z",
+  "stars": 1769,
+  "url": "https://github.com/danielgtaylor/python-betterproto",
+  "version": "1.2.5",
+  "version_date": "2020-05-27T11:47:32.777725Z"
+ },
+ "daniilshamraev/aiogram-inline-paginations": {
+  "archived": false,
+  "last_commit": "2025-11-05T12:00:14Z",
+  "stars": 23,
+  "url": "https://github.com/daniilshamraev/aiogram-inline-paginations",
+  "version": "0.1.12",
+  "version_date": "2023-01-17T14:48:02.298684Z"
+ },
+ "dano/aioprocessing": {
+  "archived": false,
+  "last_commit": "2022-09-16T02:29:57Z",
+  "stars": 661,
+  "url": "https://github.com/dano/aioprocessing",
+  "version": "2.0.1",
+  "version_date": "2022-09-15T20:33:26.765370Z"
+ },
+ "davebshow/aiogremlin": {
+  "archived": false,
+  "last_commit": "2018-03-27T15:23:43Z",
+  "stars": 43,
+  "url": "https://github.com/davebshow/aiogremlin",
+  "version": "3.3.4",
+  "version_date": "2020-02-01T13:11:41.130008Z"
+ },
+ "davestgermain/aionostr": {
+  "archived": false,
+  "last_commit": "2024-06-05T02:32:09Z",
+  "stars": 21,
+  "url": "https://github.com/davestgermain/aionostr",
+  "version": "0.20.0",
+  "version_date": "2024-06-05T02:34:08.910326Z"
+ },
+ "dbrattli/aioreactive": {
+  "archived": false,
+  "last_commit": "2025-09-11T20:40:46Z",
+  "stars": 401,
+  "url": "https://github.com/dbrattli/aioreactive",
+  "version": "0.20.0",
+  "version_date": "2024-09-28T08:27:04.064057Z"
+ },
+ "dchaplinsky/aiohttp_validate": {
+  "archived": false,
+  "last_commit": "2026-07-19T15:36:41Z",
+  "stars": 49,
+  "url": "https://github.com/dchaplinsky/aiohttp_validate",
+  "version": "2.0",
+  "version_date": "2026-07-19T15:40:44.951225Z"
+ },
+ "ddanier/async-signals": {
+  "archived": false,
+  "last_commit": "2026-08-22T16:22:27Z",
+  "stars": 25,
+  "url": "https://github.com/ddanier/async-signals",
+  "version": "v0.4.1",
+  "version_date": "2026-06-26T18:48:48Z"
+ },
+ "decentfox/aioh2": {
+  "archived": false,
+  "last_commit": "2023-10-15T15:53:45Z",
+  "stars": 78,
+  "url": "https://github.com/decentfox/aioh2",
+  "version": "0.2.3",
+  "version_date": "2023-10-15T16:07:09.698654Z"
+ },
+ "dedoussis/asynction": {
+  "archived": false,
+  "last_commit": "2022-05-03T07:54:54Z",
+  "stars": 51,
+  "url": "https://github.com/dedoussis/asynction",
+  "version": "0.8.3",
+  "version_date": "2022-03-14T15:27:23.982830Z"
+ },
+ "deptyped/aiogram-media-group": {
+  "archived": false,
+  "last_commit": "2023-12-15T07:59:41Z",
+  "stars": 51,
+  "url": "https://github.com/deptyped/aiogram-media-group",
+  "version": "0.5.1",
+  "version_date": "2022-08-10T20:46:48.669613Z"
+ },
+ "devbis/aiopppp": {
+  "archived": false,
+  "last_commit": "2025-10-02T08:26:33Z",
+  "stars": 23,
+  "url": "https://github.com/devbis/aiopppp",
+  "version": "0.2.3",
+  "version_date": "2025-10-02T08:27:57.245098Z"
+ },
+ "developmentseed/async-geotiff": {
+  "archived": false,
+  "last_commit": "2026-09-29T14:54:58Z",
+  "stars": 58,
+  "url": "https://github.com/developmentseed/async-geotiff",
+  "version": "0.5.1",
+  "version_date": "2026-05-18T18:13:54.711099Z"
+ },
+ "developmentseed/async-pmtiles": {
+  "archived": false,
+  "last_commit": "2026-09-14T18:14:32Z",
+  "stars": 58,
+  "url": "https://github.com/developmentseed/async-pmtiles",
+  "version": "0.1.0",
+  "version_date": "2026-02-10T18:10:47.531499Z"
+ },
+ "developmentseed/async-titiler": {
+  "archived": false,
+  "last_commit": "2026-10-01T14:56:20Z",
+  "stars": 27,
+  "url": "https://github.com/developmentseed/async-titiler",
+  "version": null,
+  "version_date": null
+ },
+ "django/asgiref": {
+  "archived": false,
+  "last_commit": "2026-09-28T12:14:20Z",
+  "stars": 1631,
+  "url": "https://github.com/django/asgiref",
+  "version": "3.12.1",
+  "version_date": "2026-07-14T09:56:18.087666Z"
+ },
+ "django/django": {
+  "archived": false,
+  "last_commit": "2026-10-03T15:23:23Z",
+  "stars": 91306,
+  "url": "https://github.com/django/django",
+  "version": "6.1.1",
+  "version_date": "2026-09-02T17:20:45.621516Z"
+ },
+ "dpnspn/aiomax": {
+  "archived": true,
+  "last_commit": "2026-07-14T21:45:00Z",
+  "stars": 42,
+  "url": "https://github.com/dpnspn/aiomax",
+  "version": "2.12.5",
+  "version_date": "2026-07-14T21:49:44.311066Z"
+ },
+ "dutradda/asyncapi-python": {
+  "archived": false,
+  "last_commit": "2020-12-01T22:02:01Z",
+  "stars": 46,
+  "url": "https://github.com/dutradda/asyncapi-python",
+  "version": null,
+  "version_date": null
+ },
+ "dymmond/asyncmq": {
+  "archived": false,
+  "last_commit": "2026-09-04T14:58:33Z",
+  "stars": 80,
+  "url": "https://github.com/dymmond/asyncmq",
+  "version": "0.10.1",
+  "version_date": "2026-09-04T14:59:37.915050Z"
+ },
+ "dymmond/asyncz": {
+  "archived": false,
+  "last_commit": "2026-09-01T09:25:52Z",
+  "stars": 63,
+  "url": "https://github.com/dymmond/asyncz",
+  "version": "0.17.1",
+  "version_date": "2026-07-15T11:24:09.862355Z"
+ },
+ "dymmond/edgy": {
+  "archived": false,
+  "last_commit": "2026-09-29T23:52:14Z",
+  "stars": 440,
+  "url": "https://github.com/dymmond/edgy",
+  "version": "0.37.0",
+  "version_date": "2026-09-26T09:49:07.410647Z"
+ },
+ "earlgreyness/aio-celery": {
+  "archived": false,
+  "last_commit": "2025-06-23T20:50:06Z",
+  "stars": 61,
+  "url": "https://github.com/earlgreyness/aio-celery",
+  "version": "0.22.0",
+  "version_date": "2025-06-23T20:48:41.528457Z"
+ },
+ "ebraminio/aiosseclient": {
+  "archived": false,
+  "last_commit": "2025-03-12T20:03:29Z",
+  "stars": 28,
+  "url": "https://github.com/ebraminio/aiosseclient",
+  "version": "0.1.8",
+  "version_date": "2025-03-08T16:37:59.140545Z"
+ },
+ "eerimoq/asyncudp": {
+  "archived": false,
+  "last_commit": "2023-07-24T14:43:53Z",
+  "stars": 34,
+  "url": "https://github.com/eerimoq/asyncudp",
+  "version": "0.11.0",
+  "version_date": "2023-07-24T14:45:31.664499Z"
+ },
+ "emmett-framework/granian": {
+  "archived": false,
+  "last_commit": "2026-09-30T13:50:51Z",
+  "stars": 5683,
+  "url": "https://github.com/emmett-framework/granian",
+  "version": "2.8.4",
+  "version_date": "2026-09-30T15:12:35.901650Z"
+ },
+ "empicano/aiomqtt": {
+  "archived": false,
+  "last_commit": "2026-04-23T22:27:14Z",
+  "stars": 575,
+  "url": "https://github.com/empicano/aiomqtt",
+  "version": "2.5.1",
+  "version_date": "2026-03-05T18:28:56.421775Z"
+ },
+ "encode/databases": {
+  "archived": true,
+  "last_commit": "2024-03-01T17:30:12Z",
+  "stars": 3988,
+  "url": "https://github.com/encode/databases",
+  "version": "0.9.0",
+  "version_date": "2024-03-01T17:39:28.378796Z"
+ },
+ "encode/httpx": {
+  "archived": false,
+  "last_commit": "2026-02-23T10:40:42Z",
+  "stars": 15524,
+  "url": "https://github.com/encode/httpx",
+  "version": "0.28.1",
+  "version_date": "2024-12-06T15:37:23.222462Z"
+ },
+ "encode/starlette": {
+  "archived": false,
+  "last_commit": "2026-10-04T20:17:02Z",
+  "stars": 12650,
+  "url": "https://github.com/Kludex/starlette",
+  "version": "1.7.0",
+  "version_date": "2026-09-23T07:30:26.350228Z"
+ },
+ "encode/uvicorn": {
+  "archived": false,
+  "last_commit": "2026-10-01T19:36:27Z",
+  "stars": 11007,
+  "url": "https://github.com/Kludex/uvicorn",
+  "version": "0.54.0",
+  "version_date": "2026-09-25T06:52:37.601479Z"
+ },
+ "esphome/aioesphomeapi": {
+  "archived": false,
+  "last_commit": "2026-09-25T17:34:29Z",
+  "stars": 198,
+  "url": "https://github.com/esphome/aioesphomeapi",
+  "version": "46.6.0",
+  "version_date": "2026-09-25T17:53:37.629117Z"
+ },
+ "etianen/aiohttp-wsgi": {
+  "archived": false,
+  "last_commit": "2022-02-20T16:41:11Z",
+  "stars": 231,
+  "url": "https://github.com/etianen/aiohttp-wsgi",
+  "version": "0.10.0",
+  "version_date": "2022-02-20T16:42:37.587574Z"
+ },
+ "fantix/aiocontextvars": {
+  "archived": false,
+  "last_commit": "2019-04-08T22:34:52Z",
+  "stars": 56,
+  "url": "https://github.com/fantix/aiocontextvars",
+  "version": "0.2.2",
+  "version_date": "2019-04-08T22:40:33.205236Z"
+ },
+ "fastapi/asyncer": {
+  "archived": false,
+  "last_commit": "2026-09-02T14:49:18Z",
+  "stars": 2501,
+  "url": "https://github.com/fastapi/asyncer",
+  "version": "0.0.18",
+  "version_date": "2026-06-25T13:41:08.826147Z"
+ },
+ "fastapi/fastapi": {
+  "archived": false,
+  "last_commit": "2026-10-02T11:36:36Z",
+  "stars": 102806,
+  "url": "https://github.com/fastapi/fastapi",
+  "version": "0.142.2",
+  "version_date": "2026-09-30T09:51:11.277181Z"
+ },
+ "fate0/aiochrome": {
+  "archived": false,
+  "last_commit": "2017-09-28T12:56:24Z",
+  "stars": 22,
+  "url": "https://github.com/fate0/aiochrome",
+  "version": "0.0.3",
+  "version_date": "2017-09-19T12:46:22.033008Z"
+ },
+ "fellowapp/asyncio-connection-pool": {
+  "archived": false,
+  "last_commit": "2025-03-07T16:27:23Z",
+  "stars": 28,
+  "url": "https://github.com/fellowapp/asyncio-connection-pool",
+  "version": "1.1.1",
+  "version_date": "2025-03-07T16:28:23.361194Z"
+ },
+ "florimondmanca/aiometer": {
+  "archived": false,
+  "last_commit": "2025-04-04T09:26:34Z",
+  "stars": 440,
+  "url": "https://github.com/florimondmanca/aiometer",
+  "version": "1.0.0",
+  "version_date": "2025-04-04T09:26:25.634397Z"
+ },
+ "frawau/aioblescan": {
+  "archived": false,
+  "last_commit": "2023-01-14T12:21:24Z",
+  "stars": 127,
+  "url": "https://github.com/frawau/aioblescan",
+  "version": "0.2.14",
+  "version_date": "2023-01-07T10:02:02.157868Z"
+ },
+ "frawau/aiotuya": {
+  "archived": false,
+  "last_commit": "2021-06-23T01:57:05Z",
+  "stars": 49,
+  "url": "https://github.com/frawau/aiotuya",
+  "version": "0.1.0b2",
+  "version_date": "2019-03-18T13:36:52.534256Z"
+ },
+ "frostspb/aio_api_ros": {
+  "archived": false,
+  "last_commit": "2023-03-02T08:03:10Z",
+  "stars": 25,
+  "url": "https://github.com/frostspb/aio_api_ros",
+  "version": "0.0.19",
+  "version_date": "2019-10-11T08:12:14.024463Z"
+ },
+ "fsbs/aiocurl": {
+  "archived": false,
+  "last_commit": "2021-10-28T18:52:11Z",
+  "stars": 28,
+  "url": "https://github.com/fsbs/aiocurl",
+  "version": "0.0.3.post1",
+  "version_date": "2021-10-28T18:44:21.104479Z"
+ },
+ "gaopeiliang/aioetcd3": {
+  "archived": false,
+  "last_commit": "2020-09-30T15:23:17Z",
+  "stars": 35,
+  "url": "https://github.com/gaopeiliang/aioetcd3",
+  "version": "1.13",
+  "version_date": "2020-09-30T15:40:54.426701Z"
+ },
+ "gawel/aiocron": {
+  "archived": false,
+  "last_commit": "2025-09-28T14:36:17Z",
+  "stars": 377,
+  "url": "https://github.com/gawel/aiocron",
+  "version": "2.1",
+  "version_date": "2025-02-14T08:26:54.880457Z"
+ },
+ "gawel/aiowsgi": {
+  "archived": false,
+  "last_commit": "2022-08-18T08:55:56Z",
+  "stars": 28,
+  "url": "https://github.com/gawel/aiowsgi",
+  "version": "0.8",
+  "version_date": "2022-08-18T08:55:53.475587Z"
+ },
+ "geospatial-jeff/aiocogeo": {
+  "archived": false,
+  "last_commit": "2021-01-03T18:25:37Z",
+  "stars": 76,
+  "url": "https://github.com/geospatial-jeff/aiocogeo",
+  "version": "0.3.0",
+  "version_date": "2020-12-03T01:55:59.686012Z"
+ },
+ "gera2ld/async_dns": {
+  "archived": false,
+  "last_commit": "2026-07-25T13:54:26Z",
+  "stars": 74,
+  "url": "https://github.com/gera2ld/async_dns",
+  "version": "2.0.1",
+  "version_date": "2026-07-25T13:55:22.956290Z"
+ },
+ "geronimo-iia/async-btree": {
+  "archived": false,
+  "last_commit": "2026-09-06T08:18:14Z",
+  "stars": 45,
+  "url": "https://github.com/geronimo-iia/async-btree",
+  "version": "3.0.1",
+  "version_date": "2026-09-06T08:18:38.738987Z"
+ },
+ "gfmio/asyncio-gevent": {
+  "archived": false,
+  "last_commit": "2025-07-14T11:35:15Z",
+  "stars": 83,
+  "url": "https://github.com/gfmio/asyncio-gevent",
+  "version": "0.2.5",
+  "version_date": "2025-07-14T11:36:38.122485Z"
+ },
+ "ggindinson/aiogram_widgets": {
+  "archived": false,
+  "last_commit": "2023-12-14T18:07:01Z",
+  "stars": 24,
+  "url": "https://github.com/ggindinson/aiogram_widgets",
+  "version": "1.2.7",
+  "version_date": "2023-12-14T18:06:07.083359Z"
+ },
+ "gistart/asyncio-pool": {
+  "archived": false,
+  "last_commit": "2022-05-21T10:29:45Z",
+  "stars": 120,
+  "url": "https://github.com/gistart/asyncio-pool",
+  "version": "0.6.0",
+  "version_date": "2022-05-21T10:34:26.356082Z"
+ },
+ "gmarull/asyncqt": {
+  "archived": true,
+  "last_commit": "2020-12-29T18:03:47Z",
+  "stars": 155,
+  "url": "https://github.com/gmarull/asyncqt",
+  "version": "0.8.0",
+  "version_date": "2020-03-18T10:30:47.257962Z"
+ },
+ "gmr/aiorabbit": {
+  "archived": false,
+  "last_commit": "2026-08-31T14:49:25Z",
+  "stars": 23,
+  "url": "https://github.com/gmr/aiorabbit",
+  "version": "1.0.3",
+  "version_date": "2026-08-31T14:50:46.074769Z"
+ },
+ "graphql-python/aiohttp-graphql": {
+  "archived": false,
+  "last_commit": "2020-08-07T18:38:44Z",
+  "stars": 117,
+  "url": "https://github.com/graphql-python/aiohttp-graphql",
+  "version": "1.1.0",
+  "version_date": "2020-05-03T20:13:43.264858Z"
+ },
+ "graphql-python/graphene": {
+  "archived": false,
+  "last_commit": "2024-11-09T20:43:17Z",
+  "stars": 8239,
+  "url": "https://github.com/graphql-python/graphene",
+  "version": "3.4.3",
+  "version_date": "2024-11-09T20:44:25.757589Z"
+ },
+ "gusutabopb/aioinflux": {
+  "archived": true,
+  "last_commit": "2023-08-05T06:01:46Z",
+  "stars": 162,
+  "url": "https://github.com/gusutabopb/aioinflux",
+  "version": "0.9.0",
+  "version_date": "2019-07-11T02:40:11.401551Z"
+ },
+ "hackergadgets/aiov2_ctl": {
+  "archived": false,
+  "last_commit": "2026-03-03T20:08:12Z",
+  "stars": 126,
+  "url": "https://github.com/hackergadgets/aiov2_ctl",
+  "version": null,
+  "version_date": null
+ },
+ "hallazzang/asyncio-throttle": {
+  "archived": false,
+  "last_commit": "2021-04-07T13:42:34Z",
+  "stars": 128,
+  "url": "https://github.com/hallazzang/asyncio-throttle",
+  "version": "1.0.2",
+  "version_date": "2021-04-07T13:37:50.114785Z"
+ },
+ "hampsterx/async-kinesis": {
+  "archived": false,
+  "last_commit": "2026-05-06T22:35:52Z",
+  "stars": 24,
+  "url": "https://github.com/hampsterx/async-kinesis",
+  "version": "2.5.6",
+  "version_date": "2026-05-06T22:40:00.003951Z"
+ },
+ "harshitgavita-07/Aios": {
+  "archived": false,
+  "last_commit": "2026-07-26T20:42:45Z",
+  "stars": 26,
+  "url": "https://github.com/harshitgavita-07/Aios",
+  "version": "v2.0.0",
+  "version_date": "2026-04-02T06:50:18Z"
+ },
+ "healthjoy/async-firebase": {
+  "archived": false,
+  "last_commit": "2026-10-04T15:00:45Z",
+  "stars": 48,
+  "url": "https://github.com/healthjoy/async-firebase",
+  "version": "6.3.0",
+  "version_date": "2026-10-04T15:06:29.004901Z"
+ },
+ "hellysmile/async_retrying": {
+  "archived": false,
+  "last_commit": "2017-11-21T14:41:05Z",
+  "stars": 22,
+  "url": "https://github.com/hellysmile/async_retrying",
+  "version": null,
+  "version_date": null
+ },
+ "hephex/asyncache": {
+  "archived": false,
+  "last_commit": "2023-12-22T21:53:18Z",
+  "stars": 109,
+  "url": "https://github.com/hephex/asyncache",
+  "version": "0.3.1",
+  "version_date": "2022-11-15T10:06:47.476470Z"
+ },
+ "hh-h/aiohttp-swagger3": {
+  "archived": false,
+  "last_commit": "2025-02-11T10:48:58Z",
+  "stars": 61,
+  "url": "https://github.com/hh-h/aiohttp-swagger3",
+  "version": "0.10.0",
+  "version_date": "2025-02-11T10:51:26.974952Z"
+ },
+ "hh-h/aiosnmp": {
+  "archived": true,
+  "last_commit": "2026-07-12T12:09:04Z",
+  "stars": 54,
+  "url": "https://github.com/hh-h/aiosnmp",
+  "version": "0.7.2",
+  "version_date": "2022-12-05T09:13:13.438056Z"
+ },
+ "home-assistant-libs/aioecowitt": {
+  "archived": false,
+  "last_commit": "2026-10-03T07:56:00Z",
+  "stars": 23,
+  "url": "https://github.com/home-assistant-libs/aioecowitt",
+  "version": "2026.6.0",
+  "version_date": "2026-06-24T10:05:46.476585Z"
+ },
+ "home-assistant-libs/aiohue": {
+  "archived": false,
+  "last_commit": "2026-09-28T16:57:44Z",
+  "stars": 75,
+  "url": "https://github.com/home-assistant-libs/aiohue",
+  "version": "4.9.0",
+  "version_date": "2026-07-30T21:04:37.263816Z"
+ },
+ "home-assistant-libs/aioshelly": {
+  "archived": false,
+  "last_commit": "2026-10-04T07:01:16Z",
+  "stars": 82,
+  "url": "https://github.com/home-assistant-libs/aioshelly",
+  "version": "13.34.1",
+  "version_date": "2026-09-30T21:08:19.115467Z"
+ },
+ "home-assistant-libs/aiowebostv": {
+  "archived": false,
+  "last_commit": "2026-09-28T09:57:04Z",
+  "stars": 55,
+  "url": "https://github.com/home-assistant-libs/aiowebostv",
+  "version": "0.10.0",
+  "version_date": "2026-08-28T11:02:59.887061Z"
+ },
+ "horazont/aioxmpp": {
+  "archived": true,
+  "last_commit": "2024-01-14T12:28:18Z",
+  "stars": 216,
+  "url": "https://github.com/horazont/aioxmpp",
+  "version": "0.13.3",
+  "version_date": "2023-02-05T10:09:06.472996Z"
+ },
+ "housleyjk/aiopyramid": {
+  "archived": false,
+  "last_commit": "2022-09-16T14:16:18Z",
+  "stars": 78,
+  "url": "https://github.com/housleyjk/aiopyramid",
+  "version": "0.4.1",
+  "version_date": "2017-06-05T00:24:30.395103Z"
+ },
+ "howie6879/ruia": {
+  "archived": false,
+  "last_commit": "2022-08-21T07:26:04Z",
+  "stars": 1738,
+  "url": "https://github.com/howie6879/ruia",
+  "version": "0.8.5",
+  "version_date": "2022-09-06T08:54:59.059411Z"
+ },
+ "hubo1016/aiogrpc": {
+  "archived": false,
+  "last_commit": "2020-08-24T12:22:22Z",
+  "stars": 114,
+  "url": "https://github.com/hubo1016/aiogrpc",
+  "version": "1.8",
+  "version_date": "2020-08-24T12:52:35.770933Z"
+ },
+ "hussein-awala/async-batcher": {
+  "archived": false,
+  "last_commit": "2025-02-17T21:41:35Z",
+  "stars": 38,
+  "url": "https://github.com/hussein-awala/async-batcher",
+  "version": "0.2.2",
+  "version_date": "2025-02-17T21:45:34.289598Z"
+ },
+ "hzlmn/aiohttp-jwt": {
+  "archived": false,
+  "last_commit": "2020-05-07T18:06:49Z",
+  "stars": 78,
+  "url": "https://github.com/hzlmn/aiohttp-jwt",
+  "version": "0.6.1",
+  "version_date": "2020-05-07T18:05:49.694452Z"
+ },
+ "iamsinghrajat/async-cache": {
+  "archived": false,
+  "last_commit": "2026-05-28T18:18:08Z",
+  "stars": 107,
+  "url": "https://github.com/iamsinghrajat/async-cache",
+  "version": "2.0.3",
+  "version_date": "2026-04-22T00:56:43.068677Z"
+ },
+ "igorcoding/asynctnt": {
+  "archived": false,
+  "last_commit": "2024-12-01T12:34:30Z",
+  "stars": 83,
+  "url": "https://github.com/igorcoding/asynctnt",
+  "version": "2.4.0",
+  "version_date": "2024-12-01T13:56:36.720556Z"
+ },
+ "ihandmine/aioscpy": {
+  "archived": false,
+  "last_commit": "2025-04-18T08:28:01Z",
+  "stars": 115,
+  "url": "https://github.com/ihandmine/aioscpy",
+  "version": "0.3.13",
+  "version_date": "2025-04-18T08:27:59.388582Z"
+ },
+ "ilex/aiomotorengine": {
+  "archived": false,
+  "last_commit": "2025-05-20T07:15:25Z",
+  "stars": 27,
+  "url": "https://github.com/ilex/aiomotorengine",
+  "version": null,
+  "version_date": null
+ },
+ "imbolc/aiohttp-login": {
+  "archived": true,
+  "last_commit": "2018-02-23T15:24:55Z",
+  "stars": 51,
+  "url": "https://github.com/imbolc/aiohttp-login",
+  "version": "1.4.0",
+  "version_date": "2018-02-23T15:32:53.966137Z"
+ },
+ "inglesp/async-requests": {
+  "archived": false,
+  "last_commit": "2014-05-17T17:43:36Z",
+  "stars": 20,
+  "url": "https://github.com/inglesp/async-requests",
+  "version": null,
+  "version_date": null
+ },
+ "insolor/async-tkinter-loop": {
+  "archived": false,
+  "last_commit": "2026-10-01T04:03:47Z",
+  "stars": 94,
+  "url": "https://github.com/insolor/async-tkinter-loop",
+  "version": "0.10.4",
+  "version_date": "2026-06-17T07:02:39.636771Z"
+ },
+ "inyutin/aiohttp_retry": {
+  "archived": false,
+  "last_commit": "2026-04-08T15:58:23Z",
+  "stars": 272,
+  "url": "https://github.com/inyutin/aiohttp_retry",
+  "version": "2.9.1",
+  "version_date": "2024-11-06T10:44:54.574319Z"
+ },
+ "iroco-co/aioimaplib": {
+  "archived": false,
+  "last_commit": "2026-09-24T20:22:44Z",
+  "stars": 170,
+  "url": "https://github.com/iroco-co/aioimaplib",
+  "version": null,
+  "version_date": null
+ },
+ "itielshwartz/asyncio-hn": {
+  "archived": false,
+  "last_commit": "2017-03-28T20:12:12Z",
+  "stars": 28,
+  "url": "https://github.com/itielshwartz/asyncio-hn",
+  "version": "0.4.0",
+  "version_date": "2017-03-28T20:14:39.037766Z"
+ },
+ "jhammant/AIonDemandCluster": {
+  "archived": false,
+  "last_commit": "2026-09-20T21:39:09Z",
+  "stars": 42,
+  "url": "https://github.com/jhammant/AIonDemandCluster",
+  "version": "0.5.0",
+  "version_date": "2026-06-30T22:34:09.696343Z"
+ },
+ "jhenstridge/asyncio-glib": {
+  "archived": false,
+  "last_commit": "2019-09-05T07:51:25Z",
+  "stars": 36,
+  "url": "https://github.com/jhenstridge/asyncio-glib",
+  "version": "0.1",
+  "version_date": "2019-08-22T14:13:37.886785Z"
+ },
+ "jmf-mordis/asynckafka": {
+  "archived": true,
+  "last_commit": "2021-01-23T19:24:49Z",
+  "stars": 34,
+  "url": "https://github.com/jmf-mordis/asynckafka",
+  "version": "0.2.0",
+  "version_date": "2020-10-26T19:17:07.199506Z"
+ },
+ "joanvila/aioredlock": {
+  "archived": false,
+  "last_commit": "2022-05-19T16:43:27Z",
+  "stars": 317,
+  "url": "https://github.com/joanvila/aioredlock",
+  "version": "0.7.3",
+  "version_date": "2022-02-08T15:11:13.352930Z"
+ },
+ "johannjhang/aioserial.py": {
+  "archived": false,
+  "last_commit": "2022-07-25T02:17:49Z",
+  "stars": 145,
+  "url": "https://github.com/johannjhang/aioserial.py",
+  "version": null,
+  "version_date": null
+ },
+ "jonathanslenders/asyncio-redis": {
+  "archived": false,
+  "last_commit": "2020-08-11T13:56:51Z",
+  "stars": 549,
+  "url": "https://github.com/jonathanslenders/asyncio-redis",
+  "version": "0.16.0",
+  "version_date": "2020-06-08T08:35:09.093592Z"
+ },
+ "jorgeajimenezl/aiodav": {
+  "archived": false,
+  "last_commit": "2025-09-05T10:12:01Z",
+  "stars": 27,
+  "url": "https://github.com/jorgeajimenezl/aiodav",
+  "version": "0.1.14",
+  "version_date": "2025-09-04T13:08:49.372111Z"
+ },
+ "jsbronder/asyncio-dgram": {
+  "archived": false,
+  "last_commit": "2026-01-21T19:24:25Z",
+  "stars": 56,
+  "url": "https://github.com/jsbronder/asyncio-dgram",
+  "version": "3.0.0",
+  "version_date": "2026-01-21T19:40:18.547892Z"
+ },
+ "kageurufu/AsyncIRC": {
+  "archived": true,
+  "last_commit": "2016-04-13T22:05:40Z",
+  "stars": 35,
+  "url": "https://github.com/kageurufu/AsyncIRC",
+  "version": "0.0.3",
+  "version_date": "2014-02-17T22:42:15.358134Z"
+ },
+ "karajan1001/aiooss2": {
+  "archived": false,
+  "last_commit": "2024-05-06T05:26:04Z",
+  "stars": 21,
+  "url": "https://github.com/karajan1001/aiooss2",
+  "version": "0.2.11",
+  "version_date": "2024-04-14T02:17:15.693224Z"
+ },
+ "kasbah/aioredux": {
+  "archived": false,
+  "last_commit": "2018-08-05T21:26:18Z",
+  "stars": 23,
+  "url": "https://github.com/kasbah/aioredux",
+  "version": null,
+  "version_date": null
+ },
+ "kchmck/aiopipe": {
+  "archived": true,
+  "last_commit": "2020-12-20T17:54:56Z",
+  "stars": 32,
+  "url": "https://github.com/kchmck/aiopipe",
+  "version": "0.2.2",
+  "version_date": "2019-10-17T00:02:34.404144Z"
+ },
+ "kennedyshead/aioasuswrt": {
+  "archived": false,
+  "last_commit": "2026-09-28T18:17:35Z",
+  "stars": 26,
+  "url": "https://github.com/kennedyshead/aioasuswrt",
+  "version": "2.2.2",
+  "version_date": "2026-09-11T08:24:36.570126Z"
+ },
+ "klen/aioauth-client": {
+  "archived": false,
+  "last_commit": "2025-04-10T09:57:50Z",
+  "stars": 145,
+  "url": "https://github.com/klen/aioauth-client",
+  "version": "0.30.1",
+  "version_date": "2025-04-10T09:58:49.259332Z"
+ },
+ "kootenpv/aioyagmail": {
+  "archived": false,
+  "last_commit": "2018-06-27T20:09:10Z",
+  "stars": 33,
+  "url": "https://github.com/kootenpv/aioyagmail",
+  "version": "0.0.4",
+  "version_date": "2018-06-27T20:10:22.447760Z"
+ },
+ "kotope/aio_energy_management": {
+  "archived": false,
+  "last_commit": "2026-09-27T14:37:50Z",
+  "stars": 75,
+  "url": "https://github.com/kotope/aio_energy_management",
+  "version": "1.2.1",
+  "version_date": "2026-09-29T06:35:38Z"
+ },
+ "kszucs/aiopeewee": {
+  "archived": false,
+  "last_commit": "2020-04-29T09:12:35Z",
+  "stars": 46,
+  "url": "https://github.com/kszucs/aiopeewee",
+  "version": "0.4.2",
+  "version_date": "2017-10-21T09:41:27.352334Z"
+ },
+ "kumaraditya303/aioshutil": {
+  "archived": false,
+  "last_commit": "2026-08-23T16:28:00Z",
+  "stars": 50,
+  "url": "https://github.com/kumaraditya303/aioshutil",
+  "version": "1.6",
+  "version_date": "2025-10-21T08:42:23.742080Z"
+ },
+ "kuzxnia/async_factory_boy": {
+  "archived": false,
+  "last_commit": "2023-08-12T13:46:02Z",
+  "stars": 25,
+  "url": "https://github.com/kuzxnia/async_factory_boy",
+  "version": "1.0.1",
+  "version_date": "2023-08-12T13:44:44.458023Z"
+ },
+ "kwarunek/aiounittest": {
+  "archived": false,
+  "last_commit": "2026-01-19T23:17:53Z",
+  "stars": 58,
+  "url": "https://github.com/kwarunek/aiounittest",
+  "version": "1.5.0",
+  "version_date": "2025-03-07T07:33:58.648413Z"
+ },
+ "kyuupichan/aiorpcX": {
+  "archived": false,
+  "last_commit": "2026-02-19T13:40:39Z",
+  "stars": 30,
+  "url": "https://github.com/kyuupichan/aiorpcX",
+  "version": "0.25.0",
+  "version_date": "2025-05-08T00:57:02.090931Z"
+ },
+ "layerqa/aiocryptopay": {
+  "archived": false,
+  "last_commit": "2025-07-04T22:24:56Z",
+  "stars": 103,
+  "url": "https://github.com/layerqa/aiocryptopay",
+  "version": "0.4.8",
+  "version_date": "2025-07-04T22:25:45.315664Z"
+ },
+ "lbryio/aioupnp": {
+  "archived": false,
+  "last_commit": "2020-12-21T19:54:52Z",
+  "stars": 26,
+  "url": "https://github.com/lbryio/aioupnp",
+  "version": "0.0.18",
+  "version_date": "2020-11-03T00:31:48.010114Z"
+ },
+ "lenzenmi/asyncio_dispatch": {
+  "archived": false,
+  "last_commit": "2015-11-12T12:06:08Z",
+  "stars": 20,
+  "url": "https://github.com/lenzenmi/asyncio_dispatch",
+  "version": "1.1.0",
+  "version_date": "2015-10-05T13:06:04.041698Z"
+ },
+ "lepture/authlib": {
+  "archived": false,
+  "last_commit": "2026-08-31T08:08:18Z",
+  "stars": 5432,
+  "url": "https://github.com/authlib/authlib",
+  "version": "1.8.0",
+  "version_date": "2026-08-30T12:12:34.833435Z"
+ },
+ "leriomaggio/async-ipython-magic": {
+  "archived": false,
+  "last_commit": "2020-12-04T14:18:29Z",
+  "stars": 22,
+  "url": "https://github.com/leriomaggio/async-ipython-magic",
+  "version": null,
+  "version_date": null
+ },
+ "lisael/aioetcd": {
+  "archived": false,
+  "last_commit": "2014-12-18T20:27:26Z",
+  "stars": 20,
+  "url": "https://github.com/lisael/aioetcd",
+  "version": null,
+  "version_date": null
+ },
+ "lisael/aioraft": {
+  "archived": false,
+  "last_commit": "2015-08-09T23:08:42Z",
+  "stars": 29,
+  "url": "https://github.com/lisael/aioraft",
+  "version": "0.1a0",
+  "version_date": null
+ },
+ "litestar-org/litestar": {
+  "archived": false,
+  "last_commit": "2026-10-02T12:13:09Z",
+  "stars": 8494,
+  "url": "https://github.com/litestar-org/litestar",
+  "version": "2.24.0",
+  "version_date": "2026-06-11T11:27:00.519124Z"
+ },
+ "lixi5338619/asyncpy": {
+  "archived": false,
+  "last_commit": "2022-10-23T05:11:11Z",
+  "stars": 103,
+  "url": "https://github.com/lixi5338619/asyncpy",
+  "version": "1.2.0",
+  "version_date": "2022-09-21T10:24:30.992457Z"
+ },
+ "loRes228/aiogram_broadcaster": {
+  "archived": false,
+  "last_commit": "2025-10-17T19:22:53Z",
+  "stars": 25,
+  "url": "https://github.com/loRes228/aiogram_broadcaster",
+  "version": "0.6.8",
+  "version_date": "2025-10-17T19:27:36.538847Z"
+ },
+ "locusrobotics/aiorospy": {
+  "archived": false,
+  "last_commit": "2026-09-24T23:26:07Z",
+  "stars": 43,
+  "url": "https://github.com/locusrobotics/aiorospy",
+  "version": null,
+  "version_date": null
+ },
+ "long2ice/asynch": {
+  "archived": false,
+  "last_commit": "2026-08-14T15:55:04Z",
+  "stars": 244,
+  "url": "https://github.com/long2ice/asynch",
+  "version": "0.4.0",
+  "version_date": "2026-08-14T16:13:46.201181Z"
+ },
+ "long2ice/asyncmy": {
+  "archived": false,
+  "last_commit": "2026-09-25T16:08:17Z",
+  "stars": 391,
+  "url": "https://github.com/long2ice/asyncmy",
+  "version": "0.2.15",
+  "version_date": "2026-09-21T13:57:06.546747Z"
+ },
+ "ludeeus/aiogithubapi": {
+  "archived": false,
+  "last_commit": "2026-07-18T14:06:57Z",
+  "stars": 29,
+  "url": "https://github.com/ludeeus/aiogithubapi",
+  "version": "26.0.0",
+  "version_date": "2026-02-28T09:56:52.621752Z"
+ },
+ "lumina37/aiotieba": {
+  "archived": false,
+  "last_commit": "2026-10-02T02:16:49Z",
+  "stars": 688,
+  "url": "https://github.com/lumina37/aiotieba",
+  "version": "4.8.0",
+  "version_date": "2026-10-02T02:20:36.014781Z"
+ },
+ "lundberg/respx": {
+  "archived": false,
+  "last_commit": "2026-04-23T14:12:07Z",
+  "stars": 839,
+  "url": "https://github.com/lundberg/respx",
+  "version": "0.23.1",
+  "version_date": "2026-04-08T14:37:16.008390Z"
+ },
+ "mahenzon/aioalice": {
+  "archived": false,
+  "last_commit": "2023-02-23T17:00:10Z",
+  "stars": 91,
+  "url": "https://github.com/mahenzon/aioalice",
+  "version": "1.5.1",
+  "version_date": "2022-04-18T11:45:00.154447Z"
+ },
+ "marcelnicolay/asyncmongo-orm": {
+  "archived": false,
+  "last_commit": "2012-05-07T18:04:22Z",
+  "stars": 27,
+  "url": "https://github.com/marcelnicolay/asyncmongo-orm",
+  "version": null,
+  "version_date": null
+ },
+ "marss/aiortsp": {
+  "archived": false,
+  "last_commit": "2024-09-27T08:45:41Z",
+  "stars": 57,
+  "url": "https://github.com/marss/aiortsp",
+  "version": "1.4.0",
+  "version_date": "2024-09-27T08:57:07.441615Z"
+ },
+ "mathieu-mp/aio-intex-spa": {
+  "archived": false,
+  "last_commit": "2025-10-24T16:23:48Z",
+  "stars": 25,
+  "url": "https://github.com/mathieu-mp/aio-intex-spa",
+  "version": "0.9.1",
+  "version_date": "2024-04-25T14:21:45.764796Z"
+ },
+ "mattrasband/aioredis-lock": {
+  "archived": true,
+  "last_commit": "2019-12-10T23:51:05Z",
+  "stars": 24,
+  "url": "https://github.com/mattrasband/aioredis-lock",
+  "version": "v0.1.0",
+  "version_date": "2019-12-10T23:58:12Z"
+ },
+ "maxfischer2781/asyncstdlib": {
+  "archived": false,
+  "last_commit": "2026-10-04T17:08:45Z",
+  "stars": 380,
+  "url": "https://github.com/maxfischer2781/asyncstdlib",
+  "version": "3.14.0",
+  "version_date": "2026-03-20T21:06:46.025793Z"
+ },
+ "maximdanilchenko/aiochclient": {
+  "archived": false,
+  "last_commit": "2026-06-08T19:17:51Z",
+  "stars": 257,
+  "url": "https://github.com/maximdanilchenko/aiochclient",
+  "version": "2.7.0",
+  "version_date": "2026-06-04T13:22:11.326614Z"
+ },
+ "maximdanilchenko/aiohttp-apispec": {
+  "archived": false,
+  "last_commit": "2024-11-15T10:07:40Z",
+  "stars": 227,
+  "url": "https://github.com/maximdanilchenko/aiohttp-apispec",
+  "version": "2.2.3",
+  "version_date": "2022-03-01T14:35:30.973499Z"
+ },
+ "maxzheng/aiohttp-requests": {
+  "archived": false,
+  "last_commit": "2024-05-11T19:48:54Z",
+  "stars": 55,
+  "url": "https://github.com/maxzheng/aiohttp-requests",
+  "version": "0.2.4",
+  "version_date": "2024-05-11T19:48:53.898548Z"
+ },
+ "mayflaver/AsyncTorndb": {
+  "archived": false,
+  "last_commit": "2016-01-06T12:02:04Z",
+  "stars": 157,
+  "url": "https://github.com/mayflaver/AsyncTorndb",
+  "version": null,
+  "version_date": null
+ },
+ "metricq/aiocouch": {
+  "archived": false,
+  "last_commit": "2025-07-11T08:00:26Z",
+  "stars": 34,
+  "url": "https://github.com/metricq/aiocouch",
+  "version": "4.0.1",
+  "version_date": "2025-07-11T08:03:42.695180Z"
+ },
+ "michael-sulyak/aiohttp-rpc": {
+  "archived": false,
+  "last_commit": "2026-01-19T16:47:23Z",
+  "stars": 28,
+  "url": "https://github.com/michael-sulyak/aiohttp-rpc",
+  "version": "2.0.0",
+  "version_date": "2026-01-19T16:48:10.038297Z"
+ },
+ "michaelarnauts/aiocomfoconnect": {
+  "archived": false,
+  "last_commit": "2026-08-03T05:06:51Z",
+  "stars": 107,
+  "url": "https://github.com/michaelarnauts/aiocomfoconnect",
+  "version": "0.2.1",
+  "version_date": "2026-08-02T18:55:34.829080Z"
+ },
+ "michalc/aiodnsresolver": {
+  "archived": false,
+  "last_commit": "2025-01-07T17:50:10Z",
+  "stars": 63,
+  "url": "https://github.com/michalc/aiodnsresolver",
+  "version": "0.0.157",
+  "version_date": "2025-01-07T17:51:10.330022Z"
+ },
+ "michalc/asyncio-buffered-pipeline": {
+  "archived": false,
+  "last_commit": "2020-11-09T07:48:52Z",
+  "stars": 118,
+  "url": "https://github.com/michalc/asyncio-buffered-pipeline",
+  "version": "0.0.8",
+  "version_date": "2020-11-09T07:50:20.066607Z"
+ },
+ "micro-fan/aiozk": {
+  "archived": false,
+  "last_commit": "2025-08-07T18:52:35Z",
+  "stars": 51,
+  "url": "https://github.com/micro-fan/aiozk",
+  "version": "0.32.0",
+  "version_date": "2025-08-07T19:03:38.881214Z"
+ },
+ "miguelgrinberg/aio-executor": {
+  "archived": false,
+  "last_commit": "2020-11-21T20:04:09Z",
+  "stars": 23,
+  "url": "https://github.com/miguelgrinberg/aio-executor",
+  "version": "0.2.0",
+  "version_date": "2020-01-05T20:11:26.364516Z"
+ },
+ "miguelgrinberg/aioflask": {
+  "archived": true,
+  "last_commit": "2023-06-20T11:57:30Z",
+  "stars": 205,
+  "url": "https://github.com/miguelgrinberg/aioflask",
+  "version": "0.4.0",
+  "version_date": "2021-08-18T09:09:25.537392Z"
+ },
+ "miguelgrinberg/asyncio-testing": {
+  "archived": false,
+  "last_commit": "2017-02-08T19:00:28Z",
+  "stars": 27,
+  "url": "https://github.com/miguelgrinberg/asyncio-testing",
+  "version": null,
+  "version_date": null
+ },
+ "miguelgrinberg/python-socketio": {
+  "archived": false,
+  "last_commit": "2026-09-14T22:44:56Z",
+  "stars": 4370,
+  "url": "https://github.com/miguelgrinberg/python-socketio",
+  "version": "5.17.0",
+  "version_date": "2026-09-14T22:51:02.968150Z"
+ },
+ "mikegc-aws/async-agentic-tools": {
+  "archived": false,
+  "last_commit": "2026-05-28T00:45:00Z",
+  "stars": 41,
+  "url": "https://github.com/mikegc-aws/async-agentic-tools",
+  "version": null,
+  "version_date": null
+ },
+ "mikeshardmind/async-utils": {
+  "archived": false,
+  "last_commit": "2026-09-20T04:46:54Z",
+  "stars": 34,
+  "url": "https://github.com/mikeshardmind/async-utils",
+  "version": null,
+  "version_date": null
+ },
+ "milahu/aiohttp_chromium": {
+  "archived": false,
+  "last_commit": "2025-12-01T19:47:37Z",
+  "stars": 62,
+  "url": "https://github.com/milahu/aiohttp_chromium",
+  "version": null,
+  "version_date": null
+ },
+ "minrk/asyncio-atexit": {
+  "archived": false,
+  "last_commit": "2025-01-07T08:14:56Z",
+  "stars": 22,
+  "url": "https://github.com/minrk/asyncio-atexit",
+  "version": "1.0.1",
+  "version_date": "2022-04-26T08:54:16.998378Z"
+ },
+ "mirumee/ariadne": {
+  "archived": false,
+  "last_commit": "2026-08-31T09:15:18Z",
+  "stars": 2347,
+  "url": "https://github.com/mirumee/ariadne",
+  "version": "1.1.0",
+  "version_date": "2026-06-15T11:07:36.795922Z"
+ },
+ "mitstake/aiodag": {
+  "archived": false,
+  "last_commit": "2021-09-23T09:36:43Z",
+  "stars": 28,
+  "url": "https://github.com/mitstake/aiodag",
+  "version": "0.4",
+  "version_date": "2021-07-20T06:26:03Z"
+ },
+ "mjpieters/aiolimiter": {
+  "archived": false,
+  "last_commit": "2026-10-04T00:59:11Z",
+  "stars": 784,
+  "url": "https://github.com/mjpieters/aiolimiter",
+  "version": "1.3.0",
+  "version_date": "2026-09-07T14:40:27.876736Z"
+ },
+ "mongodb/mongo-python-driver": {
+  "archived": false,
+  "last_commit": "2026-10-02T21:07:14Z",
+  "stars": 4358,
+  "url": "https://github.com/mongodb/mongo-python-driver",
+  "version": "4.18.2",
+  "version_date": "2026-09-24T16:59:59.472050Z"
+ },
+ "mongodb/motor": {
+  "archived": false,
+  "last_commit": "2026-09-30T18:34:36Z",
+  "stars": 2526,
+  "url": "https://github.com/mongodb/motor",
+  "version": "3.7.1",
+  "version_date": "2025-05-14T18:56:33.653510Z"
+ },
+ "monobot/asyncorm": {
+  "archived": false,
+  "last_commit": "2020-08-20T10:30:30Z",
+  "stars": 174,
+  "url": "https://github.com/monobot/asyncorm",
+  "version": "0.5.3",
+  "version_date": "2019-03-24T13:58:41.703350Z"
+ },
+ "mori-b/aioconnectors": {
+  "archived": false,
+  "last_commit": "2024-07-01T03:42:02Z",
+  "stars": 21,
+  "url": "https://github.com/mori-b/aioconnectors",
+  "version": "1.6.3",
+  "version_date": "2023-05-18T17:35:34.310514Z"
+ },
+ "mosquito/aio-pika": {
+  "archived": false,
+  "last_commit": "2026-09-27T12:04:37Z",
+  "stars": 1480,
+  "url": "https://github.com/mosquito/aio-pika",
+  "version": "10.1.0",
+  "version_date": "2026-09-27T11:28:07.651311Z"
+ },
+ "mosquito/aiofile": {
+  "archived": false,
+  "last_commit": "2026-08-23T10:16:48Z",
+  "stars": 584,
+  "url": "https://github.com/mosquito/aiofile",
+  "version": "3.12.3",
+  "version_date": "2026-08-04T22:59:27.171757Z"
+ },
+ "mosquito/aiohttp-asgi": {
+  "archived": false,
+  "last_commit": "2025-06-10T10:57:59Z",
+  "stars": 26,
+  "url": "https://github.com/mosquito/aiohttp-asgi",
+  "version": "0.6.1",
+  "version_date": "2025-06-10T10:59:46.840331Z"
+ },
+ "mosquito/aiohttp-xmlrpc": {
+  "archived": false,
+  "last_commit": "2022-12-18T21:23:03Z",
+  "stars": 34,
+  "url": "https://github.com/mosquito/aiohttp-xmlrpc",
+  "version": "1.5.0",
+  "version_date": "2022-01-11T11:16:26.869660Z"
+ },
+ "mosquito/aiormq": {
+  "archived": false,
+  "last_commit": "2026-09-29T07:17:26Z",
+  "stars": 318,
+  "url": "https://github.com/mosquito/aiormq",
+  "version": "7.2.1",
+  "version_date": "2026-09-29T07:18:24.224528Z"
+ },
+ "mosquito/async-class": {
+  "archived": false,
+  "last_commit": "2021-10-03T19:50:44Z",
+  "stars": 38,
+  "url": "https://github.com/mosquito/async-class",
+  "version": "0.5.0",
+  "version_date": "2021-09-26T18:14:47.154151Z"
+ },
+ "mossblaser/aiomqtt": {
+  "archived": false,
+  "last_commit": "2023-06-19T18:21:03Z",
+  "stars": 55,
+  "url": "https://github.com/mossblaser/aiomqtt",
+  "version": null,
+  "version_date": null
+ },
+ "mr-fatalyst/oxyde": {
+  "archived": false,
+  "last_commit": "2026-09-29T18:14:45Z",
+  "stars": 763,
+  "url": "https://github.com/mr-fatalyst/oxyde",
+  "version": "0.8.0",
+  "version_date": "2026-08-26T19:51:19.389626Z"
+ },
+ "ms264556/aioruckus": {
+  "archived": false,
+  "last_commit": "2026-09-14T23:59:56Z",
+  "stars": 20,
+  "url": "https://github.com/ms264556/aioruckus",
+  "version": "0.49",
+  "version_date": "2026-09-15T00:08:51.423455Z"
+ },
+ "mvanderlee/aiotrino": {
+  "archived": false,
+  "last_commit": "2025-03-21T00:40:16Z",
+  "stars": 21,
+  "url": "https://github.com/mvanderlee/aiotrino",
+  "version": "0.3.0",
+  "version_date": "2025-03-21T00:47:25.129716Z"
+ },
+ "mymarilyn/aioch": {
+  "archived": false,
+  "last_commit": "2022-02-27T09:42:34Z",
+  "stars": 169,
+  "url": "https://github.com/mymarilyn/aioch",
+  "version": "0.0.2",
+  "version_date": "2019-11-24T20:12:40.897077Z"
+ },
+ "nackjicholson/aiosql": {
+  "archived": false,
+  "last_commit": "2026-07-10T13:43:28Z",
+  "stars": 1412,
+  "url": "https://github.com/nackjicholson/aiosql",
+  "version": "15.0",
+  "version_date": "2026-01-04T19:14:41.239974Z"
+ },
+ "nats-io/nats.py": {
+  "archived": false,
+  "last_commit": "2026-10-01T21:36:33Z",
+  "stars": 1261,
+  "url": "https://github.com/nats-io/nats.py",
+  "version": "2.16.0",
+  "version_date": "2026-09-16T07:47:21.843998Z"
+ },
+ "nessshon/aiogram-tonconnect": {
+  "archived": false,
+  "last_commit": "2025-06-06T15:46:08Z",
+  "stars": 49,
+  "url": "https://github.com/nessshon/aiogram-tonconnect",
+  "version": "0.15.0",
+  "version_date": "2025-06-06T15:46:24.937294Z"
+ },
+ "netedgeplus/aiobfd": {
+  "archived": false,
+  "last_commit": "2017-10-13T13:33:25Z",
+  "stars": 22,
+  "url": "https://github.com/netedgeplus/aiobfd",
+  "version": "0.2",
+  "version_date": "2017-10-13T12:07:35.627905Z"
+ },
+ "nhoad/aiomanhole": {
+  "archived": false,
+  "last_commit": "2022-01-23T15:45:52Z",
+  "stars": 31,
+  "url": "https://github.com/nhoad/aiomanhole",
+  "version": null,
+  "version_date": null
+ },
+ "nhumrich/aiomock": {
+  "archived": false,
+  "last_commit": "2024-04-19T04:04:47Z",
+  "stars": 28,
+  "url": "https://github.com/nhumrich/aiomock",
+  "version": "0.1.0",
+  "version_date": "2016-09-20T22:34:22.247973Z"
+ },
+ "nibrag/aiosocks": {
+  "archived": false,
+  "last_commit": "2020-04-13T07:19:26Z",
+  "stars": 118,
+  "url": "https://github.com/nibrag/aiosocks",
+  "version": "0.2.6",
+  "version_date": "2017-11-20T20:20:50.516445Z"
+ },
+ "noXplode/aiogram_calendar": {
+  "archived": false,
+  "last_commit": "2024-12-15T21:28:34Z",
+  "stars": 191,
+  "url": "https://github.com/noXplode/aiogram_calendar",
+  "version": "0.6.0",
+  "version_date": "2024-12-26T11:10:34.598657Z"
+ },
+ "nonebot/aiocqhttp": {
+  "archived": false,
+  "last_commit": "2023-06-11T05:18:02Z",
+  "stars": 299,
+  "url": "https://github.com/nonebot/aiocqhttp",
+  "version": "1.4.4",
+  "version_date": "2023-06-11T05:20:08.649411Z"
+ },
+ "nonebot/nonebot2": {
+  "archived": false,
+  "last_commit": "2026-09-28T07:22:32Z",
+  "stars": 7730,
+  "url": "https://github.com/nonebot/nonebot2",
+  "version": "2.5.0",
+  "version_date": "2026-04-01T03:33:47.728858Z"
+ },
+ "notypecheck/aioinject": {
+  "archived": false,
+  "last_commit": "2026-07-23T08:18:25Z",
+  "stars": 60,
+  "url": "https://github.com/notypecheck/aioinject",
+  "version": "1.11.0",
+  "version_date": "2026-06-02T01:22:30.495884Z"
+ },
+ "nxtlo/aiobungie": {
+  "archived": false,
+  "last_commit": "2025-11-16T16:42:55Z",
+  "stars": 53,
+  "url": "https://github.com/nxtlo/aiobungie",
+  "version": "0.5.0",
+  "version_date": "2025-11-16T16:26:43.693065Z"
+ },
+ "observerss/aioutils": {
+  "archived": false,
+  "last_commit": "2015-03-12T06:43:11Z",
+  "stars": 33,
+  "url": "https://github.com/observerss/aioutils",
+  "version": "0.3.10",
+  "version_date": "2015-03-12T06:44:07.633912Z"
+ },
+ "olitheolix/aiokubernetes": {
+  "archived": false,
+  "last_commit": "2018-10-22T05:52:42Z",
+  "stars": 24,
+  "url": "https://github.com/olitheolix/aiokubernetes",
+  "version": "0.6",
+  "version_date": "2018-07-22T04:22:55.362093Z"
+ },
+ "omarryhan/aiogoogle": {
+  "archived": false,
+  "last_commit": "2026-07-18T07:15:42Z",
+  "stars": 224,
+  "url": "https://github.com/omarryhan/aiogoogle",
+  "version": "5.19.0",
+  "version_date": "2026-07-18T07:16:22.794080Z"
+ },
+ "omnilib/aioitertools": {
+  "archived": false,
+  "last_commit": "2025-11-06T22:14:49Z",
+  "stars": 278,
+  "url": "https://github.com/omnilib/aioitertools",
+  "version": "0.13.0",
+  "version_date": "2025-11-06T22:17:07.609623Z"
+ },
+ "omnilib/aiomultiprocess": {
+  "archived": false,
+  "last_commit": "2024-07-22T19:48:57Z",
+  "stars": 1924,
+  "url": "https://github.com/omnilib/aiomultiprocess",
+  "version": "0.9.1",
+  "version_date": "2024-04-23T08:26:04.223177Z"
+ },
+ "omnilib/aiosqlite": {
+  "archived": false,
+  "last_commit": "2025-12-23T19:21:18Z",
+  "stars": 1581,
+  "url": "https://github.com/omnilib/aiosqlite",
+  "version": "0.22.1",
+  "version_date": "2025-12-23T19:25:43.997176Z"
+ },
+ "open-telemetry/opentelemetry-python": {
+  "archived": false,
+  "last_commit": "2026-10-01T21:09:37Z",
+  "stars": 2657,
+  "url": "https://github.com/open-telemetry/opentelemetry-python",
+  "version": "1.45.0",
+  "version_date": "2026-09-25T12:32:28.399446Z"
+ },
+ "ormar-orm/ormar": {
+  "archived": false,
+  "last_commit": "2026-10-02T13:36:40Z",
+  "stars": 1802,
+  "url": "https://github.com/ormar-orm/ormar",
+  "version": "0.26.0",
+  "version_date": "2026-06-08T16:37:53.809676Z"
+ },
+ "pallets/quart": {
+  "archived": false,
+  "last_commit": "2026-09-12T09:07:19Z",
+  "stars": 3672,
+  "url": "https://github.com/pallets/quart",
+  "version": "0.23.1",
+  "version_date": "2026-08-29T15:58:35.767708Z"
+ },
+ "panoslin/aio-vextractor": {
+  "archived": false,
+  "last_commit": "2023-03-10T17:35:16Z",
+  "stars": 60,
+  "url": "https://github.com/panoslin/aio-vextractor",
+  "version": null,
+  "version_date": null
+ },
+ "patman15/aiobmsble": {
+  "archived": false,
+  "last_commit": "2026-09-30T18:34:10Z",
+  "stars": 30,
+  "url": "https://github.com/patman15/aiobmsble",
+  "version": "0.29.0",
+  "version_date": "2026-09-14T15:11:59.947228Z"
+ },
+ "paulran/aioquant": {
+  "archived": false,
+  "last_commit": "2025-05-26T05:24:53Z",
+  "stars": 500,
+  "url": "https://github.com/paulran/aioquant",
+  "version": null,
+  "version_date": null
+ },
+ "pavlodvornikov/aiocfscrape": {
+  "archived": false,
+  "last_commit": "2020-03-25T15:16:45Z",
+  "stars": 80,
+  "url": "https://github.com/pavlodvornikov/aiocfscrape",
+  "version": "1.0.0",
+  "version_date": "2020-03-25T15:16:42.175325Z"
+ },
+ "pedrokiefer/aiostomp": {
+  "archived": false,
+  "last_commit": "2022-11-25T14:30:09Z",
+  "stars": 22,
+  "url": "https://github.com/pedrokiefer/aiostomp",
+  "version": "1.7.3",
+  "version_date": "2022-11-25T14:32:23.771086Z"
+ },
+ "pengutronix/aiohttp-json-rpc": {
+  "archived": true,
+  "last_commit": "2020-12-14T09:11:49Z",
+  "stars": 55,
+  "url": "https://github.com/pengutronix/aiohttp-json-rpc",
+  "version": "0.13.3",
+  "version_date": "2020-12-14T10:13:07.636676Z"
+ },
+ "perkfly/aioify": {
+  "archived": false,
+  "last_commit": "2022-04-04T13:40:33Z",
+  "stars": 99,
+  "url": "https://github.com/perkfly/aioify",
+  "version": null,
+  "version_date": null
+ },
+ "peterkeen/aioesphomeserver": {
+  "archived": false,
+  "last_commit": "2026-07-09T18:26:42Z",
+  "stars": 22,
+  "url": "https://github.com/peterkeen/aioesphomeserver",
+  "version": null,
+  "version_date": null
+ },
+ "pgiri/asyncoro": {
+  "archived": false,
+  "last_commit": "2018-03-01T17:05:23Z",
+  "stars": 49,
+  "url": "https://github.com/pgiri/asyncoro",
+  "version": "4.5.6",
+  "version_date": "2017-05-23T10:31:13.606005Z"
+ },
+ "pgjones/hypercorn": {
+  "archived": false,
+  "last_commit": "2025-11-08T13:49:10Z",
+  "stars": 1617,
+  "url": "https://github.com/pgjones/hypercorn",
+  "version": "0.18.0",
+  "version_date": "2025-11-08T13:54:04.780563Z"
+ },
+ "phenobarbital/asyncdb": {
+  "archived": false,
+  "last_commit": "2026-09-14T17:23:53Z",
+  "stars": 55,
+  "url": "https://github.com/phenobarbital/asyncdb",
+  "version": "2.16.2",
+  "version_date": "2026-09-14T17:28:32.997118Z"
+ },
+ "piccolo-orm/piccolo": {
+  "archived": false,
+  "last_commit": "2026-09-14T22:27:13Z",
+  "stars": 1949,
+  "url": "https://github.com/piccolo-orm/piccolo",
+  "version": "1.36.0",
+  "version_date": "2026-07-27T21:54:39.806602Z"
+ },
+ "playpauseandstop/aiohttp-middlewares": {
+  "archived": false,
+  "last_commit": "2026-09-16T13:10:43Z",
+  "stars": 53,
+  "url": "https://github.com/playpauseandstop/aiohttp-middlewares",
+  "version": "3.0.0",
+  "version_date": "2026-09-16T13:12:34.700339Z"
+ },
+ "plugaai/aioinflux": {
+  "archived": true,
+  "last_commit": "2023-08-05T06:01:46Z",
+  "stars": 162,
+  "url": "https://github.com/gusutabopb/aioinflux",
+  "version": "0.9.0",
+  "version_date": "2019-07-11T02:40:11.401551Z"
+ },
+ "pnuckowski/aioresponses": {
+  "archived": false,
+  "last_commit": "2026-04-13T22:24:08Z",
+  "stars": 556,
+  "url": "https://github.com/pnuckowski/aioresponses",
+  "version": "0.7.9",
+  "version_date": "2026-06-23T21:23:23.828158Z"
+ },
+ "pogzyb/asyncwhois": {
+  "archived": false,
+  "last_commit": "2026-10-02T11:22:39Z",
+  "stars": 100,
+  "url": "https://github.com/pogzyb/asyncwhois",
+  "version": "1.1.15",
+  "version_date": "2026-10-02T11:24:57.488707Z"
+ },
+ "praw-dev/asyncpraw": {
+  "archived": false,
+  "last_commit": "2026-10-02T23:52:24Z",
+  "stars": 154,
+  "url": "https://github.com/praw-dev/asyncpraw",
+  "version": "8.0.3",
+  "version_date": "2026-08-12T16:56:59.922171Z"
+ },
+ "proDreams/async_yookassa": {
+  "archived": false,
+  "last_commit": "2026-07-20T18:50:51Z",
+  "stars": 34,
+  "url": "https://github.com/proDreams/async_yookassa",
+  "version": "1.0.3",
+  "version_date": "2026-07-20T18:51:12.844357Z"
+ },
+ "puentesarrin/asyncflux": {
+  "archived": true,
+  "last_commit": "2015-02-26T07:24:44Z",
+  "stars": 25,
+  "url": "https://github.com/puentesarrin/asyncflux",
+  "version": null,
+  "version_date": null
+ },
+ "pylakey/aiotdlib": {
+  "archived": true,
+  "last_commit": "2026-01-16T08:05:07Z",
+  "stars": 146,
+  "url": "https://github.com/pylakey/aiotdlib",
+  "version": "0.27.6",
+  "version_date": "2025-06-08T12:32:18.841947Z"
+ },
+ "pyrogram/pyrogram": {
+  "archived": true,
+  "last_commit": "2024-12-23T20:20:42Z",
+  "stars": 4617,
+  "url": "https://github.com/pyrogram/pyrogram",
+  "version": "2.0.106",
+  "version_date": "2023-04-30T18:24:45.506571Z"
+ },
+ "pyrustic/asyncpal": {
+  "archived": false,
+  "last_commit": "2024-12-02T06:50:31Z",
+  "stars": 46,
+  "url": "https://github.com/pyrustic/asyncpal",
+  "version": "0.0.7",
+  "version_date": "2024-12-03T09:08:14.807456Z"
+ },
+ "pytest-dev/pytest-asyncio": {
+  "archived": false,
+  "last_commit": "2026-10-01T08:12:27Z",
+  "stars": 1664,
+  "url": "https://github.com/pytest-dev/pytest-asyncio",
+  "version": "1.4.0",
+  "version_date": "2026-05-26T09:56:04.083461Z"
+ },
+ "python-arq/arq": {
+  "archived": false,
+  "last_commit": "2026-04-16T10:39:58Z",
+  "stars": 3015,
+  "url": "https://github.com/python-arq/arq",
+  "version": "0.28.0",
+  "version_date": "2026-04-16T10:50:23.893637Z"
+ },
+ "python-gino/gino": {
+  "archived": false,
+  "last_commit": "2022-02-12T20:29:45Z",
+  "stars": 2789,
+  "url": "https://github.com/python-gino/gino",
+  "version": "1.0.1",
+  "version_date": "2020-06-08T23:55:56.990895Z"
+ },
+ "python-happybase/aiohappybase": {
+  "archived": false,
+  "last_commit": "2021-02-02T22:19:34Z",
+  "stars": 22,
+  "url": "https://github.com/python-happybase/aiohappybase",
+  "version": "1.4.0",
+  "version_date": "2021-02-02T22:13:27.623048Z"
+ },
+ "python-telegram-bot/python-telegram-bot": {
+  "archived": false,
+  "last_commit": "2026-10-01T04:06:45Z",
+  "stars": 29509,
+  "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+  "version": "22.8",
+  "version_date": "2026-06-12T08:10:29.100805Z"
+ },
+ "python-trio/async_generator": {
+  "archived": false,
+  "last_commit": "2018-08-01T05:39:16Z",
+  "stars": 104,
+  "url": "https://github.com/python-trio/async_generator",
+  "version": "1.10",
+  "version_date": "2018-08-01T03:36:21.690827Z"
+ },
+ "python-trio/trio": {
+  "archived": false,
+  "last_commit": "2026-10-01T05:42:08Z",
+  "stars": 7341,
+  "url": "https://github.com/python-trio/trio",
+  "version": "0.34.0",
+  "version_date": "2026-08-11T00:33:42.198470Z"
+ },
+ "python-trio/trio-asyncio": {
+  "archived": false,
+  "last_commit": "2026-05-18T16:07:50Z",
+  "stars": 204,
+  "url": "https://github.com/python-trio/trio-asyncio",
+  "version": "0.16.0",
+  "version_date": "2026-05-15T21:27:42.660712Z"
+ },
+ "python-websockets/websockets": {
+  "archived": false,
+  "last_commit": "2026-10-04T14:07:48Z",
+  "stars": 5725,
+  "url": "https://github.com/python-websockets/websockets",
+  "version": "17.2",
+  "version_date": "2026-10-03T14:56:53.500209Z"
+ },
+ "python019/async-django-email": {
+  "archived": false,
+  "last_commit": "2022-10-13T21:37:00Z",
+  "stars": 33,
+  "url": "https://github.com/python019/async-django-email",
+  "version": null,
+  "version_date": null
+ },
+ "qntln/aiodebug": {
+  "archived": false,
+  "last_commit": "2022-01-04T11:03:45Z",
+  "stars": 65,
+  "url": "https://github.com/qntln/aiodebug",
+  "version": "2.3.0",
+  "version_date": "2022-01-04T13:33:46.323914Z"
+ },
+ "quantmind/aio-openapi": {
+  "archived": true,
+  "last_commit": "2023-08-31T20:48:01Z",
+  "stars": 37,
+  "url": "https://github.com/quantmind/aio-openapi",
+  "version": "3.2.1",
+  "version_date": "2023-07-24T10:24:56.335971Z"
+ },
+ "rafalp/async-caches": {
+  "archived": false,
+  "last_commit": "2021-06-13T11:17:26Z",
+  "stars": 28,
+  "url": "https://github.com/rafalp/async-caches",
+  "version": "0.3.0",
+  "version_date": "2019-08-15T15:59:43.780741Z"
+ },
+ "rbarrois/aionotify": {
+  "archived": false,
+  "last_commit": "2024-05-15T17:05:47Z",
+  "stars": 125,
+  "url": "https://github.com/rbarrois/aionotify",
+  "version": "0.3.1",
+  "version_date": "2024-05-15T17:05:41.999512Z"
+ },
+ "rbw/aiosnow": {
+  "archived": false,
+  "last_commit": "2021-01-24T15:38:09Z",
+  "stars": 73,
+  "url": "https://github.com/rbw/aiosnow",
+  "version": "0.6.0",
+  "version_date": "2020-11-21T22:11:58.361969Z"
+ },
+ "realthk/asyncpioneer": {
+  "archived": false,
+  "last_commit": "2022-08-09T09:39:17Z",
+  "stars": 28,
+  "url": "https://github.com/realthk/asyncpioneer",
+  "version": null,
+  "version_date": null
+ },
+ "redis/redis-py": {
+  "archived": false,
+  "last_commit": "2026-10-04T06:46:15Z",
+  "stars": 13648,
+  "url": "https://github.com/redis/redis-py",
+  "version": "8.1.0",
+  "version_date": "2026-07-30T08:51:00.269040Z"
+ },
+ "requests-cache/aiohttp-client-cache": {
+  "archived": false,
+  "last_commit": "2026-10-01T14:55:18Z",
+  "stars": 155,
+  "url": "https://github.com/requests-cache/aiohttp-client-cache",
+  "version": "0.14.3",
+  "version_date": "2026-01-07T20:43:32.962813Z"
+ },
+ "robertmrk/aiosfstream": {
+  "archived": false,
+  "last_commit": "2019-03-08T07:47:01Z",
+  "stars": 46,
+  "url": "https://github.com/robertmrk/aiosfstream",
+  "version": "0.5.0",
+  "version_date": "2019-03-08T07:50:11.159097Z"
+ },
+ "romis2012/aiohttp-socks": {
+  "archived": false,
+  "last_commit": "2026-08-12T04:40:33Z",
+  "stars": 243,
+  "url": "https://github.com/romis2012/aiohttp-socks",
+  "version": "0.12.0",
+  "version_date": "2026-08-12T04:43:15.791477Z"
+ },
+ "romis2012/aiosocksy": {
+  "archived": true,
+  "last_commit": "2018-08-29T15:37:45Z",
+  "stars": 32,
+  "url": "https://github.com/romis2012/aiosocksy",
+  "version": "0.1.2",
+  "version_date": "2018-08-29T15:34:05.385675Z"
+ },
+ "ronf/asyncssh": {
+  "archived": false,
+  "last_commit": "2026-10-04T04:25:26Z",
+  "stars": 1760,
+  "url": "https://github.com/ronf/asyncssh",
+  "version": "2.24.1",
+  "version_date": "2026-10-04T02:48:24.913289Z"
+ },
+ "rtfol/aiohttp-sse-client": {
+  "archived": false,
+  "last_commit": "2021-05-10T22:53:04Z",
+  "stars": 48,
+  "url": "https://github.com/rtfol/aiohttp-sse-client",
+  "version": "0.2.1",
+  "version_date": "2021-02-27T10:00:40.329560Z"
+ },
+ "rundef/async_rithmic": {
+  "archived": false,
+  "last_commit": "2026-08-21T14:21:49Z",
+  "stars": 120,
+  "url": "https://github.com/rundef/async_rithmic",
+  "version": "1.6.6",
+  "version_date": "2026-08-21T14:25:12.828192Z"
+ },
+ "ryananguiano/async_property": {
+  "archived": false,
+  "last_commit": "2023-09-05T05:31:35Z",
+  "stars": 98,
+  "url": "https://github.com/ryananguiano/async_property",
+  "version": "0.2.2",
+  "version_date": "2023-07-03T17:21:55.688545Z"
+ },
+ "ryanwang520/aiothrift": {
+  "archived": true,
+  "last_commit": "2026-01-05T06:21:32Z",
+  "stars": 43,
+  "url": "https://github.com/ryanwang520/aiothrift",
+  "version": "0.2.7",
+  "version_date": "2022-04-17T16:25:33.870898Z"
+ },
+ "safepost/aiobastion": {
+  "archived": false,
+  "last_commit": "2025-06-04T06:55:44Z",
+  "stars": 22,
+  "url": "https://github.com/safepost/aiobastion",
+  "version": "v0.1.9",
+  "version_date": "2025-06-04T06:58:30Z"
+ },
+ "saghul/aiouv": {
+  "archived": false,
+  "last_commit": "2015-08-12T05:24:07Z",
+  "stars": 69,
+  "url": "https://github.com/saghul/aiouv",
+  "version": "0.0.1",
+  "version_date": null
+ },
+ "saghul/pyuv": {
+  "archived": true,
+  "last_commit": "2020-02-12T10:36:51Z",
+  "stars": 1108,
+  "url": "https://github.com/saghul/pyuv",
+  "version": "1.4.0",
+  "version_date": "2017-07-08T12:59:44.330531Z"
+ },
+ "samuelcolvin/aioaws": {
+  "archived": false,
+  "last_commit": "2024-08-16T14:13:17Z",
+  "stars": 180,
+  "url": "https://github.com/samuelcolvin/aioaws",
+  "version": "0.15.1",
+  "version_date": "2024-08-16T14:15:14.509414Z"
+ },
+ "samuelcolvin/aiohttp-toolbox": {
+  "archived": false,
+  "last_commit": "2019-12-12T12:15:34Z",
+  "stars": 24,
+  "url": "https://github.com/samuelcolvin/aiohttp-toolbox",
+  "version": "0.6.3",
+  "version_date": "2019-12-12T12:18:20.002787Z"
+ },
+ "samuelcolvin/watchfiles": {
+  "archived": false,
+  "last_commit": "2026-09-21T10:32:06Z",
+  "stars": 2547,
+  "url": "https://github.com/samuelcolvin/watchfiles",
+  "version": "1.3.0",
+  "version_date": "2026-09-21T09:08:55.664410Z"
+ },
+ "sanic-org/sanic": {
+  "archived": false,
+  "last_commit": "2026-05-31T19:29:09Z",
+  "stars": 18636,
+  "url": "https://github.com/sanic-org/sanic",
+  "version": "25.12.1",
+  "version_date": "2026-05-31T19:45:46.988713Z"
+ },
+ "sheldygg/aiotiktok": {
+  "archived": false,
+  "last_commit": "2024-07-21T16:14:43Z",
+  "stars": 31,
+  "url": "https://github.com/sheldygg/aiotiktok",
+  "version": "3.0.0",
+  "version_date": "2024-03-25T19:43:33.410627Z"
+ },
+ "shveenkov/aiotarantool": {
+  "archived": false,
+  "last_commit": "2019-12-11T21:12:01Z",
+  "stars": 40,
+  "url": "https://github.com/shveenkov/aiotarantool",
+  "version": "1.1.5",
+  "version_date": "2017-06-17T18:36:29.934170Z"
+ },
+ "simonw/asyncinject": {
+  "archived": false,
+  "last_commit": "2026-06-11T06:26:18Z",
+  "stars": 37,
+  "url": "https://github.com/simonw/asyncinject",
+  "version": "0.7",
+  "version_date": "2026-06-11T06:29:19.944642Z"
+ },
+ "sirkonst/async-reduce": {
+  "archived": false,
+  "last_commit": "2025-01-18T18:15:30Z",
+  "stars": 21,
+  "url": "https://github.com/sirkonst/async-reduce",
+  "version": "1.4",
+  "version_date": "2025-01-18T18:27:25.857138Z"
+ },
+ "sixu05202004/async-flask-sqlalchemy-postgresql": {
+  "archived": false,
+  "last_commit": "2014-03-21T02:22:23Z",
+  "stars": 34,
+  "url": "https://github.com/sixu05202004/async-flask-sqlalchemy-postgresql",
+  "version": null,
+  "version_date": null
+ },
+ "sjaensch/aiobravado": {
+  "archived": false,
+  "last_commit": "2018-11-16T13:19:50Z",
+  "stars": 20,
+  "url": "https://github.com/sjaensch/aiobravado",
+  "version": "0.9.3",
+  "version_date": "2018-06-19T13:20:30.495093Z"
+ },
+ "sjlongland/aioax25": {
+  "archived": false,
+  "last_commit": "2026-06-14T08:58:36Z",
+  "stars": 27,
+  "url": "https://github.com/sjlongland/aioax25",
+  "version": "0.0.11.post0",
+  "version_date": "2023-10-13T08:04:28.777606Z"
+ },
+ "skelsec/aiosmb": {
+  "archived": false,
+  "last_commit": "2026-08-14T05:26:08Z",
+  "stars": 220,
+  "url": "https://github.com/skelsec/aiosmb",
+  "version": "0.4.14",
+  "version_date": "2025-10-29T13:55:51.906010Z"
+ },
+ "skelsec/aiowinreg": {
+  "archived": false,
+  "last_commit": "2025-10-29T09:58:12Z",
+  "stars": 24,
+  "url": "https://github.com/skelsec/aiowinreg",
+  "version": "0.0.13",
+  "version_date": "2025-10-29T09:58:26.302833Z"
+ },
+ "skmendez/aiorcon": {
+  "archived": false,
+  "last_commit": "2020-08-26T17:16:43Z",
+  "stars": 25,
+  "url": "https://github.com/skmendez/aiorcon",
+  "version": null,
+  "version_date": null
+ },
+ "slaily/aiosqlitepool": {
+  "archived": false,
+  "last_commit": "2025-07-21T14:07:13Z",
+  "stars": 431,
+  "url": "https://github.com/slaily/aiosqlitepool",
+  "version": "1.0.0",
+  "version_date": "2025-07-11T10:15:43.029594Z"
+ },
+ "sloria/aiohttp-utils": {
+  "archived": false,
+  "last_commit": "2023-02-14T13:28:55Z",
+  "stars": 47,
+  "url": "https://github.com/sloria/aiohttp-utils",
+  "version": "3.2.1",
+  "version_date": "2023-02-14T13:39:15.925852Z"
+ },
+ "smagafurov/fastapi-jsonrpc": {
+  "archived": false,
+  "last_commit": "2026-10-04T16:52:54Z",
+  "stars": 421,
+  "url": "https://github.com/smagafurov/fastapi-jsonrpc",
+  "version": "4.0.0",
+  "version_date": "2026-09-02T11:36:26.396526Z"
+ },
+ "smithk86/asyncio-multisubscriber-queue": {
+  "archived": false,
+  "last_commit": "2022-12-02T22:49:36Z",
+  "stars": 21,
+  "url": "https://github.com/smithk86/asyncio-multisubscriber-queue",
+  "version": "0.4.1",
+  "version_date": "2022-12-02T22:52:04.520398Z"
+ },
+ "somespecialone/aiosteampy": {
+  "archived": false,
+  "last_commit": "2026-09-10T19:00:05Z",
+  "stars": 107,
+  "url": "https://github.com/somespecialone/aiosteampy",
+  "version": "0.7.21",
+  "version_date": "2026-03-12T14:01:23.594327Z"
+ },
+ "sonic182/aiosonic": {
+  "archived": false,
+  "last_commit": "2026-09-28T10:05:56Z",
+  "stars": 170,
+  "url": "https://github.com/sonic182/aiosonic",
+  "version": "1.0.7",
+  "version_date": "2026-09-26T14:33:59.477087Z"
+ },
+ "sqreen/AioContext": {
+  "archived": false,
+  "last_commit": "2019-11-17T18:45:50Z",
+  "stars": 37,
+  "url": "https://github.com/sqreen/AioContext",
+  "version": "0.1.1",
+  "version_date": "2018-03-05T17:16:47.942019Z"
+ },
+ "stellarbit/aioping": {
+  "archived": false,
+  "last_commit": "2023-07-11T23:57:48Z",
+  "stars": 92,
+  "url": "https://github.com/stellarbit/aioping",
+  "version": "0.4.0",
+  "version_date": "2023-07-12T00:03:02.271701Z"
+ },
+ "strawberry-graphql/strawberry": {
+  "archived": false,
+  "last_commit": "2026-10-04T17:11:27Z",
+  "stars": 4722,
+  "url": "https://github.com/strawberry-graphql/strawberry",
+  "version": "0.330.3",
+  "version_date": "2026-10-04T17:11:26.086377Z"
+ },
+ "subzeroid/aiograpi": {
+  "archived": false,
+  "last_commit": "2026-10-04T01:07:08Z",
+  "stars": 460,
+  "url": "https://github.com/subzeroid/aiograpi",
+  "version": "2.0.15",
+  "version_date": "2026-09-29T23:52:17.794119Z"
+ },
+ "synodriver/aioaria2": {
+  "archived": false,
+  "last_commit": "2026-08-22T16:05:41Z",
+  "stars": 36,
+  "url": "https://github.com/synodriver/aioaria2",
+  "version": "1.3.7",
+  "version_date": "2026-08-22T16:06:47.783358Z"
+ },
+ "syrusakbary/aiodataloader": {
+  "archived": false,
+  "last_commit": "2025-11-29T10:09:39Z",
+  "stars": 296,
+  "url": "https://github.com/syrusakbary/aiodataloader",
+  "version": "0.4.3",
+  "version_date": "2025-11-29T10:14:10.918062Z"
+ },
+ "szastupov/aiotg": {
+  "archived": false,
+  "last_commit": "2026-01-07T21:16:19Z",
+  "stars": 377,
+  "url": "https://github.com/szastupov/aiotg",
+  "version": "2.0.0",
+  "version_date": "2023-03-12T20:46:20.696060Z"
+ },
+ "tartiflette/tartiflette": {
+  "archived": false,
+  "last_commit": "2022-01-20T14:55:31Z",
+  "stars": 854,
+  "url": "https://github.com/tartiflette/tartiflette",
+  "version": "1.4.1",
+  "version_date": "2021-11-15T11:20:19.440236Z"
+ },
+ "taskiq-python/taskiq": {
+  "archived": false,
+  "last_commit": "2026-09-26T14:40:17Z",
+  "stars": 2349,
+  "url": "https://github.com/taskiq-python/taskiq",
+  "version": "0.13.0",
+  "version_date": "2026-09-26T14:45:16.997830Z"
+ },
+ "tastyware/streaq": {
+  "archived": false,
+  "last_commit": "2026-09-03T17:39:15Z",
+  "stars": 168,
+  "url": "https://github.com/tastyware/streaq",
+  "version": "7.2.0",
+  "version_date": "2026-09-03T17:49:51.972020Z"
+ },
+ "telekinesis-inc/aiopandas": {
+  "archived": false,
+  "last_commit": "2025-06-12T16:23:13Z",
+  "stars": 133,
+  "url": "https://github.com/telekinesis-inc/aiopandas",
+  "version": "0.0.3",
+  "version_date": "2025-03-16T02:54:36.807299Z"
+ },
+ "terricain/aioboto3": {
+  "archived": false,
+  "last_commit": "2025-10-30T13:36:37Z",
+  "stars": 1005,
+  "url": "https://github.com/terricain/aioboto3",
+  "version": "15.5.0",
+  "version_date": "2025-10-30T13:37:16.122171Z"
+ },
+ "the-odds-company/aiokalshi": {
+  "archived": false,
+  "last_commit": "2025-10-09T12:28:41Z",
+  "stars": 20,
+  "url": "https://github.com/the-odds-company/aiokalshi",
+  "version": null,
+  "version_date": null
+ },
+ "the-odds-company/aiopolymarket": {
+  "archived": false,
+  "last_commit": "2025-10-09T19:40:35Z",
+  "stars": 20,
+  "url": "https://github.com/the-odds-company/aiopolymarket",
+  "version": null,
+  "version_date": null
+ },
+ "tobymao/saq": {
+  "archived": false,
+  "last_commit": "2026-08-14T15:26:26Z",
+  "stars": 890,
+  "url": "https://github.com/tobymao/saq",
+  "version": "0.26.4",
+  "version_date": "2026-05-21T15:00:55.144414Z"
+ },
+ "tomplus/kubernetes_asyncio": {
+  "archived": false,
+  "last_commit": "2026-09-11T19:05:57Z",
+  "stars": 437,
+  "url": "https://github.com/tomplus/kubernetes_asyncio",
+  "version": "36.1.0",
+  "version_date": "2026-06-04T19:42:45.669917Z"
+ },
+ "tornadoweb/tornado": {
+  "archived": false,
+  "last_commit": "2026-10-04T21:50:53Z",
+  "stars": 22170,
+  "url": "https://github.com/tornadoweb/tornado",
+  "version": "6.5.10",
+  "version_date": "2026-09-15T13:47:48.730968Z"
+ },
+ "tortoise/tortoise-orm": {
+  "archived": false,
+  "last_commit": "2026-10-03T15:26:27Z",
+  "stars": 5633,
+  "url": "https://github.com/tortoise/tortoise-orm",
+  "version": "1.1.8",
+  "version_date": "2026-08-10T10:46:46.452360Z"
+ },
+ "tudborg/aiochannel": {
+  "archived": false,
+  "last_commit": "2026-08-03T08:22:26Z",
+  "stars": 41,
+  "url": "https://github.com/tudborg/aiochannel",
+  "version": "1.4.1",
+  "version_date": "2026-07-18T07:22:47.297263Z"
+ },
+ "ultrafunkamsterdam/aionion": {
+  "archived": false,
+  "last_commit": "2023-03-04T14:46:55Z",
+  "stars": 84,
+  "url": "https://github.com/ultrafunkamsterdam/aionion",
+  "version": null,
+  "version_date": null
+ },
+ "underyx/aiohttp-sentry": {
+  "archived": false,
+  "last_commit": "2021-06-30T08:54:42Z",
+  "stars": 35,
+  "url": "https://github.com/underyx/aiohttp-sentry",
+  "version": "0.6.0",
+  "version_date": "2019-07-11T11:48:49.547088Z"
+ },
+ "vinissimus/async-asgi-testclient": {
+  "archived": false,
+  "last_commit": "2022-06-13T09:29:26Z",
+  "stars": 161,
+  "url": "https://github.com/vinissimus/async-asgi-testclient",
+  "version": "1.4.11",
+  "version_date": "2022-06-13T09:30:07.279794Z"
+ },
+ "vinissimus/asyncom": {
+  "archived": false,
+  "last_commit": "2022-06-22T10:18:23Z",
+  "stars": 35,
+  "url": "https://github.com/vinissimus/asyncom",
+  "version": "0.3.3",
+  "version_date": "2022-06-22T10:19:16.019573Z"
+ },
+ "vitalik/django-ninja": {
+  "archived": false,
+  "last_commit": "2026-10-04T11:29:40Z",
+  "stars": 9207,
+  "url": "https://github.com/vitalik/django-ninja",
+  "version": "1.7.1",
+  "version_date": "2026-09-19T05:35:56.437430Z"
+ },
+ "vmagamedov/grpclib": {
+  "archived": false,
+  "last_commit": "2025-12-14T22:21:58Z",
+  "stars": 988,
+  "url": "https://github.com/vmagamedov/grpclib",
+  "version": "0.4.9",
+  "version_date": "2025-12-14T22:23:14.349408Z"
+ },
+ "vovanbo/aiohttp_json_api": {
+  "archived": true,
+  "last_commit": "2026-07-24T20:10:28Z",
+  "stars": 20,
+  "url": "https://github.com/vovanbo/aiohttp_json_api",
+  "version": "0.37.0",
+  "version_date": "2018-03-03T12:03:14.499877Z"
+ },
+ "vovchic17/aiosend": {
+  "archived": false,
+  "last_commit": "2026-09-18T21:46:39Z",
+  "stars": 60,
+  "url": "https://github.com/vovchic17/aiosend",
+  "version": "3.0.8.post1",
+  "version_date": "2026-09-18T21:59:13.576755Z"
+ },
+ "vshymanskyy/aiodns": {
+  "archived": false,
+  "last_commit": "2026-08-05T11:00:19Z",
+  "stars": 26,
+  "url": "https://github.com/vshymanskyy/aiodns",
+  "version": null,
+  "version_date": null
+ },
+ "vxgmichel/aioconsole": {
+  "archived": false,
+  "last_commit": "2026-05-23T17:40:08Z",
+  "stars": 484,
+  "url": "https://github.com/vxgmichel/aioconsole",
+  "version": "0.8.2",
+  "version_date": "2025-10-14T05:44:33.245981Z"
+ },
+ "vxgmichel/aiostream": {
+  "archived": false,
+  "last_commit": "2026-09-16T10:38:57Z",
+  "stars": 921,
+  "url": "https://github.com/vxgmichel/aiostream",
+  "version": "0.8.1",
+  "version_date": "2026-09-16T10:41:54.253999Z"
+ },
+ "waahah/async-spider": {
+  "archived": false,
+  "last_commit": "2023-07-23T12:19:33Z",
+  "stars": 60,
+  "url": "https://github.com/waahah/async-spider",
+  "version": null,
+  "version_date": null
+ },
+ "wemake-services/asyncio-redis-rate-limit": {
+  "archived": false,
+  "last_commit": "2026-10-02T12:16:52Z",
+  "stars": 54,
+  "url": "https://github.com/wemake-services/asyncio-redis-rate-limit",
+  "version": "1.1.0",
+  "version_date": "2025-09-15T08:39:03.838854Z"
+ },
+ "wetblanketcc/aiostratum_proxy": {
+  "archived": false,
+  "last_commit": "2018-10-07T14:45:39Z",
+  "stars": 31,
+  "url": "https://github.com/wetblanketcc/aiostratum_proxy",
+  "version": "1.1",
+  "version_date": "2018-10-07T14:44:16.325089Z"
+ },
+ "wrobell/aionn": {
+  "archived": false,
+  "last_commit": "2018-10-09T20:21:15Z",
+  "stars": 22,
+  "url": "https://github.com/wrobell/aionn",
+  "version": null,
+  "version_date": null
+ },
+ "x42005e1f/aiologic": {
+  "archived": false,
+  "last_commit": "2026-09-26T15:15:04Z",
+  "stars": 93,
+  "url": "https://github.com/x42005e1f/aiologic",
+  "version": "0.17.1",
+  "version_date": "2026-06-27T20:41:33.250739Z"
+ },
+ "younghyopark/aiofranka": {
+  "archived": false,
+  "last_commit": "2026-10-03T20:01:07Z",
+  "stars": 21,
+  "url": "https://github.com/younghyopark/aiofranka",
+  "version": "0.6.1",
+  "version_date": "2026-10-03T20:02:33.432678Z"
+ },
+ "zeromq/pyzmq": {
+  "archived": false,
+  "last_commit": "2026-08-20T18:37:36Z",
+  "stars": 4178,
+  "url": "https://github.com/zeromq/pyzmq",
+  "version": "27.2.0",
+  "version_date": "2026-08-20T19:08:21.190492Z"
+ },
+ "zh217/aiochan": {
+  "archived": false,
+  "last_commit": "2022-11-29T09:43:04Z",
+  "stars": 184,
+  "url": "https://github.com/zh217/aiochan",
+  "version": "0.2.7",
+  "version_date": "2022-11-29T09:44:27.346969Z"
+ },
+ "zhulik/aiotractive": {
+  "archived": false,
+  "last_commit": "2026-10-03T10:16:26Z",
+  "stars": 37,
+  "url": "https://github.com/zhulik/aiotractive",
+  "version": "1.0.3",
+  "version_date": "2026-04-24T12:13:29.746313Z"
+ },
+ "zzzsochi/aiohttp_traversal": {
+  "archived": false,
+  "last_commit": "2018-10-31T10:51:51Z",
+  "stars": 20,
+  "url": "https://github.com/zzzsochi/aiohttp_traversal",
+  "version": "0.11.0",
+  "version_date": "2018-11-04T08:01:34.589871Z"
+ }
+}

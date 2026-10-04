@@ -1,0 +1,35 @@
+name: Weekly update
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - name: Discover new libraries
+        if: env.MISTRAL_API_KEY != ''
+        run: uv run tools/classify.py
+        env:
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Refresh metadata and regenerate files
+        run: uv run tools/update.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit
+        run: |
+          git config user.name "Dani"
+          git config user.email "cr0hn@cr0hn.com"
+          git add libraries.yml README.md feed.xml data news
+          git diff --cached --quiet || git commit -m "chore: weekly update"
+          git push
