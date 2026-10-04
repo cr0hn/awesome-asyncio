@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>tag:github.com,2026:cr0hn/awesome-asyncio</id><title>awesome-asyncio: weekly news</title><link href="https://github.com/cr0hn/awesome-asyncio"/><updated>2026-10-04T00:00:00Z</updated><entry><id>tag:github.com,2026:cr0hn/awesome-asyncio:2026-W40</id><title>Week 2026-W40</title><link href="https://github.com/cr0hn/awesome-asyncio/blob/main/news/2026-W40.md"/><updated>2026-10-04T00:00:00Z</updated><summary type="text">AsyncSSH 2.24.1 (2026-10-04)
+<feed xmlns="http://www.w3.org/2005/Atom"><id>tag:github.com,2026:cr0hn/awesome-asyncio</id><title>awesome-asyncio: weekly news</title><link href="https://github.com/cr0hn/awesome-asyncio"/><updated>2026-10-04T00:00:00Z</updated><entry><id>tag:github.com,2026:cr0hn/awesome-asyncio:2026-W40</id><title>Week 2026-W40</title><link href="https://github.com/cr0hn/awesome-asyncio/blob/main/news/2026-W40.md"/><updated>2026-10-04T00:00:00Z</updated><summary type="text">New: aiohttp-swagger: Swagger API documentation builder for aiohttp servers
+New: aioredis-watchdog: Call asyncio callbacks each time a key changes in Redis
+New: async-sonic: Zero-dependency asyncio client for the Sonic search backend, with pooling and pipelining
+New: python-object-watchdog: Watch runtime changes in Python objects and run sync or async callbacks
+New: python-database-watcher: Watch several databases for changes, with a queue mode for asyncio
+New: ktcal2: SSH brute forcer tool and library built on AsyncSSH
+AsyncSSH 2.24.1 (2026-10-04)
 Strawberry 0.330.3 (2026-10-04)
 async-firebase 6.3.0 (2026-10-04)
 websockets 17.2 (2026-10-03)
@@ -21,4 +27,5 @@ aiograpi 2.0.15 (2026-09-29)
 aiounifi 97 (2026-09-29)
 asynckivy 0.12.0 (2026-09-29)
 aio_energy_management 1.2.1 (2026-09-29)
-aiomisc 18.0.33 (2026-09-28)</summary></entry></feed>
+aiomisc 18.0.33 (2026-09-28)
+async-sonic 0.1.0 (2026-09-28)</summary></entry></feed>

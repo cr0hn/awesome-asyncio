@@ -5,7 +5,7 @@
 <h1 align="center">awesome-asyncio</h1>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Libraries](https://img.shields.io/badge/libraries-496-2F6FB5?labelColor=0F1E3D)](#libraries)
+[![Libraries](https://img.shields.io/badge/libraries-502-2F6FB5?labelColor=0F1E3D)](#libraries)
 [![Updated](https://img.shields.io/badge/updated-2026--10--04-2F6FB5?labelColor=0F1E3D)](#new-this-week)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-2F6FB5?labelColor=0F1E3D)](LICENSE)
 
@@ -19,7 +19,7 @@ If you are an LLM or building a tool around one, read [`llms.txt`](llms.txt) ins
 
 - [New this week](#new-this-week)
 - [Libraries](#libraries)
-  - [Web frameworks](#web-frameworks) (36)
+  - [Web frameworks](#web-frameworks) (37)
   - [ASGI servers](#asgi-servers) (5)
   - [HTTP clients](#http-clients) (26)
   - [WebSockets and realtime](#websockets-and-realtime) (8)
@@ -27,7 +27,7 @@ If you are an LLM or building a tool around one, read [`llms.txt`](llms.txt) ins
   - [RPC and serialization](#rpc-and-serialization) (10)
   - [Message queues and brokers](#message-queues-and-brokers) (20)
   - [Task queues and schedulers](#task-queues-and-schedulers) (14)
-  - [Database drivers](#database-drivers) (46)
+  - [Database drivers](#database-drivers) (48)
   - [ORMs and query builders](#orms-and-query-builders) (17)
   - [Networking](#networking) (44)
   - [Cloud and DevOps](#cloud-and-devops) (41)
@@ -38,7 +38,7 @@ If you are an LLM or building a tool around one, read [`llms.txt`](llms.txt) ins
   - [Observability and debugging](#observability-and-debugging) (12)
   - [Scraping and browser automation](#scraping-and-browser-automation) (16)
   - [Bots and chat](#bots-and-chat) (24)
-  - [Auth and security](#auth-and-security) (8)
+  - [Auth and security](#auth-and-security) (9)
   - [CLI and TUI](#cli-and-tui) (4)
   - [IoT and hardware](#iot-and-hardware) (37)
   - [Alternatives to asyncio](#alternatives-to-asyncio) (7)
@@ -46,7 +46,7 @@ If you are an LLM or building a tool around one, read [`llms.txt`](llms.txt) ins
   - [Email](#email) (4)
   - [Development tools](#development-tools) (5)
   - [Async helpers](#async-helpers) (6)
-  - [Events and workflows](#events-and-workflows) (9)
+  - [Events and workflows](#events-and-workflows) (11)
   - [AI and LLM](#ai-and-llm) (3)
   - [Misc](#misc) (8)
 - [How the data is collected](#how-the-data-is-collected)
@@ -58,6 +58,15 @@ If you are an LLM or building a tool around one, read [`llms.txt`](llms.txt) ins
 ## New this week
 
 Releases published and libraries added in the last 7 days. Older weeks are in [news/](news/), and there is an [Atom feed](feed.xml) if you prefer a reader.
+
+**New in the list**
+
+- [aiohttp-swagger](https://github.com/cr0hn/aiohttp-swagger): Swagger API documentation builder for aiohttp servers
+- [aioredis-watchdog](https://github.com/cr0hn/aioredis-watchdog): Call asyncio callbacks each time a key changes in Redis
+- [async-sonic](https://github.com/cr0hn/async-sonic): Zero-dependency asyncio client for the Sonic search backend, with pooling and pipelining
+- [python-object-watchdog](https://github.com/cr0hn/python-object-watchdog): Watch runtime changes in Python objects and run sync or async callbacks
+- [python-database-watcher](https://github.com/cr0hn/python-database-watcher): Watch several databases for changes, with a queue mode for asyncio
+- [ktcal2](https://github.com/cr0hn/ktcal2): SSH brute forcer tool and library built on AsyncSSH
 
 **New releases**
 
@@ -86,6 +95,7 @@ Releases published and libraries added in the last 7 days. Older weeks are in [n
 | [asynckivy](https://github.com/asyncgui/asynckivy) | Async support library for Kivy framework | 0.12.0 | 2026-09-29 |
 | [aio_energy_management](https://github.com/kotope/aio_energy_management) | Home Assistant integration for energy management | 1.2.1 | 2026-09-29 |
 | [aiomisc](https://github.com/aiokitchen/aiomisc) | Miscellaneous utils for asyncio | 18.0.33 | 2026-09-28 |
+| [async-sonic](https://github.com/cr0hn/async-sonic) | Zero-dependency asyncio client for the Sonic search backend, with pooling and pipelining | 0.1.0 | 2026-09-28 |
 
 ## Libraries
 
@@ -113,6 +123,7 @@ Frameworks and toolkits to build web apps and APIs.
 | [aiohttp-apispec](https://github.com/maximdanilchenko/aiohttp-apispec) | REST API documentation builder for aiohttp and apispec | 💤 | 2024-11-15 | 2.2.3 | 227 |
 | [aiohttp-cors](https://github.com/aio-libs/aiohttp-cors) | CORS support middleware for aiohttp | ✅ | 2026-09-28 | 0.8.1 | 220 |
 | [aiohttp-admin](https://github.com/aio-libs/aiohttp-admin) | Admin interface for aiohttp applications | ✅ | 2026-09-28 | v0.0.4 | 219 |
+| [aiohttp-swagger](https://github.com/cr0hn/aiohttp-swagger) | Swagger API documentation builder for aiohttp servers | ✅ | 2026-09-08 | 1.0.16 | 187 |
 | [aiohttp-remotes](https://github.com/aio-libs/aiohttp-remotes) | Tools for aiohttp.web servers | ✅ | 2026-09-28 | 1.3.0 | 85 |
 | [aiopyramid](https://github.com/housleyjk/aiopyramid) | Run Pyramid web framework with asyncio support | 💤 | 2022-09-16 | 0.4.1 | 78 |
 | [aiohttp-pydantic](https://github.com/Maillol/aiohttp-pydantic) | Request validation with Pydantic for aiohttp | ✅ | 2026-09-23 | 3.0.2 | 75 |
@@ -317,6 +328,8 @@ Async drivers for SQL, NoSQL, search and time-series databases.
 | [aiossdb](https://github.com/Microndgt/aiossdb) | SSDB database client driver for asyncio | 💤 | 2017-08-22 | 0.0.5 | 21 |
 | [aiotrino](https://github.com/mvanderlee/aiotrino) | Async Trino SQL client | 💤 | 2025-03-21 | 0.3.0 | 21 |
 | [aioetcd](https://github.com/lisael/aioetcd) | Async etcd client | 💤 | 2014-12-18 | - | 20 |
+| [aioredis-watchdog](https://github.com/cr0hn/aioredis-watchdog) | Call asyncio callbacks each time a key changes in Redis | 💤 | 2020-05-27 | 0.0.4 | 1 |
+| [async-sonic](https://github.com/cr0hn/async-sonic) | Zero-dependency asyncio client for the Sonic search backend, with pooling and pipelining | ✅ | 2026-09-28 | 0.1.0 | 0 |
 | [aioredis-py](https://github.com/aio-libs-abandoned/aioredis-py) | Asyncio client for Redis | 🗄️ | 2022-02-22 | v2.0.1 | 2.3k |
 | [asyncmongo](https://github.com/bitly/asyncmongo) | Async library for accessing MongoDB with tornado.ioloop | 🗄️ | 2014-05-20 | 1.3 | 606 |
 | [aioinflux](https://github.com/gusutabopb/aioinflux) | InfluxDB client built on top of aiohttp | 🗄️ | 2023-08-05 | 0.9.0 | 162 |
@@ -637,6 +650,7 @@ Authentication, authorization and crypto helpers.
 | [aioauth-client](https://github.com/klen/aioauth-client) | OAuth client library for aiohttp | 💤 | 2025-04-10 | 0.30.1 | 145 |
 | [aiohttp-jwt](https://github.com/hzlmn/aiohttp-jwt) | JSON Web Token middleware for aiohttp | 💤 | 2020-05-07 | 0.6.1 | 78 |
 | [aioauth-fastapi](https://github.com/aliev/aioauth-fastapi) | Integration of aioauth authentication with FastAPI framework | 💤 | 2024-08-18 | 0.1.2 | 41 |
+| [ktcal2](https://github.com/cr0hn/ktcal2) | SSH brute forcer tool and library built on AsyncSSH | ✅ | 2026-09-08 | 0.1.7 | 37 |
 | [aio-hcaptcha](https://github.com/RuslanUC/aio-hcaptcha) | Async wrapper for hCaptcha | 💤 | 2022-10-28 | - | 21 |
 | [aiohttp-login](https://github.com/imbolc/aiohttp-login) | Registration and authorization for aiohttp apps | 🗄️ | 2018-02-23 | 1.4.0 | 51 |
 
@@ -771,6 +785,8 @@ Signals, dataflow graphs and pipelines.
 | [AsyncPP](https://github.com/PluralisResearch/AsyncPP) | Asynchronous pipeline parallel optimization | ✅ | 2026-02-02 | - | 23 |
 | [async-graph-data-flow](https://github.com/civisanalytics/async-graph-data-flow) | Async functions for directed acyclic graphs | ✅ | 2026-04-21 | 2.0.0 | 22 |
 | [asyncio_dispatch](https://github.com/lenzenmi/asyncio_dispatch) | Event signalling for asyncio | 💤 | 2015-11-12 | 1.1.0 | 20 |
+| [python-object-watchdog](https://github.com/cr0hn/python-object-watchdog) | Watch runtime changes in Python objects and run sync or async callbacks | 💤 | 2024-09-07 | 0.0.2 | 9 |
+| [python-database-watcher](https://github.com/cr0hn/python-database-watcher) | Watch several databases for changes, with a queue mode for asyncio | 💤 | 2022-08-01 | 1.0.0 | 4 |
 
 ### AI and LLM
 

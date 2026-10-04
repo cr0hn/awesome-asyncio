@@ -186,8 +186,53 @@
     "version": "18.0.33",
     "date": "2026-09-28",
     "description": "Miscellaneous utils for asyncio"
+   },
+   {
+    "name": "async-sonic",
+    "repo": "cr0hn/async-sonic",
+    "url": "https://github.com/cr0hn/async-sonic",
+    "version": "0.1.0",
+    "date": "2026-09-28",
+    "description": "Zero-dependency asyncio client for the Sonic search backend, with pooling and pipelining"
    }
   ],
-  "added": []
+  "added": [
+   {
+    "name": "aiohttp-swagger",
+    "repo": "cr0hn/aiohttp-swagger",
+    "url": "https://github.com/cr0hn/aiohttp-swagger",
+    "description": "Swagger API documentation builder for aiohttp servers"
+   },
+   {
+    "name": "aioredis-watchdog",
+    "repo": "cr0hn/aioredis-watchdog",
+    "url": "https://github.com/cr0hn/aioredis-watchdog",
+    "description": "Call asyncio callbacks each time a key changes in Redis"
+   },
+   {
+    "name": "async-sonic",
+    "repo": "cr0hn/async-sonic",
+    "url": "https://github.com/cr0hn/async-sonic",
+    "description": "Zero-dependency asyncio client for the Sonic search backend, with pooling and pipelining"
+   },
+   {
+    "name": "python-object-watchdog",
+    "repo": "cr0hn/python-object-watchdog",
+    "url": "https://github.com/cr0hn/python-object-watchdog",
+    "description": "Watch runtime changes in Python objects and run sync or async callbacks"
+   },
+   {
+    "name": "python-database-watcher",
+    "repo": "cr0hn/python-database-watcher",
+    "url": "https://github.com/cr0hn/python-database-watcher",
+    "description": "Watch several databases for changes, with a queue mode for asyncio"
+   },
+   {
+    "name": "ktcal2",
+    "repo": "cr0hn/ktcal2",
+    "url": "https://github.com/cr0hn/ktcal2",
+    "description": "SSH brute forcer tool and library built on AsyncSSH"
+   }
+  ]
  }
 ]

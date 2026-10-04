@@ -18,6 +18,7 @@ aiohttp-session | aiohttp-session | 245 | 2026-10-01 | Session management for ai
 aiohttp-jinja2 | aiohttp-jinja2 | 240 | 2026-10-01 | Jinja2 template rendering support for aiohttp web applications
 aiohttp-cors | aiohttp-cors | 220 | 2026-09-28 | CORS support middleware for aiohttp
 aiohttp-admin | - | 219 | 2026-09-28 | Admin interface for aiohttp applications
+aiohttp-swagger | aiohttp-swagger | 187 | 2026-09-08 | Swagger API documentation builder for aiohttp servers
 aiohttp-remotes | aiohttp-remotes | 85 | 2026-09-28 | Tools for aiohttp.web servers
 aiohttp-pydantic | aiohttp-pydantic | 75 | 2026-09-23 | Request validation with Pydantic for aiohttp
 aiohttp-middlewares | aiohttp-middlewares | 53 | 2026-09-16 | Middleware collection for aiohttp web applications
@@ -113,6 +114,7 @@ aiomcache | aiomcache | 158 | 2026-09-01 | Minimal asyncio memcached client
 aiodynamo | - | 94 | 2026-07-03 | Asynchronous DynamoDB client with Pythonic API
 asyncdb | asyncdb | 55 | 2026-09-14 | Generic asynchronous database connectors for multiple backends
 asyncpg-listen | asyncpg-listen | 47 | 2026-05-31 | Simplify PostgreSQL LISTEN notifications with asyncpg
+async-sonic | async-sonic | 0 | 2026-09-28 | Zero-dependency asyncio client for the Sonic search backend, with pooling and pipelining
 
 ## ORMs and query builders
 
@@ -243,6 +245,7 @@ aiogram-inline-paginations | aiogram-inline-paginations | 23 | 2025-11-05 | Libr
 authlib | authlib | 5432 | 2026-08-31 | Ultimate Python library for building OAuth and OpenID Connect servers and clients
 aiohttp-security | aiohttp-security | 240 | 2026-10-01 | Authentication and permissions for aiohttp
 aioauth | aioauth | 230 | 2026-07-26 | OAuth 2.0 server implementation for asyncio
+ktcal2 | ktcal2 | 37 | 2026-09-08 | SSH brute forcer tool and library built on AsyncSSH
 
 ## CLI and TUI
 
@@ -328,7 +331,7 @@ aio-mc-rcon | aio-mc-rcon | 53 | 2026-09-18 | Asynchronous RCON client for Minec
 aiosendspin | - | 51 | 2026-10-02 | Async library implementing the Sendspin protocol
 asyncapi-python | asyncapi-python | 24 | 2026-04-04 | CLI to generate Python code from AsyncAPI spec
 
-260 inactive or archived libraries are left out. See README.md for them.
+263 inactive or archived libraries are left out. See README.md for them.
 
 ## Author
 

@@ -2493,3 +2493,39 @@ libraries:
   repo: inglesp/async-requests
   category: http-clients
   description: Async HTTP requests library
+- name: aiohttp-swagger
+  repo: cr0hn/aiohttp-swagger
+  pypi: aiohttp-swagger
+  category: web-frameworks
+  description: Swagger API documentation builder for aiohttp servers
+  added: 2026-10-05
+- name: aioredis-watchdog
+  repo: cr0hn/aioredis-watchdog
+  pypi: aioredis-watchdog
+  category: database-drivers
+  description: Call asyncio callbacks each time a key changes in Redis
+  added: 2026-10-05
+- name: async-sonic
+  repo: cr0hn/async-sonic
+  pypi: async-sonic
+  category: database-drivers
+  description: Zero-dependency asyncio client for the Sonic search backend, with pooling and pipelining
+  added: 2026-10-05
+- name: python-object-watchdog
+  repo: cr0hn/python-object-watchdog
+  pypi: object-watchdog
+  category: events-workflows
+  description: Watch runtime changes in Python objects and run sync or async callbacks
+  added: 2026-10-05
+- name: python-database-watcher
+  repo: cr0hn/python-database-watcher
+  pypi: databases-watcher
+  category: events-workflows
+  description: Watch several databases for changes, with a queue mode for asyncio
+  added: 2026-10-05
+- name: ktcal2
+  repo: cr0hn/ktcal2
+  pypi: ktcal2
+  category: auth-security
+  description: SSH brute forcer tool and library built on AsyncSSH
+  added: 2026-10-05
