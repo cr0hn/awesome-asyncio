@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="awesome-asyncio logo">
+  <rect width="128" height="128" rx="28" fill="#0F1E3D"/>
+  <g fill="none" stroke-width="13">
+    <path d="M64 28A36 36 0 0 1 64 100" stroke="#4B8BBE"/>
+    <path d="M64 100A36 36 0 0 1 64 28" stroke="#FFD43B"/>
+  </g>
+  <path d="M48 100L64 88V112Z" fill="#4B8BBE"/>
+  <path d="M80 28L64 16V40Z" fill="#FFD43B"/>
+  <circle cx="64" cy="64" r="7" fill="#F4F7FB"/>
+</svg>

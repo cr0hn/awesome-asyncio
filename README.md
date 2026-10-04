@@ -1,9 +1,13 @@
-# awesome-asyncio
+<p align="center">
+  <img src="assets/logo.svg" alt="awesome-asyncio logo" width="120">
+</p>
+
+<h1 align="center">awesome-asyncio</h1>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Libraries](https://img.shields.io/badge/libraries-496-FF7A28?labelColor=0F1E3D)](#libraries)
-[![Updated](https://img.shields.io/badge/updated-2026--10--04-FF7A28?labelColor=0F1E3D)](#new-this-week)
-[![License: CC0](https://img.shields.io/badge/license-CC0-FF7A28?labelColor=0F1E3D)](LICENSE)
+[![Libraries](https://img.shields.io/badge/libraries-496-2F6FB5?labelColor=0F1E3D)](#libraries)
+[![Updated](https://img.shields.io/badge/updated-2026--10--04-2F6FB5?labelColor=0F1E3D)](#new-this-week)
+[![License: CC0](https://img.shields.io/badge/license-CC0-2F6FB5?labelColor=0F1E3D)](LICENSE)
 
 Python libraries built on [asyncio](https://docs.python.org/3/library/asyncio.html) or that work with it, grouped by what they do. It is meant for browsing: you have a problem, you want to see what exists before picking one.
 
