@@ -89,6 +89,12 @@ def test_pipeline_writes_readme_news_and_feed(tmp_path):
     assert (root / "news/2026-W41.md").exists()
     feed = (root / "feed.xml").read_text()
     assert "alpha 2.1.0" in feed and "<feed" in feed
+    # llms.txt lists only the active library and counts the other two as left out
+    llms = (root / "llms.txt").read_text()
+    assert "alpha | alpha | 1500 | 2026-10-02 | Alpha does web" in llms
+    assert "beta" not in llms.split("\n## ", 1)[1] and "gone" not in llms
+    assert "2 inactive or archived" in llms
+    assert "llms.txt" in readme
 
 
 def test_second_run_keeps_cached_values_when_github_fails(tmp_path):

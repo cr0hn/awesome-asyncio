@@ -77,3 +77,10 @@ def test_pypi_version_beats_github_release():
           "release_tag": "v1", "release_date": iso(3)}
     rec = update.build_record({"repo": "o/x"}, gh, {"version": "1.2", "date": iso(2)}, None, NOW)
     assert rec["version"] == "1.2"
+
+
+def test_render_llms_skips_libraries_without_a_record():
+    cats = [{"id": "web", "title": "Web", "blurb": "b"}]
+    libs = [{"name": "x", "repo": "o/x", "category": "web", "description": "d"}]
+    out = update.render_llms(cats, libs, {}, datetime(2026, 10, 5, tzinfo=timezone.utc))
+    assert "x |" not in out and "1 inactive or archived" in out

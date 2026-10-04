@@ -223,6 +223,28 @@ def render_libraries(cats: list[dict], libs: list[dict], records: dict[str, dict
     return "\n".join(index), "\n".join(body).rstrip()
 
 
+def render_llms(cats: list[dict], libs: list[dict], records: dict[str, dict], now: datetime) -> str:
+    """Compact text for LLMs: active libraries only, best starred first, one line each."""
+    out = ["# awesome-asyncio",
+           "",
+           "> Python asyncio libraries by task. Use it to pick one when unsure. Line format: name | PyPI package | stars | last commit | description. Only libraries with a commit in the last year are listed, so none here is archived. Full table: README.md",
+           ""]
+    skipped = 0
+    for cat in cats:
+        rows = []
+        for lib in (l for l in libs if l["category"] == cat["id"]):
+            rec = records.get(lib["repo"]) or {}
+            if not rec or status(bool(rec.get("archived")), parse_dt(rec.get("last_commit")), now) != "active":
+                skipped += 1
+                continue
+            rows.append((rec.get("stars") or 0, f"{lib['name']} | {lib.get('pypi') or '-'} | {rec.get('stars') or 0} | "
+                         f"{day(parse_dt(rec.get('last_commit')))} | {lib['description']}"))
+        if rows:
+            out += [f"## {cat['title']}", ""] + [r for _, r in sorted(rows, key=lambda x: -x[0])] + [""]
+    out.append(f"{skipped} inactive or archived libraries are left out. See README.md for them.")
+    return "\n".join(out) + "\n"
+
+
 def render_feed(history: list[dict], now: datetime) -> str:
     entries = []
     for h in history:
@@ -309,6 +331,7 @@ async def run(root: Path, client: httpx.AsyncClient, token: str, now: datetime) 
     (root / "data/news.json").write_text(json.dumps(history, indent=1) + "\n")
     (root / f"news/{history[0]['week']}.md").write_text(render_week_file(history[0]))
     (root / "feed.xml").write_text(render_feed(history, now))
+    (root / "llms.txt").write_text(render_llms(cats, libs, records, now))
     return {"libraries": len(libs), "stale": stale, "no_pypi": [l["name"] for l in libs if l.get("pypi") and l["pypi"] not in pypi]}
 
 

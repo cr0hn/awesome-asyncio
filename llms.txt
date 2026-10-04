@@ -1,0 +1,313 @@
+# awesome-asyncio
+
+> Python asyncio libraries by task. Use it to pick one when unsure. Line format: name | PyPI package | stars | last commit | description. Only libraries with a commit in the last year are listed, so none here is archived. Full table: README.md
+
+## Web frameworks
+
+FastAPI | fastapi | 102806 | 2026-10-02 | API framework built on Starlette and Pydantic, driven by type hints
+Django | django | 91306 | 2026-10-03 | An established, high-level Python web framework with a huge community and ecosystem
+Tornado | tornado | 22170 | 2026-10-04 | Performant web framework and asynchronous networking library
+sanic | sanic | 18636 | 2026-05-31 | Web server and framework written for speed, with async request handling
+aiohttp | aiohttp | 16569 | 2026-10-04 | Http client/server for asyncio (PEP-3156)
+Starlette | starlette | 12650 | 2026-10-04 | ASGI framework and toolkit for building web services
+django-ninja | django-ninja | 9207 | 2026-10-04 | Async-ready REST framework for Django, with type hints and Pydantic schemas
+Litestar | litestar | 8494 | 2026-10-02 | Production-ready extensible ASGI framework with excellent performance and developer experience
+Quart | quart | 3672 | 2026-09-12 | An asyncio web microframework with the same API as Flask
+asgiref | asgiref | 1631 | 2026-09-28 | Backend utils for ASGI to WSGI integration, includes sync_to_async and async_to_sync function wrappers
+aiohttp-session | aiohttp-session | 245 | 2026-10-01 | Session management for aiohttp web applications
+aiohttp-jinja2 | aiohttp-jinja2 | 240 | 2026-10-01 | Jinja2 template rendering support for aiohttp web applications
+aiohttp-cors | aiohttp-cors | 220 | 2026-09-28 | CORS support middleware for aiohttp
+aiohttp-admin | - | 219 | 2026-09-28 | Admin interface for aiohttp applications
+aiohttp-remotes | aiohttp-remotes | 85 | 2026-09-28 | Tools for aiohttp.web servers
+aiohttp-pydantic | aiohttp-pydantic | 75 | 2026-09-23 | Request validation with Pydantic for aiohttp
+aiohttp-middlewares | aiohttp-middlewares | 53 | 2026-09-16 | Middleware collection for aiohttp web applications
+aiohttp_validate | aiohttp-validate | 49 | 2026-07-19 | JSON schema validation library for aiohttp
+aiohttp-cache | aiohttp-cache | 45 | 2026-09-08 | Caching system for aiohttp server responses
+AIOD-rest-api | - | 37 | 2026-08-06 | REST API services for AIoD metadata catalog and authentication
+
+## ASGI servers
+
+uvicorn | uvicorn | 11007 | 2026-10-01 | ASGI server built on uvloop and httptools
+granian | granian | 5683 | 2026-09-30 | HTTP server for Python with a Rust core, supporting ASGI, RSGI and WSGI
+socketify | socketify | 1716 | 2026-08-17 | HTTP and WebSocket server for PyPy3 and Python 3, built on uWebSockets
+Hypercorn | hypercorn | 1617 | 2025-11-08 | ASGI server based on Hyper libraries and inspired by Gunicorn
+
+## HTTP clients
+
+httpx | httpx | 15524 | 2026-02-23 | asynchronous HTTP client for Python 3 with requests compatible API
+aiohttp_retry | aiohttp-retry | 272 | 2026-04-08 | Automatic retry mechanism for aiohttp requests
+aiohttp-socks | aiohttp_socks | 243 | 2026-08-12 | SOCKS and HTTP proxy connector for aiohttp
+aiosonic | aiosonic | 170 | 2026-09-28 | Fast HTTP and WebSocket client for asyncio
+aiohttp-client-cache | aiohttp-client-cache | 155 | 2026-10-01 | Async persistent cache for aiohttp requests
+asyncpraw | asyncpraw | 154 | 2026-10-02 | Async wrapper for Reddit API
+aiosteampy | aiosteampy | 107 | 2026-09-10 | Manage Steam sessions and trading with asyncio
+aiobungie | aiobungie | 53 | 2025-11-16 | Async Bungie API wrapper
+aiotractive | aiotractive | 37 | 2026-10-03 | Async client for Tractive REST API
+aioaria2 | aioaria2 | 36 | 2026-08-22 | Async wrapper for aria2-json-rpc
+aiogithubapi | aiogithubapi | 29 | 2026-07-18 | Async GitHub API client library
+aiopenapi3 | aiopenapi3 | 21 | 2026-09-26 | OpenAPI 3.0 client and validator with async/await support
+aiopolymarket | - | 20 | 2025-10-09 | Type-safe async client for Polymarket API
+
+## WebSockets and realtime
+
+websockets | websockets | 5725 | 2026-10-04 | A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity
+aiortc | aiortc | 5109 | 2026-07-17 | WebRTC and ORTC implementation using asyncio for real-time communication
+python-socketio | python-socketio | 4370 | 2026-09-14 | Socket.IO server and client for bidirectional real-time communication
+autobahn | autobahn | 2542 | 2026-09-29 | WebSocket and WAMP supporting asyncio and Twisted, for clients and servers
+aiohttp-sse | aiohttp-sse | 238 | 2026-10-01 | Server-sent events support for aiohttp
+
+## GraphQL
+
+Strawberry | strawberry-graphql | 4722 | 2026-10-04 | Code-first Python 3 GraphQL server with Django, Flask and FastAPI/Starlette support
+Ariadne | ariadne | 2347 | 2026-08-31 | Schema-first Python library for implementing GraphQL servers
+aiographql-client | aiographql-client | 30 | 2026-09-21 | GraphQL client for aiohttp
+aiogqlc | aiogqlc | 20 | 2026-05-17 | GraphQL client with async support, file uploads and subscriptions
+
+## RPC and serialization
+
+grpclib | grpclib | 988 | 2025-12-14 | Pure-Python gRPC implementation for asyncio with full protocol support
+fastapi-jsonrpc | fastapi-jsonrpc | 421 | 2026-10-04 | JSON-RPC 2.0 server framework built on FastAPI
+aiorpcX | aiorpcX | 30 | 2026-02-19 | Generic async RPC implementation
+aiohttp-rpc | aiohttp-rpc | 28 | 2026-01-19 | JSON-RPC 2.0 implementation for aiohttp
+
+## Message queues and brokers
+
+faststream | faststream | 5360 | 2026-10-02 | Async client for Kafka, RabbitMQ, NATS, Redis and MQTT with AsyncAPI docs
+pyzmq | pyzmq | 4178 | 2026-08-20 | Python bindings for ZeroMQ
+crossbar | crossbar | 2063 | 2026-09-29 | Crossbar.io is a networking platform for distributed and microservice applications
+aio-pika | aio-pika | 1480 | 2026-09-27 | Asyncio wrapper for RabbitMQ built on aiormq for asyncio and humans
+aiokafka | aiokafka | 1403 | 2026-09-10 | Client for Apache Kafka
+asyncio-nats | nats-py | 1261 | 2026-10-01 | Client for the NATS messaging system
+aiomqtt | aiomqtt | 575 | 2026-04-23 | Idiomatic asyncio MQTT client with type hints and async/await support
+aiozmq | aiozmq | 431 | 2026-03-26 | Alternative Asyncio integration with ZeroMQ
+aiormq | aiormq | 318 | 2026-09-29 | Pure python AMQP asynchronous client library for asyncio
+aiorabbit | aiorabbit | 23 | 2026-08-31 | RabbitMQ client library for asyncio
+
+## Task queues and schedulers
+
+arq | arq | 3015 | 2026-04-16 | Job queues and background tasks with asyncio and Redis
+taskiq | taskiq | 2349 | 2026-09-26 | Asynchronous distributed task manager (like celery, but async)
+aiojobs | aiojobs | 929 | 2026-10-01 | Scheduler for managing background tasks with asyncio
+saq | saq | 890 | 2026-08-14 | Distributed Python job queue with asyncio and redis architecture
+aiotasks | aiotasks | 456 | 2026-09-08 | Async task manager that distributes coroutines like Celery
+aioclock | aioclock | 243 | 2026-09-13 | Scheduling framework with dependency injection for asyncio
+streaq | streaq | 168 | 2026-09-03 | Typed distributed task queue for asyncio, backed by Redis streams
+asyncmq | asyncmq | 80 | 2026-09-04 | Asynchronous task queue framework
+asyncz | asyncz | 63 | 2026-09-01 | Task scheduler and cron-like job executor for asyncio
+async_cron | async-cron | 29 | 2025-10-29 | Crontab scheduler for Python asyncio
+
+## Database drivers
+
+redis-py | redis | 13648 | 2026-10-04 | Redis Python Client (which includes aioreadis now)
+asyncpg | asyncpg | 8097 | 2026-10-03 | PostgreSQL client library for asyncio
+pymongo | pymongo | 4358 | 2026-10-02 | The Official MongoDB Python driver, offering both synchronous and asynchronous APIs
+motor | motor | 2526 | 2026-09-30 | Non-blocking MongoDB driver for asyncio and Tornado with native async/await
+aiomysql | aiomysql | 1895 | 2025-12-22 | Library for accessing a MySQL database
+aiosqlite | aiosqlite | 1581 | 2025-12-23 | Asyncio bridge to the standard sqlite3 module with complete async interface
+aiopg | aiopg | 1432 | 2025-12-03 | Library for accessing a PostgreSQL database
+aiosql | aiosql | 1412 | 2026-07-10 | Execute SQL queries asynchronously using asyncio
+asyncmy | asyncmy | 391 | 2026-09-25 | The fastest asyncio MySQL/MariaDB driver for Python with pure async design
+aiochclient | aiochclient | 257 | 2026-06-08 | Lightweight async HTTP ClickHouse client with type conversion
+asynch | asynch | 244 | 2026-08-14 | Asyncio ClickHouse client with TCP interface
+aiomcache | aiomcache | 158 | 2026-09-01 | Minimal asyncio memcached client
+aiodynamo | - | 94 | 2026-07-03 | Asynchronous DynamoDB client with Pythonic API
+asyncdb | asyncdb | 55 | 2026-09-14 | Generic asynchronous database connectors for multiple backends
+asyncpg-listen | asyncpg-listen | 47 | 2026-05-31 | Simplify PostgreSQL LISTEN notifications with asyncpg
+
+## ORMs and query builders
+
+Tortoise ORM | tortoise-orm | 5633 | 2026-10-03 | native multi-backend ORM with Django-like API and easy relations management
+Beanie | beanie | 2702 | 2026-08-31 | An async MongoDB ODM built on pymongo and Pydantic
+Piccolo | piccolo | 1949 | 2026-09-14 | An ORM / query builder which can work in async and sync modes, with a nice admin GUI, and ASGI middleware
+ormar | ormar | 1802 | 2026-10-02 | Async ORM with fastapi in mind, pydantic validation and relational support
+odmantic | odmantic | 1176 | 2026-01-25 | Sync and async ODM for MongoDB based on python type hints and pydantic
+oxyde | oxyde | 763 | 2026-09-29 | Async ORM for Python with a Rust core
+peewee-async | peewee-async | 762 | 2026-08-28 | ORM implementation based on peewee and aiopg
+edgy | edgy | 440 | 2026-09-29 | Perfect ORM for complex database queries with full async/await support
+
+## Networking
+
+aioquic | aioquic | 2007 | 2025-10-11 | QUIC and HTTP/3 protocol implementation in Python
+AsyncSSH | asyncssh | 1760 | 2026-10-04 | Provides an asynchronous client and server implementation of the SSHv2 protocol
+aiodns | aiodns | 592 | 2026-09-28 | DNS resolver for asyncio built on pycares
+aiocoap | aiocoap | 293 | 2026-04-24 | Constrained Application Protocol (CoAP) library for asyncio
+aiosmb | aiosmb | 220 | 2026-08-14 | Asynchronous SMB (Server Message Block) client library
+aioftp | aioftp | 211 | 2026-09-19 | FTP client and server for asyncio
+asyncio-socks-server | asyncio-socks-server | 183 | 2026-08-25 | SOCKS5 server with asynchronous Python hooks
+aioimaplib | - | 170 | 2026-09-24 | Asyncio IMAP4rev1 client library
+aioice | aioice | 141 | 2026-03-18 | Asyncio implementation of Interactive Connectivity Establishment
+async_rithmic | async-rithmic | 120 | 2026-08-21 | Async client for Rithmic Protocol Buffer API
+asyncmcp | asyncmcp | 109 | 2026-05-08 | Async transport layers for MCP
+asyncwhois | asyncwhois | 100 | 2026-10-02 | Async WHOIS and RDAP client for domain information
+async_dns | async-dns | 74 | 2026-07-25 | DNS resolver library built on asyncio
+aioslsk | aioslsk | 66 | 2026-10-03 | SoulSeek client library using asyncio
+asyncio-dgram | asyncio-dgram | 56 | 2026-01-21 | Higher level UDP datagram support for asyncio
+aiohappyeyeballs | aiohappyeyeballs | 46 | 2026-07-25 | Happy Eyeballs IPv4/IPv6 connection algorithm for asyncio
+aiofastnet | aiofastnet | 35 | 2026-10-01 | Ultra-fast TCP networking with kernel TLS for asyncio
+aioax25 | aioax25 | 27 | 2026-06-14 | Asynchronous AX.25 protocol library
+aiotorrent | aiotorrent | 26 | 2025-10-05 | Asynchronous BitTorrent client library in pure Python
+aiodns | - | 26 | 2026-08-05 | Async DNS client for MicroPython
+
+## Cloud and DevOps
+
+aiobotocore | aiobotocore | 1425 | 2026-10-02 | Asyncio support for botocore library using aiohttp for AWS API access
+aioboto3 | aioboto3 | 1005 | 2025-10-30 | Wrapper to use boto3 resources with the aiobotocore async backend
+aiodocker | aiodocker | 538 | 2026-06-04 | Python Docker API client based on asyncio and aiohttp
+aiograpi | aiograpi | 460 | 2026-10-04 | Asynchronous client library for Instagram Private API
+kubernetes_asyncio | kubernetes-asyncio | 437 | 2026-09-11 | Asynchronous client library for Kubernetes
+aiogoogle | aiogoogle | 224 | 2026-07-18 | Asynchronous client library for Google API and authentication
+aiomql | aiomql | 150 | 2026-02-28 | Async client library for MetaTrader 5 trading platform
+aiops-modules | - | 104 | 2026-03-18 | Reusable IaC modules for ML and GenAI on AWS
+aiosend | aiosend | 60 | 2026-09-18 | Asynchronous client for Crypto Pay API
+aioqzone | aioqzone | 54 | 2026-08-15 | Async client library for Qzone social network API
+aiopokeapi | aiopokeapi | 51 | 2026-04-08 | Asynchronous wrapper for Pokemon API
+async-firebase | async-firebase | 48 | 2026-10-04 | Lightweight async client for Firebase Cloud Messaging
+AIonDemandCluster | aiondemandcluster | 42 | 2026-09-20 | GPU cluster manager with Claude Code integration
+AsyncPayments | AsyncPayments | 40 | 2026-08-31 | Async payment processing library
+async_yookassa | async_yookassa | 34 | 2026-07-20 | Asynchronous client library for YooKassa payment API
+aiohttp-s3-client | aiohttp-s3-client | 33 | 2026-02-12 | Async AWS S3 client for aiohttp
+aiogcd | aiogcd | 29 | 2026-03-25 | Async Google Cloud Datastore client
+async-titiler | - | 27 | 2026-10-01 | Asynchronous GeoTIFF tile server based on TiTiler
+async-kinesis | async-kinesis | 24 | 2026-05-06 | Async client for AWS Kinesis
+aiosu | aiosu | 23 | 2026-09-22 | Async client library for osu! game API
+aiokalshi | - | 20 | 2025-10-09 | Async client for Kalshi prediction market API
+
+## Files and I/O
+
+aiofiles | aiofiles | 3264 | 2026-09-28 | File support for asyncio
+aiofile | aiofile | 584 | 2026-08-23 | Real asynchronous file operations with native support
+aiocsv | aiocsv | 74 | 2026-05-23 | Asynchronous CSV reading and writing
+async-pmtiles | async-pmtiles | 58 | 2026-09-14 | Async PMTiles reader for Python
+async-geotiff | async-geotiff | 58 | 2026-09-29 | Async reader for GeoTIFF and Cloud Optimized GeoTIFF files
+aioshutil | aioshutil | 50 | 2026-08-23 | Async equivalents of shutil functions
+asyncinotify | asyncinotify | 47 | 2026-05-28 | Async inotify module for file system monitoring
+aiowinreg | aiowinreg | 24 | 2025-10-29 | Registry hive parsing using asyncio
+
+## Concurrency utilities
+
+asyncer | asyncer | 2501 | 2026-09-02 | Utility library for working with asyncio coroutines and async/await syntax
+aiostream | aiostream | 921 | 2026-09-16 | Generator-based operators for asynchronous iteration
+aiolimiter | aiolimiter | 784 | 2026-10-04 | Rate limiter implementation for asyncio tasks
+aiorun | aiorun | 470 | 2026-08-20 | A run() function that handles all the usual boilerplate for startup and graceful shutdown
+aiomisc | aiomisc | 426 | 2026-09-28 | Miscellaneous utils for asyncio
+aioitertools | aioitertools | 278 | 2025-11-06 | Async-compatible itertools and builtins for asyncio
+aiorwlock | aiorwlock | 176 | 2026-10-04 | Read write lock for asyncio
+aiosignal | aiosignal | 170 | 2026-09-30 | List of registered asynchronous callbacks for event handling
+aiotools | aiotools | 168 | 2026-07-21 | Idiomatic asyncio utilities and helpers
+aiologic | aiologic | 93 | 2026-09-26 | GIL-powered locking library for asyncio
+aioinject | aioinject | 60 | 2026-07-23 | Async-first dependency injection library for Python
+asyncio-redis-rate-limit | asyncio-redis-rate-limit | 54 | 2026-10-02 | Rate limiting utility using Redis backend for asyncio
+aiochannel | aiochannel | 41 | 2026-08-03 | Closable queues (channels) for Python asyncio
+async-utils | - | 34 | 2026-09-20 | Collection of async utilities
+
+## Event loops
+
+uvloop | uvloop | 11906 | 2026-10-01 | Drop-in replacement for the asyncio event loop, built on libuv
+winloop | winloop | 232 | 2026-10-02 | Alternative library for uvloop compatibility with Windows
+
+## Testing
+
+pytest-asyncio | pytest-asyncio | 1664 | 2026-10-01 | Pytest support for asyncio
+respx | respx | 839 | 2026-04-23 | Mock HTTPX library with awesome patterns and side effects for testing async code
+aioresponses | aioresponses | 556 | 2026-04-13 | Helper for mock/fake web requests in Python aiohttp package
+aiounittest | aiounittest | 58 | 2026-01-19 | Test framework for Python asyncio code
+asyncpg-stubs | asyncpg-stubs | 50 | 2026-07-10 | Type stubs for the asyncpg PostgreSQL driver
+asyncinject | asyncinject | 37 | 2026-06-11 | Async workflow execution with pytest-style dependency injection
+
+## Observability and debugging
+
+opentelemetry-api | opentelemetry-api | 2657 | 2026-10-01 | OpenTelemetry Python API for distributed tracing and metrics collection
+aiomonitor | aiomonitor | 777 | 2026-03-30 | Monitor and REPL for asyncio applications
+aiocop | aiocop | 21 | 2026-08-24 | Monitor asyncio event loop for blocking I/O and CPU calls
+
+## Scraping and browser automation
+
+Crawlee | crawlee | 9577 | 2026-10-02 | Web scraping and automation library for crawlers, extracts data with proxy rotation
+aio-scrapy | aio-scrapy | 71 | 2026-07-23 | Web scraper implementing scrapy patterns with asyncio
+aiohttp_chromium | - | 62 | 2025-12-01 | Aiohttp-like interface to Chromium
+aiopytesseract | aiopytesseract | 28 | 2026-01-14 | Async wrapper for Tesseract OCR text extraction
+
+## Bots and chat
+
+python-telegram-bot | python-telegram-bot | 29510 | 2026-10-01 | Fully asynchronous Python interface for Telegram Bot API with type hints
+discord.py | discord.py | 16194 | 2026-09-01 | Async API wrapper for Discord
+nonebot2 | nonebot2 | 7730 | 2026-09-28 | Cross-platform asynchronous chatbot framework supporting multiple backends
+aiogram | aiogram | 5887 | 2026-09-27 | Modern asynchronous framework for Telegram Bot API
+aiogram_dialog | aiogram_dialog | 900 | 2026-06-15 | GUI framework for Telegram bots built on aiogram
+aiotg | aiotg | 377 | 2026-01-07 | Async client library for Telegram Bot API
+aiogram_broadcaster | aiogram-broadcaster | 25 | 2025-10-17 | Telegram message broadcaster library for aiogram bots
+aiogram-inline-paginations | aiogram-inline-paginations | 23 | 2025-11-05 | Library for Telegram inline keyboard pagination
+
+## Auth and security
+
+authlib | authlib | 5432 | 2026-08-31 | Ultimate Python library for building OAuth and OpenID Connect servers and clients
+aiohttp-security | aiohttp-security | 240 | 2026-10-01 | Authentication and permissions for aiohttp
+aioauth | aioauth | 230 | 2026-07-26 | OAuth 2.0 server implementation for asyncio
+
+## CLI and TUI
+
+Textual | textual | 37397 | 2026-07-11 | Framework for building terminal and web UIs with an async Python API
+aioconsole | aioconsole | 484 | 2026-05-23 | Asynchronous console I/O for asyncio applications
+async-tkinter-loop | async-tkinter-loop | 94 | 2026-10-01 | Async event loop integration for tkinter GUI applications
+
+## IoT and hardware
+
+aioesphomeapi | aioesphomeapi | 198 | 2026-09-25 | Async Python client for ESPHome native API
+aiohomematic | aiohomematic | 168 | 2026-10-03 | Interface for asyncio interaction with HomeMatic devices
+aiov2_ctl | - | 126 | 2026-03-03 | Control client for uConsole AIO v2 board
+aiocomfoconnect | aiocomfoconnect | 107 | 2026-08-03 | Zehnder ComfoConnect interface for home ventilation systems
+aiounifi | aiounifi | 90 | 2026-10-01 | Library for communicating with Ubiquiti UniFi controllers
+asynckivy | asynckivy | 90 | 2026-09-29 | Async support library for Kivy framework
+aioshelly | aioshelly | 82 | 2026-10-04 | Control Shelly smart home devices via asyncio
+aiohue | aiohue | 75 | 2026-09-28 | Control Philips Hue devices using asyncio
+aio_energy_management | - | 75 | 2026-09-27 | Home Assistant integration for energy management
+aiohomekit | aiohomekit | 72 | 2026-08-14 | Asyncio support for HomeKit protocol
+async_upnp_client | async-upnp-client | 56 | 2026-10-03 | Async client for UPnP (Universal Plug and Play) devices
+aioamazondevices | aioamazondevices | 55 | 2026-10-04 | Async library for controlling Amazon smart home devices
+aiowebostv | aiowebostv | 55 | 2026-09-28 | Async library to control LG webOS-based TVs
+aiorospy | - | 43 | 2026-09-24 | Asyncio wrapper for ROS Python client
+aiosc | aiosc | 40 | 2026-07-11 | Lightweight Open Sound Control implementation
+aioswitcher | aioswitcher | 39 | 2026-10-04 | Control Switcher smart devices via asyncio
+aiowmi | aiowmi | 31 | 2026-04-03 | Async Windows Management Instrumentation queries
+aiobmsble | aiobmsble | 30 | 2026-09-30 | Async library for querying BMS (battery management systems) via Bluetooth
+aioaquarea | aioaquarea | 30 | 2026-05-07 | Control Panasonic Aquarea heat pump devices asynchronously
+aioharmony | aioharmony | 28 | 2026-09-18 | Async library for controlling Logitech Harmony devices
+asyncio-for-robotics | asyncio-for-robotics | 28 | 2026-09-16 | Asyncio interface for ROS 2 and robotics systems
+aioasuswrt | aioasuswrt | 26 | 2026-09-28 | Async client for ASUS router via SSH/telnet
+aiolifx | aiolifx | 26 | 2026-05-26 | Async library for controlling LIFX smart bulbs via LAN
+aio-intex-spa | aio-intex-spa | 25 | 2025-10-24 | Control Intex wifi-enabled spa devices asynchronously
+aioecowitt | aioecowitt | 23 | 2026-10-03 | EcoWitt weather station protocol library for asyncio
+aioesphomeserver | - | 22 | 2026-07-09 | ESPHome native protocol server implementation in Python
+aiofranka | aiofranka | 21 | 2026-10-03 | Async library for controlling Franka robots
+aioruckus | aioruckus | 20 | 2026-09-14 | Async client for Ruckus Unleashed WiFi controller
+
+## Alternatives to asyncio
+
+trio | trio | 7341 | 2026-10-01 | Pythonic async I/O for humans and snake people
+AnyIO | anyio | 2550 | 2026-10-04 | High level asynchronous concurrency and networking framework that works on top of either trio or asyncio
+trio-asyncio | trio-asyncio | 204 | 2026-05-18 | re-implementation of the asyncio mainloop on top of Trio
+aioresult | aioresult | 20 | 2026-08-24 | Capture and retrieve results from Trio or anyio tasks
+
+## Misc
+
+watchfiles | watchfiles | 2547 | 2026-09-21 | Async file system monitoring with a Rust backend
+aiocache | aiocache | 1437 | 2026-06-28 | Cache manager for different backends
+async-lru | async-lru | 954 | 2026-09-30 | LRU cache implementation for asyncio functions
+aiotieba | aiotieba | 688 | 2026-10-02 | Async client library for Baidu Tieba community platform
+aiosmtplib | aiosmtplib | 433 | 2026-09-18 | Async SMTP client library for sending emails over asyncio
+asyncstdlib | asyncstdlib | 380 | 2026-10-04 | Async equivalents of itertools and functools
+aiosmtpd | aiosmtpd | 372 | 2026-10-01 | SMTP server implementation based on asyncio
+aiodataloader | aiodataloader | 296 | 2025-11-29 | DataLoader batch utility for asyncio applications
+aiohttp-devtools | aiohttp-devtools | 266 | 2026-10-01 | Development tools for aiohttp applications
+async-cache | async-cache | 107 | 2026-05-28 | Caching solution for asyncio applications
+aio-mc-rcon | aio-mc-rcon | 53 | 2026-09-18 | Asynchronous RCON client for Minecraft server administration
+aiosendspin | - | 51 | 2026-10-02 | Async library implementing the Sendspin protocol
+async-btree | async_btree | 45 | 2026-09-06 | Asynchronous behavior tree implementation for Python
+async-agentic-tools | - | 41 | 2026-05-28 | Background task execution framework for AI agents
+Aios | - | 26 | 2026-07-26 | AI orchestration framework for building digital coworkers
+async-signals | - | 25 | 2026-08-22 | Async version of Django signals
+asyncapi-python | asyncapi-python | 24 | 2026-04-04 | CLI to generate Python code from AsyncAPI spec
+AsyncPP | - | 23 | 2026-02-02 | Asynchronous pipeline parallel optimization
+async-graph-data-flow | async-graph-data-flow | 22 | 2026-04-21 | Async functions for directed acyclic graphs
+
+260 inactive or archived libraries are left out. See README.md for them.
