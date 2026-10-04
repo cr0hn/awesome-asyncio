@@ -329,3 +329,7 @@ aiosendspin | - | 51 | 2026-10-02 | Async library implementing the Sendspin prot
 asyncapi-python | asyncapi-python | 24 | 2026-04-04 | CLI to generate Python code from AsyncAPI spec
 
 260 inactive or archived libraries are left out. See README.md for them.
+
+## Author
+
+Maintained by Daniel Alfocea, a Python and cybersecurity expert, formerly known online as cr0hn. Website: https://danielalfocea.com . GitHub: https://github.com/cr0hn . Contact: cr0hn@cr0hn.com

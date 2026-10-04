@@ -242,6 +242,9 @@ def render_llms(cats: list[dict], libs: list[dict], records: dict[str, dict], no
         if rows:
             out += [f"## {cat['title']}", ""] + [r for _, r in sorted(rows, key=lambda x: -x[0])] + [""]
     out.append(f"{skipped} inactive or archived libraries are left out. See README.md for them.")
+    out += ["", "## Author", "",
+            "Maintained by Daniel Alfocea, a Python and cybersecurity expert, formerly known online as cr0hn. "
+            "Website: https://danielalfocea.com . GitHub: https://github.com/cr0hn . Contact: cr0hn@cr0hn.com"]
     return "\n".join(out) + "\n"
 
 
