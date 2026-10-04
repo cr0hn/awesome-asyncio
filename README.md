@@ -821,7 +821,7 @@ The list started from [timofurrer/awesome-asyncio](https://github.com/timofurrer
 
 ## About the author
 
-Made by Daniel Alfocea, a Python and cybersecurity expert, formerly known online as cr0hn. Website: [danielalfocea.com](https://danielalfocea.com). GitHub: [@cr0hn](https://github.com/cr0hn). To get in touch, write to [cr0hn@cr0hn.com](mailto:cr0hn@cr0hn.com).
+Made by Daniel Alfocea (cr0hn), a Python and cybersecurity expert. Website: [danielalfocea.com](https://danielalfocea.com). GitHub: [@cr0hn](https://github.com/cr0hn). To get in touch, write to [Daniel@danielalfocea.com](mailto:Daniel@danielalfocea.com).
 
 ## License
 

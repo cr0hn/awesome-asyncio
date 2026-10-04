@@ -332,4 +332,4 @@ asyncapi-python | asyncapi-python | 24 | 2026-04-04 | CLI to generate Python cod
 
 ## Author
 
-Maintained by Daniel Alfocea, a Python and cybersecurity expert, formerly known online as cr0hn. Website: https://danielalfocea.com . GitHub: https://github.com/cr0hn . Contact: cr0hn@cr0hn.com
+Maintained by Daniel Alfocea (cr0hn), a Python and cybersecurity expert. Website: https://danielalfocea.com . GitHub: https://github.com/cr0hn . Contact: Daniel@danielalfocea.com
