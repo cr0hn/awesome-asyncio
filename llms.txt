@@ -204,7 +204,7 @@ async-utils | - | 34 | 2026-09-20 | Collection of async utilities
 
 ## Event loops
 
-uvloop | uvloop | 11906 | 2026-10-01 | Drop-in replacement for the asyncio event loop, built on libuv
+uvloop | uvloop | 11907 | 2026-10-01 | Drop-in replacement for the asyncio event loop, built on libuv
 winloop | winloop | 232 | 2026-10-02 | Alternative library for uvloop compatibility with Windows
 
 ## Testing
@@ -244,6 +244,7 @@ aiogram-inline-paginations | aiogram-inline-paginations | 23 | 2025-11-05 | Libr
 
 authlib | authlib | 5432 | 2026-08-31 | Ultimate Python library for building OAuth and OpenID Connect servers and clients
 aiohttp-security | aiohttp-security | 240 | 2026-10-01 | Authentication and permissions for aiohttp
+FestIn | festin | 232 | 2026-09-08 | Find exposed S3-compatible cloud storage from domains, DNS and web crawling, with no credentials
 aioauth | aioauth | 230 | 2026-07-26 | OAuth 2.0 server implementation for asyncio
 ktcal2 | ktcal2 | 37 | 2026-09-08 | SSH brute forcer tool and library built on AsyncSSH
 

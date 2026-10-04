@@ -232,6 +232,12 @@
     "repo": "cr0hn/ktcal2",
     "url": "https://github.com/cr0hn/ktcal2",
     "description": "SSH brute forcer tool and library built on AsyncSSH"
+   },
+   {
+    "name": "FestIn",
+    "repo": "cr0hn/festin",
+    "url": "https://github.com/cr0hn/festin",
+    "description": "Find exposed S3-compatible cloud storage from domains, DNS and web crawling, with no credentials"
    }
   ]
  }

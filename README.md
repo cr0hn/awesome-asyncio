@@ -5,7 +5,7 @@
 <h1 align="center">awesome-asyncio</h1>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Libraries](https://img.shields.io/badge/libraries-502-2F6FB5?labelColor=0F1E3D)](#libraries)
+[![Libraries](https://img.shields.io/badge/libraries-503-2F6FB5?labelColor=0F1E3D)](#libraries)
 [![Updated](https://img.shields.io/badge/updated-2026--10--04-2F6FB5?labelColor=0F1E3D)](#new-this-week)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-2F6FB5?labelColor=0F1E3D)](LICENSE)
 
@@ -38,7 +38,7 @@ If you are an LLM or building a tool around one, read [`llms.txt`](llms.txt) ins
   - [Observability and debugging](#observability-and-debugging) (12)
   - [Scraping and browser automation](#scraping-and-browser-automation) (16)
   - [Bots and chat](#bots-and-chat) (24)
-  - [Auth and security](#auth-and-security) (9)
+  - [Auth and security](#auth-and-security) (10)
   - [CLI and TUI](#cli-and-tui) (4)
   - [IoT and hardware](#iot-and-hardware) (37)
   - [Alternatives to asyncio](#alternatives-to-asyncio) (7)
@@ -67,6 +67,7 @@ Releases published and libraries added in the last 7 days. Older weeks are in [n
 - [python-object-watchdog](https://github.com/cr0hn/python-object-watchdog): Watch runtime changes in Python objects and run sync or async callbacks
 - [python-database-watcher](https://github.com/cr0hn/python-database-watcher): Watch several databases for changes, with a queue mode for asyncio
 - [ktcal2](https://github.com/cr0hn/ktcal2): SSH brute forcer tool and library built on AsyncSSH
+- [FestIn](https://github.com/cr0hn/festin): Find exposed S3-compatible cloud storage from domains, DNS and web crawling, with no credentials
 
 **New releases**
 
@@ -646,6 +647,7 @@ Authentication, authorization and crypto helpers.
 |---|---|:-:|---|---|--:|
 | [authlib](https://github.com/authlib/authlib) | Ultimate Python library for building OAuth and OpenID Connect servers and clients | ✅ | 2026-08-31 | 1.8.0 | 5.4k |
 | [aiohttp-security](https://github.com/aio-libs/aiohttp-security) | Authentication and permissions for aiohttp | ✅ | 2026-10-01 | 0.5.0 | 240 |
+| [FestIn](https://github.com/cr0hn/festin) | Find exposed S3-compatible cloud storage from domains, DNS and web crawling, with no credentials | ✅ | 2026-09-08 | 0.4.0 | 232 |
 | [aioauth](https://github.com/aliev/aioauth) | OAuth 2.0 server implementation for asyncio | ✅ | 2026-07-26 | 2.0.1 | 230 |
 | [aioauth-client](https://github.com/klen/aioauth-client) | OAuth client library for aiohttp | 💤 | 2025-04-10 | 0.30.1 | 145 |
 | [aiohttp-jwt](https://github.com/hzlmn/aiohttp-jwt) | JSON Web Token middleware for aiohttp | 💤 | 2020-05-07 | 0.6.1 | 78 |

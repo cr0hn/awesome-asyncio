@@ -5,6 +5,7 @@ New: async-sonic: Zero-dependency asyncio client for the Sonic search backend, w
 New: python-object-watchdog: Watch runtime changes in Python objects and run sync or async callbacks
 New: python-database-watcher: Watch several databases for changes, with a queue mode for asyncio
 New: ktcal2: SSH brute forcer tool and library built on AsyncSSH
+New: FestIn: Find exposed S3-compatible cloud storage from domains, DNS and web crawling, with no credentials
 AsyncSSH 2.24.1 (2026-10-04)
 Strawberry 0.330.3 (2026-10-04)
 async-firebase 6.3.0 (2026-10-04)

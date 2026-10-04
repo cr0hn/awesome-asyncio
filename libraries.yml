@@ -2529,3 +2529,9 @@ libraries:
   category: auth-security
   description: SSH brute forcer tool and library built on AsyncSSH
   added: 2026-10-05
+- name: FestIn
+  repo: cr0hn/festin
+  pypi: festin
+  category: auth-security
+  description: Find exposed S3-compatible cloud storage from domains, DNS and web crawling, with no credentials
+  added: 2026-10-05

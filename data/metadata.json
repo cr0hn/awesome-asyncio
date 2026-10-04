@@ -330,7 +330,7 @@
  "MagicStack/uvloop": {
   "archived": false,
   "last_commit": "2026-10-01T15:38:13Z",
-  "stars": 11906,
+  "stars": 11907,
   "url": "https://github.com/MagicStack/uvloop",
   "version": "0.23.0",
   "version_date": "2026-10-01T03:17:04.400341Z"
@@ -1574,6 +1574,14 @@
   "url": "https://github.com/cr0hn/async-sonic",
   "version": "0.1.0",
   "version_date": "2026-09-28T19:28:55.733762Z"
+ },
+ "cr0hn/festin": {
+  "archived": false,
+  "last_commit": "2026-09-08T17:26:41Z",
+  "stars": 232,
+  "url": "https://github.com/cr0hn/festin",
+  "version": "0.4.0",
+  "version_date": "2026-09-07T22:33:28.930728Z"
  },
  "cr0hn/ktcal2": {
   "archived": false,
