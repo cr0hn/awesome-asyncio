@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Libraries](https://img.shields.io/badge/libraries-503-2F6FB5?labelColor=0F1E3D)](#libraries)
-[![Updated](https://img.shields.io/badge/updated-2026--10--04-2F6FB5?labelColor=0F1E3D)](#new-this-week)
+[![Updated](https://img.shields.io/badge/updated-2026--10--05-2F6FB5?labelColor=0F1E3D)](#new-this-week)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-2F6FB5?labelColor=0F1E3D)](LICENSE)
 
 Python libraries built on [asyncio](https://docs.python.org/3/library/asyncio.html) or that work with it, grouped by what they do. It is meant for browsing: you have a problem, you want to see what exists before picking one.
@@ -70,8 +70,10 @@ Releases published and libraries added in the last 7 days. Older weeks are in [n
 
 | Library | Description | Version | Date |
 |---|---|---|---|
+| [fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) | JSON-RPC 2.0 server framework built on FastAPI | 4.0.1 | 2026-10-05 |
+| [aiosendspin](https://github.com/Sendspin/aiosendspin) | Async library implementing the Sendspin protocol | 10.0.0 | 2026-10-05 |
 | [AsyncSSH](https://github.com/ronf/asyncssh) | Provides an asynchronous client and server implementation of the SSHv2 protocol | 2.24.1 | 2026-10-04 |
-| [Strawberry](https://github.com/strawberry-graphql/strawberry) | Code-first Python 3 GraphQL server with Django, Flask and FastAPI/Starlette support | 0.330.3 | 2026-10-04 |
+| [Strawberry](https://github.com/strawberry-graphql/strawberry) | Code-first Python 3 GraphQL server with Django, Flask and FastAPI/Starlette support | 0.331.1 | 2026-10-04 |
 | [async-firebase](https://github.com/healthjoy/async-firebase) | Lightweight async client for Firebase Cloud Messaging | 6.3.0 | 2026-10-04 |
 | [websockets](https://github.com/python-websockets/websockets) | A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity | 17.2 | 2026-10-03 |
 | [aiohomematic](https://github.com/SukramJ/aiohomematic) | Interface for asyncio interaction with HomeMatic devices | 2026.10.3 | 2026-10-03 |
@@ -93,7 +95,8 @@ Releases published and libraries added in the last 7 days. Older weeks are in [n
 | [asynckivy](https://github.com/asyncgui/asynckivy) | Async support library for Kivy framework | 0.12.0 | 2026-09-29 |
 | [aio_energy_management](https://github.com/kotope/aio_energy_management) | Home Assistant integration for energy management | 1.2.1 | 2026-09-29 |
 | [aiomisc](https://github.com/aiokitchen/aiomisc) | Miscellaneous utils for asyncio | 18.0.33 | 2026-09-28 |
-| [async-sonic](https://github.com/cr0hn/async-sonic) | Zero-dependency asyncio client for the Sonic search backend, with pooling and pipelining | 0.1.0 | 2026-09-28 |
+
+1 more in [news/2026-W41.md](news/2026-W41.md).
 
 ## Libraries
 
@@ -109,10 +112,10 @@ Frameworks and toolkits to build web apps and APIs.
 | [Django](https://github.com/django/django) | An established, high-level Python web framework with a huge community and ecosystem | ✅ | 2026-10-03 | 6.1.1 | 91.3k |
 | [Tornado](https://github.com/tornadoweb/tornado) | Performant web framework and asynchronous networking library | ✅ | 2026-10-04 | 6.5.10 | 22.2k |
 | [sanic](https://github.com/sanic-org/sanic) | Web server and framework written for speed, with async request handling | ✅ | 2026-05-31 | 25.12.1 | 18.6k |
-| [aiohttp](https://github.com/aio-libs/aiohttp) | Http client/server for asyncio (PEP-3156) | ✅ | 2026-10-04 | 3.14.3 | 16.6k |
+| [aiohttp](https://github.com/aio-libs/aiohttp) | Http client/server for asyncio (PEP-3156) | ✅ | 2026-10-05 | 3.14.3 | 16.6k |
 | [Starlette](https://github.com/Kludex/starlette) | ASGI framework and toolkit for building web services | ✅ | 2026-10-04 | 1.7.0 | 12.7k |
-| [django-ninja](https://github.com/vitalik/django-ninja) | Async-ready REST framework for Django, with type hints and Pydantic schemas | ✅ | 2026-10-04 | 1.7.1 | 9.2k |
-| [Litestar](https://github.com/litestar-org/litestar) | Production-ready extensible ASGI framework with excellent performance and developer experience | ✅ | 2026-10-02 | 2.24.0 | 8.5k |
+| [django-ninja](https://github.com/vitalik/django-ninja) | Async-ready REST framework for Django, with type hints and Pydantic schemas | ✅ | 2026-10-05 | 1.7.1 | 9.2k |
+| [Litestar](https://github.com/litestar-org/litestar) | Production-ready extensible ASGI framework with excellent performance and developer experience | ✅ | 2026-10-05 | 2.24.0 | 8.5k |
 | [Quart](https://github.com/pallets/quart) | An asyncio web microframework with the same API as Flask | ✅ | 2026-09-12 | 0.23.1 | 3.7k |
 | [asgiref](https://github.com/django/asgiref) | Backend utils for ASGI to WSGI integration, includes sync_to_async and async_to_sync function wrappers | ✅ | 2026-09-28 | 3.12.1 | 1.6k |
 | [aiohttp-session](https://github.com/aio-libs/aiohttp-session) | Session management for aiohttp web applications | ✅ | 2026-10-01 | 2.12.1 | 245 |
@@ -122,7 +125,7 @@ Frameworks and toolkits to build web apps and APIs.
 | [aiohttp-cors](https://github.com/aio-libs/aiohttp-cors) | CORS support middleware for aiohttp | ✅ | 2026-09-28 | 0.8.1 | 220 |
 | [aiohttp-admin](https://github.com/aio-libs/aiohttp-admin) | Admin interface for aiohttp applications | ✅ | 2026-09-28 | v0.0.4 | 219 |
 | [aiohttp-swagger](https://github.com/cr0hn/aiohttp-swagger) | Swagger API documentation builder for aiohttp servers | ✅ | 2026-09-08 | 1.0.16 | 187 |
-| [aiohttp-remotes](https://github.com/aio-libs/aiohttp-remotes) | Tools for aiohttp.web servers | ✅ | 2026-09-28 | 1.3.0 | 85 |
+| [aiohttp-remotes](https://github.com/aio-libs/aiohttp-remotes) | Tools for aiohttp.web servers | ✅ | 2026-10-05 | 1.3.0 | 85 |
 | [aiopyramid](https://github.com/housleyjk/aiopyramid) | Run Pyramid web framework with asyncio support | 💤 | 2022-09-16 | 0.4.1 | 78 |
 | [aiohttp-pydantic](https://github.com/Maillol/aiohttp-pydantic) | Request validation with Pydantic for aiohttp | ✅ | 2026-09-23 | 3.0.2 | 75 |
 | [aiohttp-swagger3](https://github.com/hh-h/aiohttp-swagger3) | OpenAPI 3.0 documentation and validation for aiohttp applications | 💤 | 2025-02-11 | 0.10.0 | 61 |
@@ -210,7 +213,7 @@ Libraries to build and query GraphQL APIs.
 | Library | Description | Status | Last commit | Latest version | Stars |
 |---|---|:-:|---|---|--:|
 | [graphene](https://github.com/graphql-python/graphene) | GraphQL framework for Python with schema definition and query execution | 💤 | 2024-11-09 | 3.4.3 | 8.2k |
-| [Strawberry](https://github.com/strawberry-graphql/strawberry) | Code-first Python 3 GraphQL server with Django, Flask and FastAPI/Starlette support | ✅ | 2026-10-04 | 0.330.3 | 4.7k |
+| [Strawberry](https://github.com/strawberry-graphql/strawberry) | Code-first Python 3 GraphQL server with Django, Flask and FastAPI/Starlette support | ✅ | 2026-10-04 | 0.331.1 | 4.7k |
 | [Ariadne](https://github.com/mirumee/ariadne) | Schema-first Python library for implementing GraphQL servers | ✅ | 2026-08-31 | 1.1.0 | 2.3k |
 | [Tartiflette](https://github.com/tartiflette/tartiflette) | Schema-first Python 3.6+ GraphQL engine built on top of libgraphqlparser | 💤 | 2022-01-20 | 1.4.1 | 854 |
 | [aiohttp-graphql](https://github.com/graphql-python/aiohttp-graphql) | GraphQL support integration for aiohttp web applications | 💤 | 2020-08-07 | 1.1.0 | 117 |
@@ -225,7 +228,7 @@ gRPC, JSON-RPC and other remote call libraries.
 |---|---|:-:|---|---|--:|
 | [betterproto](https://github.com/danielgtaylor/python-betterproto) | Code generator and library for Protocol Buffers with async gRPC support | 💤 | 2025-07-17 | 1.2.5 | 1.8k |
 | [grpclib](https://github.com/vmagamedov/grpclib) | Pure-Python gRPC implementation for asyncio with full protocol support | ✅ | 2025-12-14 | 0.4.9 | 988 |
-| [fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) | JSON-RPC 2.0 server framework built on FastAPI | ✅ | 2026-10-04 | 4.0.0 | 421 |
+| [fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) | JSON-RPC 2.0 server framework built on FastAPI | ✅ | 2026-10-05 | 4.0.1 | 421 |
 | [aiogrpc](https://github.com/hubo1016/aiogrpc) | Asyncio wrapper for gRPC | 💤 | 2020-08-24 | 1.8 | 114 |
 | [aiorpc](https://github.com/choleraehyq/aiorpc) | Fast Python RPC library based on asyncio and MessagePack | 💤 | 2021-06-18 | 0.1.7 | 78 |
 | [aiohttp-xmlrpc](https://github.com/mosquito/aiohttp-xmlrpc) | XML-RPC implementation for aiohttp | 💤 | 2022-12-18 | 1.5.0 | 34 |
@@ -240,13 +243,13 @@ Clients for AMQP, Kafka, NATS, ZeroMQ, MQTT and others.
 
 | Library | Description | Status | Last commit | Latest version | Stars |
 |---|---|:-:|---|---|--:|
-| [faststream](https://github.com/ag2ai/faststream) | Async client for Kafka, RabbitMQ, NATS, Redis and MQTT with AsyncAPI docs | ✅ | 2026-10-02 | 0.7.7 | 5.4k |
+| [faststream](https://github.com/ag2ai/faststream) | Async client for Kafka, RabbitMQ, NATS, Redis and MQTT with AsyncAPI docs | ✅ | 2026-10-05 | 0.7.7 | 5.4k |
 | [pyzmq](https://github.com/zeromq/pyzmq) | Python bindings for ZeroMQ | ✅ | 2026-08-20 | 27.2.0 | 4.2k |
 | [crossbar](https://github.com/crossbario/crossbar) | Crossbar.io is a networking platform for distributed and microservice applications | ✅ | 2026-09-29 | 26.7.1 | 2.1k |
 | [aio-pika](https://github.com/mosquito/aio-pika) | Asyncio wrapper for RabbitMQ built on aiormq for asyncio and humans | ✅ | 2026-09-27 | 10.1.0 | 1.5k |
 | [aiokafka](https://github.com/aio-libs/aiokafka) | Client for Apache Kafka | ✅ | 2026-09-10 | 0.14.0 | 1.4k |
 | [asyncio-nats](https://github.com/nats-io/nats.py) | Client for the NATS messaging system | ✅ | 2026-10-01 | 2.16.0 | 1.3k |
-| [aiomqtt](https://github.com/empicano/aiomqtt) | Idiomatic asyncio MQTT client with type hints and async/await support | ✅ | 2026-04-23 | 2.5.1 | 575 |
+| [aiomqtt](https://github.com/empicano/aiomqtt) | Idiomatic asyncio MQTT client with type hints and async/await support | ✅ | 2026-04-23 | 2.5.1 | 576 |
 | [aiozmq](https://github.com/aio-libs/aiozmq) | Alternative Asyncio integration with ZeroMQ | ✅ | 2026-03-26 | 1.0.0 | 431 |
 | [aiormq](https://github.com/mosquito/aiormq) | Pure python AMQP asynchronous client library for asyncio | ✅ | 2026-09-29 | 7.2.1 | 318 |
 | [aioamqp](https://github.com/Polyconseil/aioamqp) | AMQP implementation using asyncio | 💤 | 2022-04-05 | 0.15.0 | 282 |
@@ -290,7 +293,7 @@ Async drivers for SQL, NoSQL, search and time-series databases.
 |---|---|:-:|---|---|--:|
 | [redis-py](https://github.com/redis/redis-py) | Redis Python Client (which includes aioreadis now) | ✅ | 2026-10-04 | 8.1.0 | 13.6k |
 | [asyncpg](https://github.com/MagicStack/asyncpg) | PostgreSQL client library for asyncio | ✅ | 2026-10-03 | 0.31.0 | 8.1k |
-| [pymongo](https://github.com/mongodb/mongo-python-driver) | The Official MongoDB Python driver, offering both synchronous and asynchronous APIs | ✅ | 2026-10-02 | 4.18.2 | 4.4k |
+| [pymongo](https://github.com/mongodb/mongo-python-driver) | The Official MongoDB Python driver, offering both synchronous and asynchronous APIs | ✅ | 2026-10-05 | 4.18.2 | 4.4k |
 | [motor](https://github.com/mongodb/motor) | Non-blocking MongoDB driver for asyncio and Tornado with native async/await | ✅ | 2026-09-30 | 3.7.1 | 2.5k |
 | [aiomysql](https://github.com/aio-libs/aiomysql) | Library for accessing a MySQL database | ✅ | 2025-12-22 | 0.3.2 | 1.9k |
 | [aiosqlite](https://github.com/omnilib/aiosqlite) | Asyncio bridge to the standard sqlite3 module with complete async interface | ✅ | 2025-12-23 | 0.22.1 | 1.6k |
@@ -347,7 +350,7 @@ Object mappers and query builders on top of async drivers.
 | [GINO](https://github.com/python-gino/gino) | is a lightweight asynchronous Python ORM based on SQLAlchemy core, with asyncpg dialect | 💤 | 2022-02-12 | 1.0.1 | 2.8k |
 | [Beanie](https://github.com/BeanieODM/beanie) | An async MongoDB ODM built on pymongo and Pydantic | ✅ | 2026-08-31 | 2.2.0 | 2.7k |
 | [Piccolo](https://github.com/piccolo-orm/piccolo) | An ORM / query builder which can work in async and sync modes, with a nice admin GUI, and ASGI middleware | ✅ | 2026-09-14 | 1.36.0 | 1.9k |
-| [ormar](https://github.com/ormar-orm/ormar) | Async ORM with fastapi in mind, pydantic validation and relational support | ✅ | 2026-10-02 | 0.26.0 | 1.8k |
+| [ormar](https://github.com/ormar-orm/ormar) | Async ORM with fastapi in mind, pydantic validation and relational support | ✅ | 2026-10-05 | 0.26.0 | 1.8k |
 | [odmantic](https://github.com/art049/odmantic) | Sync and async ODM for MongoDB based on python type hints and pydantic | ✅ | 2026-01-25 | 1.1.0 | 1.2k |
 | [oxyde](https://github.com/mr-fatalyst/oxyde) | Async ORM for Python with a Rust core | ✅ | 2026-09-29 | 0.8.0 | 763 |
 | [peewee-async](https://github.com/05bit/peewee-async) | ORM implementation based on peewee and aiopg | ✅ | 2026-08-28 | 2.1.0 | 762 |
@@ -400,7 +403,7 @@ DNS, SSH, ping, sockets and protocol implementations.
 | [aiodav](https://github.com/jorgeajimenezl/aiodav) | Async WebDAV client | 💤 | 2025-09-05 | 0.1.14 | 27 |
 | [aioudp](https://github.com/bashkirtsevich-llc/aioudp) | Async UDP server implementation | 💤 | 2024-07-30 | 0.0.7 | 26 |
 | [aioupnp](https://github.com/lbryio/aioupnp) | Universal Plug and Play (UPnP) protocol support for asyncio | 💤 | 2020-12-21 | 0.0.18 | 26 |
-| [aiotorrent](https://github.com/Mys7erio/aiotorrent) | Asynchronous BitTorrent client library in pure Python | ✅ | 2025-10-05 | 0.9.2 | 26 |
+| [aiotorrent](https://github.com/Mys7erio/aiotorrent) | Asynchronous BitTorrent client library in pure Python | 💤 | 2025-10-05 | 0.9.2 | 26 |
 | [aiodns](https://github.com/vshymanskyy/aiodns) | Async DNS client for MicroPython | ✅ | 2026-08-05 | - | 26 |
 | [aiorcon](https://github.com/skmendez/aiorcon) | Async interface for Source RCON protocol | 💤 | 2020-08-26 | - | 25 |
 | [aio_api_ros](https://github.com/frostspb/aio_api_ros) | Async Mikrotik API client | 💤 | 2023-03-02 | 0.0.19 | 25 |
@@ -418,7 +421,7 @@ SDKs and clients for cloud providers, Kubernetes and Docker.
 
 | Library | Description | Status | Last commit | Latest version | Stars |
 |---|---|:-:|---|---|--:|
-| [aiobotocore](https://github.com/aio-libs/aiobotocore) | Asyncio support for botocore library using aiohttp for AWS API access | ✅ | 2026-10-02 | 3.9.2 | 1.4k |
+| [aiobotocore](https://github.com/aio-libs/aiobotocore) | Asyncio support for botocore library using aiohttp for AWS API access | ✅ | 2026-10-05 | 3.9.2 | 1.4k |
 | [aioboto3](https://github.com/terricain/aioboto3) | Wrapper to use boto3 resources with the aiobotocore async backend | ✅ | 2025-10-30 | 15.5.0 | 1.0k |
 | [aiodocker](https://github.com/aio-libs/aiodocker) | Python Docker API client based on asyncio and aiohttp | ✅ | 2026-06-04 | 0.27.0 | 538 |
 | [aiograpi](https://github.com/subzeroid/aiograpi) | Asynchronous client library for Instagram Private API | ✅ | 2026-10-04 | 2.0.15 | 460 |
@@ -489,7 +492,7 @@ Primitives, rate limiters, pools, timeouts and runners.
 | [asyncer](https://github.com/fastapi/asyncer) | Utility library for working with asyncio coroutines and async/await syntax | ✅ | 2026-09-02 | 0.0.18 | 2.5k |
 | [aiomultiprocess](https://github.com/omnilib/aiomultiprocess) | Run asyncio code across multiple processes | 💤 | 2024-07-22 | 0.9.1 | 1.9k |
 | [aiostream](https://github.com/vxgmichel/aiostream) | Generator-based operators for asynchronous iteration | ✅ | 2026-09-16 | 0.8.1 | 921 |
-| [aiolimiter](https://github.com/mjpieters/aiolimiter) | Rate limiter implementation for asyncio tasks | ✅ | 2026-10-04 | 1.3.0 | 784 |
+| [aiolimiter](https://github.com/mjpieters/aiolimiter) | Rate limiter implementation for asyncio tasks | ✅ | 2026-10-05 | 1.3.0 | 784 |
 | [aioprocessing](https://github.com/dano/aioprocessing) | Integration of multiprocessing module with asyncio for parallel execution | 💤 | 2022-09-16 | 2.0.1 | 661 |
 | [aiorun](https://github.com/cjrh/aiorun) | A run() function that handles all the usual boilerplate for startup and graceful shutdown | ✅ | 2026-08-20 | 2025.1.1 | 470 |
 | [aiometer](https://github.com/florimondmanca/aiometer) | Concurrency scheduling library supporting asyncio and trio | 💤 | 2025-04-04 | 1.0.0 | 440 |
@@ -499,7 +502,7 @@ Primitives, rate limiters, pools, timeouts and runners.
 | [aioitertools](https://github.com/omnilib/aioitertools) | Async-compatible itertools and builtins for asyncio | ✅ | 2025-11-06 | 0.13.0 | 278 |
 | [aiochan](https://github.com/zh217/aiochan) | CSP-style concurrency with channels, select and multiprocessing on top of asyncio | 💤 | 2022-11-29 | 0.2.7 | 184 |
 | [aiorwlock](https://github.com/aio-libs/aiorwlock) | Read write lock for asyncio | ✅ | 2026-10-04 | 1.5.1 | 176 |
-| [aiosignal](https://github.com/aio-libs/aiosignal) | List of registered asynchronous callbacks for event handling | ✅ | 2026-09-30 | 1.4.0 | 170 |
+| [aiosignal](https://github.com/aio-libs/aiosignal) | List of registered asynchronous callbacks for event handling | ✅ | 2026-10-05 | 1.4.0 | 170 |
 | [aiotools](https://github.com/achimnol/aiotools) | Idiomatic asyncio utilities and helpers | ✅ | 2026-07-21 | 2.2.4 | 168 |
 | [asyncio-throttle](https://github.com/hallazzang/asyncio-throttle) | Simple rate limiter for asyncio applications | 💤 | 2021-04-07 | 1.0.2 | 128 |
 | [asyncio-pool](https://github.com/gistart/asyncio-pool) | Worker pool for asyncio with multiprocessing and threading support | 💤 | 2022-05-21 | 0.6.0 | 120 |
@@ -580,7 +583,7 @@ Tracing, metrics, profiling and debugging tools.
 | [aiodogstatsd](https://github.com/Gr1N/aiodogstatsd) | Async StatsD client with DogStatsD extension | 💤 | 2021-12-12 | 0.16.0.post0 | 34 |
 | [aiomanhole](https://github.com/nhoad/aiomanhole) | Manhole for accessing asyncio applications | 💤 | 2022-01-23 | - | 31 |
 | [aio-monitor](https://github.com/Physton/aio-monitor) | Real-time system monitoring panel for multiple platforms | 💤 | 2024-05-21 | v0.0.5 | 28 |
-| [aiocop](https://github.com/Feverup/aiocop) | Monitor asyncio event loop for blocking I/O and CPU calls | ✅ | 2026-08-24 | 1.2.0 | 21 |
+| [aiocop](https://github.com/Feverup/aiocop) | Monitor asyncio event loop for blocking I/O and CPU calls | ✅ | 2026-08-24 | 1.2.0 | 22 |
 
 ### Scraping and browser automation
 
@@ -588,7 +591,7 @@ Crawlers and headless browser drivers.
 
 | Library | Description | Status | Last commit | Latest version | Stars |
 |---|---|:-:|---|---|--:|
-| [Crawlee](https://github.com/apify/crawlee-python) | Web scraping and automation library for crawlers, extracts data with proxy rotation | ✅ | 2026-10-02 | 1.10.3 | 9.6k |
+| [Crawlee](https://github.com/apify/crawlee-python) | Web scraping and automation library for crawlers, extracts data with proxy rotation | ✅ | 2026-10-05 | 1.10.3 | 9.6k |
 | [ruia](https://github.com/howie6879/ruia) | An async web scraping micro-framework based on asyncio | 💤 | 2022-08-21 | 0.8.5 | 1.7k |
 | [async-proxy-pool](https://github.com/chenjiandongx/async-proxy-pool) | Asynchronous proxy pool for web scraping | 💤 | 2019-03-14 | - | 366 |
 | [aioscpy](https://github.com/ihandmine/aioscpy) | Async web scraper imitating scrapy patterns | 💤 | 2025-04-18 | 0.3.13 | 115 |
@@ -643,7 +646,7 @@ Authentication, authorization and crypto helpers.
 | Library | Description | Status | Last commit | Latest version | Stars |
 |---|---|:-:|---|---|--:|
 | [authlib](https://github.com/authlib/authlib) | Ultimate Python library for building OAuth and OpenID Connect servers and clients | ✅ | 2026-08-31 | 1.8.0 | 5.4k |
-| [aiohttp-security](https://github.com/aio-libs/aiohttp-security) | Authentication and permissions for aiohttp | ✅ | 2026-10-01 | 0.5.0 | 240 |
+| [aiohttp-security](https://github.com/aio-libs/aiohttp-security) | Authentication and permissions for aiohttp | ✅ | 2026-10-05 | 0.5.0 | 240 |
 | [FestIn](https://github.com/cr0hn/festin) | Find exposed S3-compatible cloud storage from domains, DNS and web crawling, with no credentials | ✅ | 2026-09-08 | 0.4.0 | 232 |
 | [aioauth](https://github.com/aliev/aioauth) | OAuth 2.0 server implementation for asyncio | ✅ | 2026-07-26 | 2.0.1 | 230 |
 | [aioauth-client](https://github.com/klen/aioauth-client) | OAuth client library for aiohttp | 💤 | 2025-04-10 | 0.30.1 | 145 |
@@ -671,7 +674,7 @@ Home automation, devices and embedded protocols.
 | Library | Description | Status | Last commit | Latest version | Stars |
 |---|---|:-:|---|---|--:|
 | [aioesphomeapi](https://github.com/esphome/aioesphomeapi) | Async Python client for ESPHome native API | ✅ | 2026-09-25 | 46.6.0 | 198 |
-| [aiohomematic](https://github.com/SukramJ/aiohomematic) | Interface for asyncio interaction with HomeMatic devices | ✅ | 2026-10-03 | 2026.10.3 | 168 |
+| [aiohomematic](https://github.com/SukramJ/aiohomematic) | Interface for asyncio interaction with HomeMatic devices | ✅ | 2026-10-05 | 2026.10.3 | 168 |
 | [aioserial](https://github.com/johannjhang/aioserial.py) | A drop-in replacement of pySerial | 💤 | 2022-07-25 | 1.3.1 | 145 |
 | [aioserial.py](https://github.com/johannjhang/aioserial.py) | Async wrapper for serial port communication | 💤 | 2022-07-25 | - | 145 |
 | [aioblescan](https://github.com/frawau/aioblescan) | Scan and decode Bluetooth Low Energy advertising packets | 💤 | 2023-01-14 | 0.2.14 | 127 |
@@ -679,13 +682,13 @@ Home automation, devices and embedded protocols.
 | [aiocomfoconnect](https://github.com/michaelarnauts/aiocomfoconnect) | Zehnder ComfoConnect interface for home ventilation systems | ✅ | 2026-08-03 | 0.2.1 | 107 |
 | [aiounifi](https://github.com/Kane610/aiounifi) | Library for communicating with Ubiquiti UniFi controllers | ✅ | 2026-10-01 | 97 | 90 |
 | [asynckivy](https://github.com/asyncgui/asynckivy) | Async support library for Kivy framework | ✅ | 2026-09-29 | 0.12.0 | 90 |
-| [aioshelly](https://github.com/home-assistant-libs/aioshelly) | Control Shelly smart home devices via asyncio | ✅ | 2026-10-04 | 13.34.1 | 82 |
+| [aioshelly](https://github.com/home-assistant-libs/aioshelly) | Control Shelly smart home devices via asyncio | ✅ | 2026-10-05 | 13.34.1 | 82 |
 | [aiohue](https://github.com/home-assistant-libs/aiohue) | Control Philips Hue devices using asyncio | ✅ | 2026-09-28 | 4.9.0 | 75 |
 | [aio_energy_management](https://github.com/kotope/aio_energy_management) | Home Assistant integration for energy management | ✅ | 2026-09-27 | 1.2.1 | 75 |
 | [aiohomekit](https://github.com/Jc2k/aiohomekit) | Asyncio support for HomeKit protocol | ✅ | 2026-08-14 | 4.0.1 | 72 |
+| [aioamazondevices](https://github.com/chemelli74/aioamazondevices) | Async library for controlling Amazon smart home devices | ✅ | 2026-10-04 | 16.3.1 | 57 |
 | [async_upnp_client](https://github.com/StevenLooman/async_upnp_client) | Async client for UPnP (Universal Plug and Play) devices | ✅ | 2026-10-03 | 0.48.2 | 56 |
-| [aioamazondevices](https://github.com/chemelli74/aioamazondevices) | Async library for controlling Amazon smart home devices | ✅ | 2026-10-04 | 16.3.1 | 55 |
-| [aiowebostv](https://github.com/home-assistant-libs/aiowebostv) | Async library to control LG webOS-based TVs | ✅ | 2026-09-28 | 0.10.0 | 55 |
+| [aiowebostv](https://github.com/home-assistant-libs/aiowebostv) | Async library to control LG webOS-based TVs | ✅ | 2026-10-05 | 0.10.0 | 56 |
 | [aiotuya](https://github.com/frawau/aiotuya) | Async library for LAN control of Tuya devices | 💤 | 2021-06-23 | 0.1.0b2 | 49 |
 | [asyncvnc](https://github.com/barneygale/asyncvnc) | Asynchronous VNC client for Python | 💤 | 2023-02-26 | 1.3.0 | 44 |
 | [aiorospy](https://github.com/locusrobotics/aiorospy) | Asyncio wrapper for ROS Python client | ✅ | 2026-09-24 | - | 43 |
@@ -714,7 +717,7 @@ Other async runtimes and compatibility layers.
 
 | Library | Description | Status | Last commit | Latest version | Stars |
 |---|---|:-:|---|---|--:|
-| [trio](https://github.com/python-trio/trio) | Pythonic async I/O for humans and snake people | ✅ | 2026-10-01 | 0.34.0 | 7.3k |
+| [trio](https://github.com/python-trio/trio) | Pythonic async I/O for humans and snake people | ✅ | 2026-10-05 | 0.34.0 | 7.3k |
 | [AnyIO](https://github.com/agronholm/anyio) | High level asynchronous concurrency and networking framework that works on top of either trio or asyncio | ✅ | 2026-10-04 | 4.15.1 | 2.5k |
 | [trio-asyncio](https://github.com/python-trio/trio-asyncio) | re-implementation of the asyncio mainloop on top of Trio | ✅ | 2026-05-18 | 0.16.0 | 204 |
 | [asyncio-gevent](https://github.com/gfmio/asyncio-gevent) | Asyncio and gevent interoperability | 💤 | 2025-07-14 | 0.2.5 | 83 |
@@ -803,11 +806,11 @@ Everything else.
 
 | Library | Description | Status | Last commit | Latest version | Stars |
 |---|---|:-:|---|---|--:|
-| [aiotieba](https://github.com/lumina37/aiotieba) | Async client library for Baidu Tieba community platform | ✅ | 2026-10-02 | 4.8.0 | 688 |
-| [aioquant](https://github.com/paulran/aioquant) | Event-driven framework for quantitative trading | 💤 | 2025-05-26 | - | 500 |
+| [aiotieba](https://github.com/lumina37/aiotieba) | Async client library for Baidu Tieba community platform | ✅ | 2026-10-02 | 4.8.0 | 689 |
+| [aioquant](https://github.com/paulran/aioquant) | Event-driven framework for quantitative trading | 💤 | 2025-05-26 | - | 499 |
 | [aiopandas](https://github.com/telekinesis-inc/aiopandas) | Async support for Pandas map, apply and transform operations | 💤 | 2025-06-12 | 0.0.3 | 133 |
 | [aio-mc-rcon](https://github.com/Iapetus-11/aio-mc-rcon) | Asynchronous RCON client for Minecraft server administration | ✅ | 2026-09-18 | 3.5.0 | 53 |
-| [aiosendspin](https://github.com/Sendspin/aiosendspin) | Async library implementing the Sendspin protocol | ✅ | 2026-10-02 | 9.1.1 | 51 |
+| [aiosendspin](https://github.com/Sendspin/aiosendspin) | Async library implementing the Sendspin protocol | ✅ | 2026-10-05 | 10.0.0 | 51 |
 | [asyncapi-python](https://github.com/dutradda/asyncapi-python) | Publish events from asyncapi specification | 💤 | 2020-12-01 | - | 46 |
 | [asyncapi-python](https://github.com/G-USI/asyncapi-python) | CLI to generate Python code from AsyncAPI spec | ✅ | 2026-04-04 | 0.3.1 | 24 |
 | [asyncqt](https://github.com/gmarull/asyncqt) | Integration of asyncio event loop with PyQt and PySide | 🗄️ | 2020-12-29 | 0.8.0 | 155 |

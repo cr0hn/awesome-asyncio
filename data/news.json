@@ -1,5 +1,36 @@
 [
  {
+  "week": "2026-W41",
+  "date": "2026-10-05",
+  "releases": [
+   {
+    "name": "fastapi-jsonrpc",
+    "repo": "smagafurov/fastapi-jsonrpc",
+    "url": "https://github.com/smagafurov/fastapi-jsonrpc",
+    "version": "4.0.1",
+    "date": "2026-10-05",
+    "description": "JSON-RPC 2.0 server framework built on FastAPI"
+   },
+   {
+    "name": "aiosendspin",
+    "repo": "Sendspin/aiosendspin",
+    "url": "https://github.com/Sendspin/aiosendspin",
+    "version": "10.0.0",
+    "date": "2026-10-05",
+    "description": "Async library implementing the Sendspin protocol"
+   },
+   {
+    "name": "Strawberry",
+    "repo": "strawberry-graphql/strawberry",
+    "url": "https://github.com/strawberry-graphql/strawberry",
+    "version": "0.331.1",
+    "date": "2026-10-04",
+    "description": "Code-first Python 3 GraphQL server with Django, Flask and FastAPI/Starlette support"
+   }
+  ],
+  "added": []
+ },
+ {
   "week": "2026-W40",
   "date": "2026-10-04",
   "releases": [
