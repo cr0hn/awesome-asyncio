@@ -1,5 +1,260 @@
 [
  {
+  "week": "2026-W42",
+  "date": "2026-10-12",
+  "releases": [
+   {
+    "name": "Strawberry",
+    "repo": "strawberry-graphql/strawberry",
+    "url": "https://github.com/strawberry-graphql/strawberry",
+    "version": "0.334.2",
+    "date": "2026-10-12",
+    "description": "Code-first Python 3 GraphQL server with Django, Flask and FastAPI/Starlette support"
+   },
+   {
+    "name": "aiograpi",
+    "repo": "subzeroid/aiograpi",
+    "url": "https://github.com/subzeroid/aiograpi",
+    "version": "2.0.18",
+    "date": "2026-10-12",
+    "description": "Asynchronous client library for Instagram Private API"
+   },
+   {
+    "name": "aioesphomeapi",
+    "repo": "esphome/aioesphomeapi",
+    "url": "https://github.com/esphome/aioesphomeapi",
+    "version": "46.10.0",
+    "date": "2026-10-12",
+    "description": "Async Python client for ESPHome native API"
+   },
+   {
+    "name": "aiosonic",
+    "repo": "sonic182/aiosonic",
+    "url": "https://github.com/sonic182/aiosonic",
+    "version": "1.3.2",
+    "date": "2026-10-12",
+    "description": "Fast HTTP and WebSocket client for asyncio"
+   },
+   {
+    "name": "aiosendspin",
+    "repo": "Sendspin/aiosendspin",
+    "url": "https://github.com/Sendspin/aiosendspin",
+    "version": "10.0.1",
+    "date": "2026-10-12",
+    "description": "Async library implementing the Sendspin protocol"
+   },
+   {
+    "name": "aiohttp",
+    "repo": "aio-libs/aiohttp",
+    "url": "https://github.com/aio-libs/aiohttp",
+    "version": "3.14.5",
+    "date": "2026-10-11",
+    "description": "Http client/server for asyncio (PEP-3156)"
+   },
+   {
+    "name": "aioquic",
+    "repo": "aiortc/aioquic",
+    "url": "https://github.com/aiortc/aioquic",
+    "version": "1.5.0",
+    "date": "2026-10-11",
+    "description": "QUIC and HTTP/3 protocol implementation in Python"
+   },
+   {
+    "name": "aiotieba",
+    "repo": "lumina37/aiotieba",
+    "url": "https://github.com/lumina37/aiotieba",
+    "version": "4.8.1",
+    "date": "2026-10-11",
+    "description": "Async client library for Baidu Tieba community platform"
+   },
+   {
+    "name": "aiohttp-sse",
+    "repo": "aio-libs/aiohttp-sse",
+    "url": "https://github.com/aio-libs/aiohttp-sse",
+    "version": "3.0",
+    "date": "2026-10-11",
+    "description": "Server-sent events support for aiohttp"
+   },
+   {
+    "name": "aioslsk",
+    "repo": "JurgenR/aioslsk",
+    "url": "https://github.com/JurgenR/aioslsk",
+    "version": "1.7.1",
+    "date": "2026-10-11",
+    "description": "SoulSeek client library using asyncio"
+   },
+   {
+    "name": "async_upnp_client",
+    "repo": "StevenLooman/async_upnp_client",
+    "url": "https://github.com/StevenLooman/async_upnp_client",
+    "version": "0.49.0",
+    "date": "2026-10-11",
+    "description": "Async client for UPnP (Universal Plug and Play) devices"
+   },
+   {
+    "name": "aioamazondevices",
+    "repo": "chemelli74/aioamazondevices",
+    "url": "https://github.com/chemelli74/aioamazondevices",
+    "version": "16.5.0",
+    "date": "2026-10-11",
+    "description": "Async library for controlling Amazon smart home devices"
+   },
+   {
+    "name": "aio-pika",
+    "repo": "mosquito/aio-pika",
+    "url": "https://github.com/mosquito/aio-pika",
+    "version": "10.1.1",
+    "date": "2026-10-10",
+    "description": "Asyncio wrapper for RabbitMQ built on aiormq for asyncio and humans"
+   },
+   {
+    "name": "aiormq",
+    "repo": "mosquito/aiormq",
+    "url": "https://github.com/mosquito/aiormq",
+    "version": "7.2.2",
+    "date": "2026-10-10",
+    "description": "Pure python AMQP asynchronous client library for asyncio"
+   },
+   {
+    "name": "winloop",
+    "repo": "Vizonex/Winloop",
+    "url": "https://github.com/Vizonex/Winloop",
+    "version": "0.8.0",
+    "date": "2026-10-10",
+    "description": "Alternative library for uvloop compatibility with Windows"
+   },
+   {
+    "name": "aiocomfoconnect",
+    "repo": "michaelarnauts/aiocomfoconnect",
+    "url": "https://github.com/michaelarnauts/aiocomfoconnect",
+    "version": "0.3.0",
+    "date": "2026-10-10",
+    "description": "Zehnder ComfoConnect interface for home ventilation systems"
+   },
+   {
+    "name": "aiotractive",
+    "repo": "zhulik/aiotractive",
+    "url": "https://github.com/zhulik/aiotractive",
+    "version": "1.1.2",
+    "date": "2026-10-09",
+    "description": "Async client for Tractive REST API"
+   },
+   {
+    "name": "FastAPI",
+    "repo": "fastapi/fastapi",
+    "url": "https://github.com/fastapi/fastapi",
+    "version": "0.143.0",
+    "date": "2026-10-08",
+    "description": "API framework built on Starlette and Pydantic, driven by type hints"
+   },
+   {
+    "name": "pymongo",
+    "repo": "mongodb/mongo-python-driver",
+    "url": "https://github.com/mongodb/mongo-python-driver",
+    "version": "4.18.3",
+    "date": "2026-10-08",
+    "description": "The Official MongoDB Python driver, offering both synchronous and asynchronous APIs"
+   },
+   {
+    "name": "aiohomematic",
+    "repo": "SukramJ/aiohomematic",
+    "url": "https://github.com/SukramJ/aiohomematic",
+    "version": "2026.10.4",
+    "date": "2026-10-08",
+    "description": "Interface for asyncio interaction with HomeMatic devices"
+   },
+   {
+    "name": "asyncdb",
+    "repo": "phenobarbital/asyncdb",
+    "url": "https://github.com/phenobarbital/asyncdb",
+    "version": "2.16.3",
+    "date": "2026-10-08",
+    "description": "Generic asynchronous database connectors for multiple backends"
+   },
+   {
+    "name": "Ariadne",
+    "repo": "mirumee/ariadne",
+    "url": "https://github.com/mirumee/ariadne",
+    "version": "1.1.1",
+    "date": "2026-10-07",
+    "description": "Schema-first Python library for implementing GraphQL servers"
+   },
+   {
+    "name": "aiohttp-client-cache",
+    "repo": "requests-cache/aiohttp-client-cache",
+    "url": "https://github.com/requests-cache/aiohttp-client-cache",
+    "version": "0.15.0",
+    "date": "2026-10-07",
+    "description": "Async persistent cache for aiohttp requests"
+   },
+   {
+    "name": "Django",
+    "repo": "django/django",
+    "url": "https://github.com/django/django",
+    "version": "6.1.2",
+    "date": "2026-10-06",
+    "description": "An established, high-level Python web framework with a huge community and ecosystem"
+   },
+   {
+    "name": "asyncpg",
+    "repo": "MagicStack/asyncpg",
+    "url": "https://github.com/MagicStack/asyncpg",
+    "version": "0.32.0",
+    "date": "2026-10-06",
+    "description": "PostgreSQL client library for asyncio"
+   },
+   {
+    "name": "asyncmy",
+    "repo": "long2ice/asyncmy",
+    "url": "https://github.com/long2ice/asyncmy",
+    "version": "0.2.16",
+    "date": "2026-10-06",
+    "description": "The fastest asyncio MySQL/MariaDB driver for Python with pure async design"
+   },
+   {
+    "name": "Crawlee",
+    "repo": "apify/crawlee-python",
+    "url": "https://github.com/apify/crawlee-python",
+    "version": "1.10.4",
+    "date": "2026-10-06",
+    "description": "Web scraping and automation library for crawlers, extracts data with proxy rotation"
+   },
+   {
+    "name": "opentelemetry-api",
+    "repo": "open-telemetry/opentelemetry-python",
+    "url": "https://github.com/open-telemetry/opentelemetry-python",
+    "version": "1.45.1",
+    "date": "2026-10-06",
+    "description": "OpenTelemetry Python API for distributed tracing and metrics collection"
+   },
+   {
+    "name": "asyncpg-stubs",
+    "repo": "bryanforbes/asyncpg-stubs",
+    "url": "https://github.com/bryanforbes/asyncpg-stubs",
+    "version": "0.32.0",
+    "date": "2026-10-06",
+    "description": "Type stubs for the asyncpg PostgreSQL driver"
+   },
+   {
+    "name": "aiofranka",
+    "repo": "younghyopark/aiofranka",
+    "url": "https://github.com/younghyopark/aiofranka",
+    "version": "0.9.0",
+    "date": "2026-10-06",
+    "description": "Async library for controlling Franka robots"
+   },
+   {
+    "name": "aiosu",
+    "repo": "NiceAesth/aiosu",
+    "url": "https://github.com/NiceAesth/aiosu",
+    "version": "3.0.0",
+    "date": "2026-10-05",
+    "description": "Async client library for osu! game API"
+   }
+  ],
+  "added": []
+ },
+ {
   "week": "2026-W41",
   "date": "2026-10-05",
   "releases": [
