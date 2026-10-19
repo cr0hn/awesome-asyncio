@@ -1,5 +1,212 @@
 [
  {
+  "week": "2026-W43",
+  "date": "2026-10-19",
+  "releases": [
+   {
+    "name": "FastAPI",
+    "repo": "fastapi/fastapi",
+    "url": "https://github.com/fastapi/fastapi",
+    "version": "0.147.0",
+    "date": "2026-10-19",
+    "description": "API framework built on Starlette and Pydantic, driven by type hints"
+   },
+   {
+    "name": "aioesphomeapi",
+    "repo": "esphome/aioesphomeapi",
+    "url": "https://github.com/esphome/aioesphomeapi",
+    "version": "46.14.0",
+    "date": "2026-10-19",
+    "description": "Async Python client for ESPHome native API"
+   },
+   {
+    "name": "async-kinesis",
+    "repo": "hampsterx/async-kinesis",
+    "url": "https://github.com/hampsterx/async-kinesis",
+    "version": "3.0.1",
+    "date": "2026-10-19",
+    "description": "Async client for AWS Kinesis"
+   },
+   {
+    "name": "Starlette",
+    "repo": "encode/starlette",
+    "url": "https://github.com/Kludex/starlette",
+    "version": "1.9.0",
+    "date": "2026-10-18",
+    "description": "ASGI framework and toolkit for building web services"
+   },
+   {
+    "name": "autobahn",
+    "repo": "crossbario/autobahn-python",
+    "url": "https://github.com/crossbario/autobahn-python",
+    "version": "26.10.1",
+    "date": "2026-10-18",
+    "description": "WebSocket and WAMP supporting asyncio and Twisted, for clients and servers"
+   },
+   {
+    "name": "Litestar",
+    "repo": "litestar-org/litestar",
+    "url": "https://github.com/litestar-org/litestar",
+    "version": "2.25.0",
+    "date": "2026-10-18",
+    "description": "Production-ready extensible ASGI framework with excellent performance and developer experience"
+   },
+   {
+    "name": "aiograpi",
+    "repo": "subzeroid/aiograpi",
+    "url": "https://github.com/subzeroid/aiograpi",
+    "version": "2.0.22",
+    "date": "2026-10-18",
+    "description": "Asynchronous client library for Instagram Private API"
+   },
+   {
+    "name": "aiocomfoconnect",
+    "repo": "michaelarnauts/aiocomfoconnect",
+    "url": "https://github.com/michaelarnauts/aiocomfoconnect",
+    "version": "0.4.4",
+    "date": "2026-10-18",
+    "description": "Zehnder ComfoConnect interface for home ventilation systems"
+   },
+   {
+    "name": "aiohttp-s3-client",
+    "repo": "aiokitchen/aiohttp-s3-client",
+    "url": "https://github.com/aiokitchen/aiohttp-s3-client",
+    "version": "1.2.0",
+    "date": "2026-10-18",
+    "description": "Async AWS S3 client for aiohttp"
+   },
+   {
+    "name": "aioharmony",
+    "repo": "Harmony-Libs/aioharmony",
+    "url": "https://github.com/Harmony-Libs/aioharmony",
+    "version": "1.0.11",
+    "date": "2026-10-18",
+    "description": "Async library for controlling Logitech Harmony devices"
+   },
+   {
+    "name": "Strawberry",
+    "repo": "strawberry-graphql/strawberry",
+    "url": "https://github.com/strawberry-graphql/strawberry",
+    "version": "0.336.0",
+    "date": "2026-10-17",
+    "description": "Code-first Python 3 GraphQL server with Django, Flask and FastAPI/Starlette support"
+   },
+   {
+    "name": "aioquic",
+    "repo": "aiortc/aioquic",
+    "url": "https://github.com/aiortc/aioquic",
+    "version": "1.7.0",
+    "date": "2026-10-16",
+    "description": "QUIC and HTTP/3 protocol implementation in Python"
+   },
+   {
+    "name": "aiohomematic",
+    "repo": "SukramJ/aiohomematic",
+    "url": "https://github.com/SukramJ/aiohomematic",
+    "version": "2026.10.5",
+    "date": "2026-10-16",
+    "description": "Interface for asyncio interaction with HomeMatic devices"
+   },
+   {
+    "name": "aiosendspin",
+    "repo": "Sendspin/aiosendspin",
+    "url": "https://github.com/Sendspin/aiosendspin",
+    "version": "10.2.0",
+    "date": "2026-10-16",
+    "description": "Async library implementing the Sendspin protocol"
+   },
+   {
+    "name": "aiotractive",
+    "repo": "zhulik/aiotractive",
+    "url": "https://github.com/zhulik/aiotractive",
+    "version": "1.3.0",
+    "date": "2026-10-16",
+    "description": "Async client for Tractive REST API"
+   },
+   {
+    "name": "Crawlee",
+    "repo": "apify/crawlee-python",
+    "url": "https://github.com/apify/crawlee-python",
+    "version": "1.11.0",
+    "date": "2026-10-15",
+    "description": "Web scraping and automation library for crawlers, extracts data with proxy rotation"
+   },
+   {
+    "name": "aioshelly",
+    "repo": "home-assistant-libs/aioshelly",
+    "url": "https://github.com/home-assistant-libs/aioshelly",
+    "version": "13.35.0",
+    "date": "2026-10-15",
+    "description": "Control Shelly smart home devices via asyncio"
+   },
+   {
+    "name": "asyncz",
+    "repo": "dymmond/asyncz",
+    "url": "https://github.com/dymmond/asyncz",
+    "version": "0.17.2",
+    "date": "2026-10-15",
+    "description": "Task scheduler and cron-like job executor for asyncio"
+   },
+   {
+    "name": "aioamazondevices",
+    "repo": "chemelli74/aioamazondevices",
+    "url": "https://github.com/chemelli74/aioamazondevices",
+    "version": "16.8.1",
+    "date": "2026-10-15",
+    "description": "Async library for controlling Amazon smart home devices"
+   },
+   {
+    "name": "aiocop",
+    "repo": "Feverup/aiocop",
+    "url": "https://github.com/Feverup/aiocop",
+    "version": "1.2.1",
+    "date": "2026-10-15",
+    "description": "Monitor asyncio event loop for blocking I/O and CPU calls"
+   },
+   {
+    "name": "pymongo",
+    "repo": "mongodb/mongo-python-driver",
+    "url": "https://github.com/mongodb/mongo-python-driver",
+    "version": "4.19.0",
+    "date": "2026-10-14",
+    "description": "The Official MongoDB Python driver, offering both synchronous and asynchronous APIs"
+   },
+   {
+    "name": "Tortoise ORM",
+    "repo": "tortoise/tortoise-orm",
+    "url": "https://github.com/tortoise/tortoise-orm",
+    "version": "1.1.9",
+    "date": "2026-10-14",
+    "description": "native multi-backend ORM with Django-like API and easy relations management"
+   },
+   {
+    "name": "authlib",
+    "repo": "lepture/authlib",
+    "url": "https://github.com/authlib/authlib",
+    "version": "1.9.1",
+    "date": "2026-10-14",
+    "description": "Ultimate Python library for building OAuth and OpenID Connect servers and clients"
+   },
+   {
+    "name": "async-lru",
+    "repo": "aio-libs/async-lru",
+    "url": "https://github.com/aio-libs/async-lru",
+    "version": "2.4.0",
+    "date": "2026-10-12",
+    "description": "LRU cache implementation for asyncio functions"
+   },
+   {
+    "name": "aiobmsble",
+    "repo": "patman15/aiobmsble",
+    "url": "https://github.com/patman15/aiobmsble",
+    "version": "0.30.0",
+    "date": "2026-10-12",
+    "description": "Async library for querying BMS (battery management systems) via Bluetooth"
+   }
+  ],
+  "added": []
+ },
+ {
   "week": "2026-W42",
   "date": "2026-10-12",
   "releases": [

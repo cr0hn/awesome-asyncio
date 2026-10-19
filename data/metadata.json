@@ -58,7 +58,7 @@
  "BeanieODM/beanie": {
   "archived": false,
   "last_commit": "2026-10-07T16:14:38Z",
-  "stars": 2706,
+  "stars": 2707,
   "url": "https://github.com/BeanieODM/beanie",
   "version": "2.2.0",
   "version_date": "2026-08-07T17:15:24.494618Z"
@@ -161,11 +161,11 @@
  },
  "Feverup/aiocop": {
   "archived": false,
-  "last_commit": "2026-08-24T08:48:37Z",
-  "stars": 22,
+  "last_commit": "2026-10-15T09:29:35Z",
+  "stars": 23,
   "url": "https://github.com/Feverup/aiocop",
-  "version": "1.2.0",
-  "version_date": "2026-08-24T08:49:17.947704Z"
+  "version": "1.2.1",
+  "version_date": "2026-10-15T09:31:18.852903Z"
  },
  "G-USI/asyncapi-python": {
   "archived": false,
@@ -217,11 +217,11 @@
  },
  "Harmony-Libs/aioharmony": {
   "archived": false,
-  "last_commit": "2026-09-18T20:43:55Z",
+  "last_commit": "2026-10-18T21:22:29Z",
   "stars": 28,
   "url": "https://github.com/Harmony-Libs/aioharmony",
-  "version": "1.0.10",
-  "version_date": "2026-09-18T20:43:50.507582Z"
+  "version": "1.0.11",
+  "version_date": "2026-10-18T21:22:55.087477Z"
  },
  "I-ToSa-I/AsyncPayments": {
   "archived": false,
@@ -242,7 +242,7 @@
  "Ichinga-Samuel/aiomql": {
   "archived": false,
   "last_commit": "2026-02-28T21:22:43Z",
-  "stars": 151,
+  "stars": 153,
   "url": "https://github.com/Ichinga-Samuel/aiomql",
   "version": "4.1.2",
   "version_date": "2026-02-28T21:21:00.585901Z"
@@ -289,7 +289,7 @@
  },
  "Kane610/aiounifi": {
   "archived": false,
-  "last_commit": "2026-10-09T16:34:02Z",
+  "last_commit": "2026-10-16T06:15:03Z",
   "stars": 90,
   "url": "https://github.com/Kane610/aiounifi",
   "version": "97",
@@ -322,7 +322,7 @@
  "MagicStack/asyncpg": {
   "archived": false,
   "last_commit": "2026-10-08T23:19:11Z",
-  "stars": 8106,
+  "stars": 8111,
   "url": "https://github.com/MagicStack/asyncpg",
   "version": "0.32.0",
   "version_date": "2026-10-06T20:32:40.251500Z"
@@ -330,7 +330,7 @@
  "MagicStack/uvloop": {
   "archived": false,
   "last_commit": "2026-10-01T15:38:13Z",
-  "stars": 11910,
+  "stars": 11913,
   "url": "https://github.com/MagicStack/uvloop",
   "version": "0.23.0",
   "version_date": "2026-10-01T03:17:04.400341Z"
@@ -386,14 +386,14 @@
  "Narasimha1997/aio-eth": {
   "archived": false,
   "last_commit": "2022-04-24T04:38:42Z",
-  "stars": 28,
+  "stars": 29,
   "url": "https://github.com/Narasimha1997/aio-eth",
   "version": "0.0.1",
   "version_date": "2022-04-23T19:34:09.471306Z"
  },
  "NiceAesth/aiosu": {
   "archived": false,
-  "last_commit": "2026-10-06T11:41:15Z",
+  "last_commit": "2026-10-12T23:59:43Z",
   "stars": 24,
   "url": "https://github.com/NiceAesth/aiosu",
   "version": "3.0.0",
@@ -418,7 +418,7 @@
  "PluralisResearch/AsyncPP": {
   "archived": false,
   "last_commit": "2026-02-02T02:15:18Z",
-  "stars": 23,
+  "stars": 24,
   "url": "https://github.com/PluralisResearch/AsyncPP",
   "version": null,
   "version_date": null
@@ -442,7 +442,7 @@
  "Rapptz/discord.py": {
   "archived": false,
   "last_commit": "2026-09-01T09:17:34Z",
-  "stars": 16195,
+  "stars": 16198,
   "url": "https://github.com/Rapptz/discord.py",
   "version": "2.7.1",
   "version_date": "2026-03-03T18:40:46.240241Z"
@@ -458,7 +458,7 @@
  "RobertCraigie/prisma-client-py": {
   "archived": true,
   "last_commit": "2025-03-23T17:43:00Z",
-  "stars": 2092,
+  "stars": 2091,
   "url": "https://github.com/RobertCraigie/prisma-client-py",
   "version": "0.15.0",
   "version_date": "2024-08-16T02:54:03.919000Z"
@@ -473,11 +473,11 @@
  },
  "Sendspin/aiosendspin": {
   "archived": false,
-  "last_commit": "2026-10-12T10:17:17Z",
+  "last_commit": "2026-10-19T08:00:28Z",
   "stars": 51,
   "url": "https://github.com/Sendspin/aiosendspin",
-  "version": "10.0.1",
-  "version_date": "2026-10-12T10:20:09Z"
+  "version": "10.2.0",
+  "version_date": "2026-10-16T14:22:36Z"
  },
  "ShichaoMa/async-downloader": {
   "archived": false,
@@ -505,11 +505,11 @@
  },
  "SukramJ/aiohomematic": {
   "archived": false,
-  "last_commit": "2026-10-10T14:57:34Z",
+  "last_commit": "2026-10-19T02:14:02Z",
   "stars": 168,
   "url": "https://github.com/SukramJ/aiohomematic",
-  "version": "2026.10.4",
-  "version_date": "2026-10-08T05:12:06.432697Z"
+  "version": "2026.10.5",
+  "version_date": "2026-10-16T07:54:55.516520Z"
  },
  "Tangerino/aiomqttc": {
   "archived": false,
@@ -522,15 +522,15 @@
  "Textualize/textual": {
   "archived": false,
   "last_commit": "2026-10-09T17:24:09Z",
-  "stars": 37436,
+  "stars": 37479,
   "url": "https://github.com/Textualize/textual",
   "version": "8.2.8",
   "version_date": "2026-06-30T06:51:26.364743Z"
  },
  "Tinche/aiofiles": {
   "archived": false,
-  "last_commit": "2026-10-07T08:25:33Z",
-  "stars": 3267,
+  "last_commit": "2026-10-15T20:22:58Z",
+  "stars": 3268,
   "url": "https://github.com/Tinche/aiofiles",
   "version": "25.1.0",
   "version_date": "2025-10-09T20:51:04.358782Z"
@@ -538,14 +538,14 @@
  "Tishka17/aiogram_dialog": {
   "archived": false,
   "last_commit": "2026-06-15T13:11:36Z",
-  "stars": 899,
+  "stars": 898,
   "url": "https://github.com/Tishka17/aiogram_dialog",
   "version": "2.6.0",
   "version_date": "2026-03-22T12:30:24.325367Z"
  },
  "TomerFi/aioswitcher": {
   "archived": false,
-  "last_commit": "2026-10-11T06:54:26Z",
+  "last_commit": "2026-10-18T06:19:27Z",
   "stars": 39,
   "url": "https://github.com/TomerFi/aioswitcher",
   "version": "6.3.0",
@@ -553,8 +553,8 @@
  },
  "Vizonex/Winloop": {
   "archived": false,
-  "last_commit": "2026-10-10T21:53:21Z",
-  "stars": 233,
+  "last_commit": "2026-10-19T01:50:36Z",
+  "stars": 234,
   "url": "https://github.com/Vizonex/Winloop",
   "version": "0.8.0",
   "version_date": "2026-10-10T19:51:12.608577Z"
@@ -609,16 +609,16 @@
  },
  "ag2ai/faststream": {
   "archived": false,
-  "last_commit": "2026-10-11T21:40:38Z",
-  "stars": 5370,
+  "last_commit": "2026-10-19T11:47:29Z",
+  "stars": 5376,
   "url": "https://github.com/ag2ai/faststream",
   "version": "0.7.7",
   "version_date": "2026-09-23T20:36:14.055281Z"
  },
  "agronholm/anyio": {
   "archived": false,
-  "last_commit": "2026-10-12T06:05:02Z",
-  "stars": 2556,
+  "last_commit": "2026-10-18T09:54:04Z",
+  "stars": 2560,
   "url": "https://github.com/agronholm/anyio",
   "version": "4.15.1",
   "version_date": "2026-09-05T10:42:39.440376Z"
@@ -673,7 +673,7 @@
  },
  "aio-libs/aiobotocore": {
   "archived": false,
-  "last_commit": "2026-10-05T16:42:14Z",
+  "last_commit": "2026-10-19T11:42:40Z",
   "stars": 1427,
   "url": "https://github.com/aio-libs/aiobotocore",
   "version": "3.9.2",
@@ -682,7 +682,7 @@
  "aio-libs/aiocache": {
   "archived": false,
   "last_commit": "2026-06-28T20:08:27Z",
-  "stars": 1438,
+  "stars": 1437,
   "url": "https://github.com/aio-libs/aiocache",
   "version": "0.12.3",
   "version_date": "2024-09-25T13:20:23.823921Z"
@@ -737,7 +737,7 @@
  },
  "aio-libs/aiofastnet": {
   "archived": false,
-  "last_commit": "2026-10-01T10:12:12Z",
+  "last_commit": "2026-10-16T12:27:50Z",
   "stars": 35,
   "url": "https://github.com/aio-libs/aiofastnet",
   "version": "1.2.0",
@@ -761,15 +761,15 @@
  },
  "aio-libs/aiohttp": {
   "archived": false,
-  "last_commit": "2026-10-11T20:10:00Z",
-  "stars": 16574,
+  "last_commit": "2026-10-19T11:43:02Z",
+  "stars": 16579,
   "url": "https://github.com/aio-libs/aiohttp",
   "version": "3.14.5",
   "version_date": "2026-10-11T01:05:12.408664Z"
  },
  "aio-libs/aiohttp-admin": {
   "archived": false,
-  "last_commit": "2026-10-12T10:00:15Z",
+  "last_commit": "2026-10-19T03:59:11Z",
   "stars": 219,
   "url": "https://github.com/aio-libs/aiohttp-admin",
   "version": "v0.0.4",
@@ -777,7 +777,7 @@
  },
  "aio-libs/aiohttp-cors": {
   "archived": false,
-  "last_commit": "2026-09-28T09:48:26Z",
+  "last_commit": "2026-10-19T09:48:18Z",
   "stars": 220,
   "url": "https://github.com/aio-libs/aiohttp-cors",
   "version": "0.8.1",
@@ -801,7 +801,7 @@
  },
  "aio-libs/aiohttp-remotes": {
   "archived": false,
-  "last_commit": "2026-10-12T08:34:03Z",
+  "last_commit": "2026-10-19T03:20:52Z",
   "stars": 85,
   "url": "https://github.com/aio-libs/aiohttp-remotes",
   "version": "1.3.0",
@@ -809,7 +809,7 @@
  },
  "aio-libs/aiohttp-security": {
   "archived": false,
-  "last_commit": "2026-10-06T11:54:39Z",
+  "last_commit": "2026-10-19T11:54:32Z",
   "stars": 240,
   "url": "https://github.com/aio-libs/aiohttp-security",
   "version": "0.5.0",
@@ -825,15 +825,15 @@
  },
  "aio-libs/aiohttp-sse": {
   "archived": false,
-  "last_commit": "2026-10-11T22:57:35Z",
-  "stars": 238,
+  "last_commit": "2026-10-16T19:34:46Z",
+  "stars": 237,
   "url": "https://github.com/aio-libs/aiohttp-sse",
   "version": "3.0",
   "version_date": "2026-10-11T23:16:14.404674Z"
  },
  "aio-libs/aiojobs": {
   "archived": false,
-  "last_commit": "2026-10-01T21:44:04Z",
+  "last_commit": "2026-10-15T21:44:07Z",
   "stars": 929,
   "url": "https://github.com/aio-libs/aiojobs",
   "version": "1.4.0",
@@ -841,8 +841,8 @@
  },
  "aio-libs/aiokafka": {
   "archived": false,
-  "last_commit": "2026-09-10T13:25:38Z",
-  "stars": 1406,
+  "last_commit": "2026-10-17T17:21:57Z",
+  "stars": 1405,
   "url": "https://github.com/aio-libs/aiokafka",
   "version": "0.14.0",
   "version_date": "2026-04-29T10:43:03.574019Z"
@@ -921,7 +921,7 @@
  },
  "aio-libs/aiosignal": {
   "archived": false,
-  "last_commit": "2026-10-09T10:25:11Z",
+  "last_commit": "2026-10-19T10:25:39Z",
   "stars": 170,
   "url": "https://github.com/aio-libs/aiosignal",
   "version": "1.4.0",
@@ -929,7 +929,7 @@
  },
  "aio-libs/aiosmtpd": {
   "archived": false,
-  "last_commit": "2026-10-01T17:02:30Z",
+  "last_commit": "2026-10-12T15:00:59Z",
   "stars": 373,
   "url": "https://github.com/aio-libs/aiosmtpd",
   "version": "1.4.6",
@@ -954,23 +954,23 @@
  "aio-libs/aiozmq": {
   "archived": false,
   "last_commit": "2026-03-26T15:49:32Z",
-  "stars": 431,
+  "stars": 430,
   "url": "https://github.com/aio-libs/aiozmq",
   "version": "1.0.0",
   "version_date": "2022-11-03T01:36:16.184717Z"
  },
  "aio-libs/async-lru": {
   "archived": false,
-  "last_commit": "2026-10-12T05:08:16Z",
-  "stars": 953,
+  "last_commit": "2026-10-18T04:31:57Z",
+  "stars": 954,
   "url": "https://github.com/aio-libs/async-lru",
-  "version": "2.3.0",
-  "version_date": "2026-03-19T01:04:32.413284Z"
+  "version": "2.4.0",
+  "version_date": "2026-10-12T18:12:54.276693Z"
  },
  "aiogram/aiogram": {
   "archived": false,
-  "last_commit": "2026-10-11T13:25:09Z",
-  "stars": 5890,
+  "last_commit": "2026-10-18T15:37:28Z",
+  "stars": 5898,
   "url": "https://github.com/aiogram/aiogram",
   "version": "3.31.0",
   "version_date": "2026-08-26T00:00:42.970690Z"
@@ -985,16 +985,16 @@
  },
  "aiokitchen/aiohttp-s3-client": {
   "archived": false,
-  "last_commit": "2026-02-12T11:35:08Z",
+  "last_commit": "2026-10-18T11:49:35Z",
   "stars": 33,
   "url": "https://github.com/aiokitchen/aiohttp-s3-client",
-  "version": "1.1.2",
-  "version_date": "2026-03-11T11:32:06.665034Z"
+  "version": "1.2.0",
+  "version_date": "2026-10-18T11:50:20.013037Z"
  },
  "aiokitchen/aiomisc": {
   "archived": false,
   "last_commit": "2026-09-28T20:48:19Z",
-  "stars": 426,
+  "stars": 427,
   "url": "https://github.com/aiokitchen/aiomisc",
   "version": "18.0.33",
   "version_date": "2026-09-28T20:48:34.705385Z"
@@ -1009,8 +1009,8 @@
  },
  "aiondemand/AIOD-rest-api": {
   "archived": false,
-  "last_commit": "2026-08-06T11:21:14Z",
-  "stars": 37,
+  "last_commit": "2026-10-16T07:39:45Z",
+  "stars": 36,
   "url": "https://github.com/aiondemand/AIOD-rest-api",
   "version": "v2.1.20251113",
   "version_date": "2025-11-13T13:24:00Z"
@@ -1033,16 +1033,16 @@
  },
  "aiortc/aioquic": {
   "archived": false,
-  "last_commit": "2026-10-12T13:26:34Z",
-  "stars": 2008,
+  "last_commit": "2026-10-16T19:13:06Z",
+  "stars": 2013,
   "url": "https://github.com/aiortc/aioquic",
-  "version": "1.5.0",
-  "version_date": "2026-10-11T17:02:38.827208Z"
+  "version": "1.7.0",
+  "version_date": "2026-10-16T19:27:07.508979Z"
  },
  "aiortc/aiortc": {
   "archived": false,
-  "last_commit": "2026-10-12T08:14:02Z",
-  "stars": 5116,
+  "last_commit": "2026-10-15T12:24:32Z",
+  "stars": 5119,
   "url": "https://github.com/aiortc/aiortc",
   "version": "1.15.0",
   "version_date": "2026-07-13T19:26:43.314446Z"
@@ -1058,7 +1058,7 @@
  "aioworkers/aioworkers": {
   "archived": false,
   "last_commit": "2025-05-11T17:49:56Z",
-  "stars": 46,
+  "stars": 47,
   "url": "https://github.com/aioworkers/aioworkers",
   "version": "0.28.0",
   "version_date": "2024-12-23T00:07:41.813124Z"
@@ -1121,7 +1121,7 @@
  },
  "anna-money/asyncpg-listen": {
   "archived": false,
-  "last_commit": "2026-05-31T17:07:41Z",
+  "last_commit": "2026-10-13T07:58:13Z",
   "stars": 47,
   "url": "https://github.com/anna-money/asyncpg-listen",
   "version": "0.0.9",
@@ -1153,11 +1153,11 @@
  },
  "apify/crawlee-python": {
   "archived": false,
-  "last_commit": "2026-10-12T06:45:10Z",
-  "stars": 9584,
+  "last_commit": "2026-10-15T10:42:28Z",
+  "stars": 9602,
   "url": "https://github.com/apify/crawlee-python",
-  "version": "1.10.4",
-  "version_date": "2026-10-06T08:23:34.111821Z"
+  "version": "1.11.0",
+  "version_date": "2026-10-15T08:39:20.588156Z"
  },
  "aresponses/aresponses": {
   "archived": false,
@@ -1242,7 +1242,7 @@
  "azogue/aiopvpc": {
   "archived": false,
   "last_commit": "2024-03-25T08:40:51Z",
-  "stars": 47,
+  "stars": 46,
   "url": "https://github.com/azogue/aiopvpc",
   "version": "4.3.1",
   "version_date": "2024-03-25T08:41:37.900075Z"
@@ -1346,7 +1346,7 @@
  "blark/aiodnsbrute": {
   "archived": false,
   "last_commit": "2019-06-04T19:40:42Z",
-  "stars": 676,
+  "stars": 678,
   "url": "https://github.com/blark/aiodnsbrute",
   "version": "0.3.2",
   "version_date": "2019-06-04T19:43:26.231424Z"
@@ -1425,11 +1425,11 @@
  },
  "chemelli74/aioamazondevices": {
   "archived": false,
-  "last_commit": "2026-10-11T17:59:55Z",
+  "last_commit": "2026-10-19T04:03:03Z",
   "stars": 57,
   "url": "https://github.com/chemelli74/aioamazondevices",
-  "version": "16.5.0",
-  "version_date": "2026-10-11T18:00:17.057235Z"
+  "version": "16.8.1",
+  "version_date": "2026-10-15T16:24:07.424547Z"
  },
  "chenjiandongx/async-bili-spider": {
   "archived": false,
@@ -1442,7 +1442,7 @@
  "chenjiandongx/async-proxy-pool": {
   "archived": false,
   "last_commit": "2019-03-14T01:05:57Z",
-  "stars": 366,
+  "stars": 365,
   "url": "https://github.com/chenjiandongx/async-proxy-pool",
   "version": null,
   "version_date": null
@@ -1466,7 +1466,7 @@
  "cirospaciari/socketify.py": {
   "archived": false,
   "last_commit": "2026-08-17T20:47:37Z",
-  "stars": 1716,
+  "stars": 1715,
   "url": "https://github.com/cirospaciari/socketify.py",
   "version": "0.0.31",
   "version_date": "2024-10-29T19:15:57.411908Z"
@@ -1522,7 +1522,7 @@
  "cole/aiosmtplib": {
   "archived": false,
   "last_commit": "2026-09-18T00:40:21Z",
-  "stars": 433,
+  "stars": 434,
   "url": "https://github.com/cole/aiosmtplib",
   "version": "5.1.3",
   "version_date": "2026-09-08T02:11:20.532406Z"
@@ -1609,11 +1609,11 @@
  },
  "crossbario/autobahn-python": {
   "archived": false,
-  "last_commit": "2026-10-10T22:02:00Z",
-  "stars": 2541,
+  "last_commit": "2026-10-18T22:30:19Z",
+  "stars": 2540,
   "url": "https://github.com/crossbario/autobahn-python",
-  "version": "26.7.1",
-  "version_date": "2026-07-15T19:14:01.246064Z"
+  "version": "26.10.1",
+  "version_date": "2026-10-18T23:59:44.280937Z"
  },
  "crossbario/crossbar": {
   "archived": false,
@@ -1642,7 +1642,7 @@
  "dabeaz/curio": {
   "archived": true,
   "last_commit": "2025-12-21T15:48:48Z",
-  "stars": 4123,
+  "stars": 4120,
   "url": "https://github.com/dabeaz/curio",
   "version": "1.6",
   "version_date": "2022-10-25T14:22:29.100720Z"
@@ -1666,7 +1666,7 @@
  "dano/aioprocessing": {
   "archived": false,
   "last_commit": "2022-09-16T02:29:57Z",
-  "stars": 659,
+  "stars": 658,
   "url": "https://github.com/dano/aioprocessing",
   "version": "2.0.1",
   "version_date": "2022-09-15T20:33:26.765370Z"
@@ -1705,7 +1705,7 @@
  },
  "ddanier/async-signals": {
   "archived": false,
-  "last_commit": "2026-08-22T16:22:27Z",
+  "last_commit": "2026-10-19T06:06:54Z",
   "stars": 25,
   "url": "https://github.com/ddanier/async-signals",
   "version": "v0.4.1",
@@ -1745,7 +1745,7 @@
  },
  "developmentseed/async-geotiff": {
   "archived": false,
-  "last_commit": "2026-09-29T14:54:58Z",
+  "last_commit": "2026-10-13T14:48:18Z",
   "stars": 58,
   "url": "https://github.com/developmentseed/async-geotiff",
   "version": "0.5.1",
@@ -1769,16 +1769,16 @@
  },
  "django/asgiref": {
   "archived": false,
-  "last_commit": "2026-10-11T14:48:15Z",
-  "stars": 1632,
+  "last_commit": "2026-10-14T09:04:30Z",
+  "stars": 1633,
   "url": "https://github.com/django/asgiref",
   "version": "3.12.1",
   "version_date": "2026-07-14T09:56:18.087666Z"
  },
  "django/django": {
   "archived": false,
-  "last_commit": "2026-10-12T09:21:09Z",
-  "stars": 91395,
+  "last_commit": "2026-10-19T09:45:18Z",
+  "stars": 91514,
   "url": "https://github.com/django/django",
   "version": "6.1.2",
   "version_date": "2026-10-06T12:53:29.622597Z"
@@ -1809,11 +1809,11 @@
  },
  "dymmond/asyncz": {
   "archived": false,
-  "last_commit": "2026-09-01T09:25:52Z",
+  "last_commit": "2026-10-19T06:53:58Z",
   "stars": 63,
   "url": "https://github.com/dymmond/asyncz",
-  "version": "0.17.1",
-  "version_date": "2026-07-15T11:24:09.862355Z"
+  "version": "0.17.2",
+  "version_date": "2026-10-15T11:23:49.230252Z"
  },
  "dymmond/edgy": {
   "archived": false,
@@ -1850,7 +1850,7 @@
  "emmett-framework/granian": {
   "archived": false,
   "last_commit": "2026-09-30T13:50:51Z",
-  "stars": 5695,
+  "stars": 5708,
   "url": "https://github.com/emmett-framework/granian",
   "version": "2.8.4",
   "version_date": "2026-09-30T15:12:35.901650Z"
@@ -1874,34 +1874,34 @@
  "encode/httpx": {
   "archived": false,
   "last_commit": "2026-02-23T10:40:42Z",
-  "stars": 15630,
+  "stars": 15641,
   "url": "https://github.com/encode/httpx",
   "version": "0.28.1",
   "version_date": "2024-12-06T15:37:23.222462Z"
  },
  "encode/starlette": {
   "archived": false,
-  "last_commit": "2026-10-09T14:25:02Z",
-  "stars": 12658,
+  "last_commit": "2026-10-18T19:37:38Z",
+  "stars": 12674,
   "url": "https://github.com/Kludex/starlette",
-  "version": "1.7.0",
-  "version_date": "2026-09-23T07:30:26.350228Z"
+  "version": "1.9.0",
+  "version_date": "2026-10-18T15:50:33.189531Z"
  },
  "encode/uvicorn": {
   "archived": false,
-  "last_commit": "2026-10-11T15:28:58Z",
-  "stars": 11009,
+  "last_commit": "2026-10-19T09:48:16Z",
+  "stars": 11017,
   "url": "https://github.com/Kludex/uvicorn",
   "version": "0.54.0",
   "version_date": "2026-09-25T06:52:37.601479Z"
  },
  "esphome/aioesphomeapi": {
   "archived": false,
-  "last_commit": "2026-10-12T02:35:07Z",
+  "last_commit": "2026-10-19T08:02:52Z",
   "stars": 198,
   "url": "https://github.com/esphome/aioesphomeapi",
-  "version": "46.10.0",
-  "version_date": "2026-10-12T02:54:22.846494Z"
+  "version": "46.14.0",
+  "version_date": "2026-10-19T07:50:47.442944Z"
  },
  "etianen/aiohttp-wsgi": {
   "archived": false,
@@ -1921,19 +1921,19 @@
  },
  "fastapi/asyncer": {
   "archived": false,
-  "last_commit": "2026-10-05T18:20:49Z",
-  "stars": 2500,
+  "last_commit": "2026-10-15T15:21:09Z",
+  "stars": 2501,
   "url": "https://github.com/fastapi/asyncer",
   "version": "0.0.18",
   "version_date": "2026-06-25T13:41:08.826147Z"
  },
  "fastapi/fastapi": {
   "archived": false,
-  "last_commit": "2026-10-08T12:25:54Z",
-  "stars": 103051,
+  "last_commit": "2026-10-19T09:46:01Z",
+  "stars": 103244,
   "url": "https://github.com/fastapi/fastapi",
-  "version": "0.143.0",
-  "version_date": "2026-10-08T12:29:46.540767Z"
+  "version": "0.147.0",
+  "version_date": "2026-10-19T09:48:55.347366Z"
  },
  "fate0/aiochrome": {
   "archived": false,
@@ -2090,7 +2090,7 @@
  "graphql-python/graphene": {
   "archived": false,
   "last_commit": "2024-11-09T20:43:17Z",
-  "stars": 8237,
+  "stars": 8238,
   "url": "https://github.com/graphql-python/graphene",
   "version": "3.4.3",
   "version_date": "2024-11-09T20:44:25.757589Z"
@@ -2106,7 +2106,7 @@
  "hackergadgets/aiov2_ctl": {
   "archived": false,
   "last_commit": "2026-03-03T20:08:12Z",
-  "stars": 127,
+  "stars": 128,
   "url": "https://github.com/hackergadgets/aiov2_ctl",
   "version": null,
   "version_date": null
@@ -2121,11 +2121,11 @@
  },
  "hampsterx/async-kinesis": {
   "archived": false,
-  "last_commit": "2026-05-06T22:35:52Z",
+  "last_commit": "2026-10-19T00:42:46Z",
   "stars": 24,
   "url": "https://github.com/hampsterx/async-kinesis",
-  "version": "2.5.6",
-  "version_date": "2026-05-06T22:40:00.003951Z"
+  "version": "3.0.1",
+  "version_date": "2026-10-19T00:50:11.213268Z"
  },
  "harshitgavita-07/Aios": {
   "archived": false,
@@ -2177,7 +2177,7 @@
  },
  "home-assistant-libs/aioecowitt": {
   "archived": false,
-  "last_commit": "2026-10-11T13:28:58Z",
+  "last_commit": "2026-10-15T19:05:43Z",
   "stars": 23,
   "url": "https://github.com/home-assistant-libs/aioecowitt",
   "version": "2026.6.0",
@@ -2185,7 +2185,7 @@
  },
  "home-assistant-libs/aiohue": {
   "archived": false,
-  "last_commit": "2026-10-05T17:12:59Z",
+  "last_commit": "2026-10-19T09:28:48Z",
   "stars": 75,
   "url": "https://github.com/home-assistant-libs/aiohue",
   "version": "4.9.0",
@@ -2193,15 +2193,15 @@
  },
  "home-assistant-libs/aioshelly": {
   "archived": false,
-  "last_commit": "2026-10-12T09:08:31Z",
+  "last_commit": "2026-10-19T10:46:18Z",
   "stars": 83,
   "url": "https://github.com/home-assistant-libs/aioshelly",
-  "version": "13.34.1",
-  "version_date": "2026-09-30T21:08:19.115467Z"
+  "version": "13.35.0",
+  "version_date": "2026-10-15T16:42:58.709737Z"
  },
  "home-assistant-libs/aiowebostv": {
   "archived": false,
-  "last_commit": "2026-10-05T08:42:45Z",
+  "last_commit": "2026-10-19T08:31:09Z",
   "stars": 56,
   "url": "https://github.com/home-assistant-libs/aiowebostv",
   "version": "0.10.0",
@@ -2225,8 +2225,8 @@
  },
  "howie6879/ruia": {
   "archived": false,
-  "last_commit": "2026-10-08T14:29:19Z",
-  "stars": 1737,
+  "last_commit": "2026-10-16T04:19:23Z",
+  "stars": 1739,
   "url": "https://github.com/howie6879/ruia",
   "version": "0.8.5",
   "version_date": "2022-09-06T08:54:59.059411Z"
@@ -2242,7 +2242,7 @@
  "hussein-awala/async-batcher": {
   "archived": false,
   "last_commit": "2025-02-17T21:41:35Z",
-  "stars": 38,
+  "stars": 39,
   "url": "https://github.com/hussein-awala/async-batcher",
   "version": "0.2.2",
   "version_date": "2025-02-17T21:45:34.289598Z"
@@ -2290,7 +2290,7 @@
  "imbolc/aiohttp-login": {
   "archived": true,
   "last_commit": "2018-02-23T15:24:55Z",
-  "stars": 51,
+  "stars": 50,
   "url": "https://github.com/imbolc/aiohttp-login",
   "version": "1.4.0",
   "version_date": "2018-02-23T15:32:53.966137Z"
@@ -2321,8 +2321,8 @@
  },
  "iroco-co/aioimaplib": {
   "archived": false,
-  "last_commit": "2026-09-24T20:22:44Z",
-  "stars": 170,
+  "last_commit": "2026-10-13T05:15:22Z",
+  "stars": 171,
   "url": "https://github.com/iroco-co/aioimaplib",
   "version": null,
   "version_date": null
@@ -2458,7 +2458,7 @@
  "kotope/aio_energy_management": {
   "archived": false,
   "last_commit": "2026-09-27T14:37:50Z",
-  "stars": 75,
+  "stars": 76,
   "url": "https://github.com/kotope/aio_energy_management",
   "version": "1.2.1",
   "version_date": "2026-09-29T06:35:38Z"
@@ -2498,7 +2498,7 @@
  "kyuupichan/aiorpcX": {
   "archived": false,
   "last_commit": "2026-02-19T13:40:39Z",
-  "stars": 30,
+  "stars": 29,
   "url": "https://github.com/kyuupichan/aiorpcX",
   "version": "0.25.0",
   "version_date": "2025-05-08T00:57:02.090931Z"
@@ -2529,11 +2529,11 @@
  },
  "lepture/authlib": {
   "archived": false,
-  "last_commit": "2026-10-10T09:48:59Z",
-  "stars": 5431,
+  "last_commit": "2026-10-19T10:20:27Z",
+  "stars": 5436,
   "url": "https://github.com/authlib/authlib",
-  "version": "1.8.0",
-  "version_date": "2026-08-30T12:12:34.833435Z"
+  "version": "1.9.1",
+  "version_date": "2026-10-14T14:17:52.307110Z"
  },
  "leriomaggio/async-ipython-magic": {
   "archived": false,
@@ -2561,11 +2561,11 @@
  },
  "litestar-org/litestar": {
   "archived": false,
-  "last_commit": "2026-10-06T08:59:32Z",
-  "stars": 8513,
+  "last_commit": "2026-10-19T05:58:57Z",
+  "stars": 8523,
   "url": "https://github.com/litestar-org/litestar",
-  "version": "2.24.0",
-  "version_date": "2026-06-11T11:27:00.519124Z"
+  "version": "2.25.0",
+  "version_date": "2026-10-18T19:13:42.048810Z"
  },
  "lixi5338619/asyncpy": {
   "archived": false,
@@ -2618,7 +2618,7 @@
  "lumina37/aiotieba": {
   "archived": false,
   "last_commit": "2026-10-11T02:41:45Z",
-  "stars": 700,
+  "stars": 704,
   "url": "https://github.com/lumina37/aiotieba",
   "version": "4.8.1",
   "version_date": "2026-10-11T02:47:22.921593Z"
@@ -2626,7 +2626,7 @@
  "lundberg/respx": {
   "archived": false,
   "last_commit": "2026-04-23T14:12:07Z",
-  "stars": 839,
+  "stars": 841,
   "url": "https://github.com/lundberg/respx",
   "version": "0.23.1",
   "version_date": "2026-04-08T14:37:16.008390Z"
@@ -2673,8 +2673,8 @@
  },
  "maxfischer2781/asyncstdlib": {
   "archived": false,
-  "last_commit": "2026-10-04T17:08:45Z",
-  "stars": 382,
+  "last_commit": "2026-10-18T17:06:08Z",
+  "stars": 381,
   "url": "https://github.com/maxfischer2781/asyncstdlib",
   "version": "3.14.0",
   "version_date": "2026-03-20T21:06:46.025793Z"
@@ -2729,11 +2729,11 @@
  },
  "michaelarnauts/aiocomfoconnect": {
   "archived": false,
-  "last_commit": "2026-10-10T20:48:06Z",
-  "stars": 108,
+  "last_commit": "2026-10-19T11:37:06Z",
+  "stars": 109,
   "url": "https://github.com/michaelarnauts/aiocomfoconnect",
-  "version": "0.3.0",
-  "version_date": "2026-10-10T20:48:45.720371Z"
+  "version": "0.4.4",
+  "version_date": "2026-10-18T15:33:34.749761Z"
  },
  "michalc/aiodnsresolver": {
   "archived": false,
@@ -2786,7 +2786,7 @@
  "miguelgrinberg/python-socketio": {
   "archived": false,
   "last_commit": "2026-09-14T22:44:56Z",
-  "stars": 4370,
+  "stars": 4373,
   "url": "https://github.com/miguelgrinberg/python-socketio",
   "version": "5.17.0",
   "version_date": "2026-09-14T22:51:02.968150Z"
@@ -2826,7 +2826,7 @@
  "mirumee/ariadne": {
   "archived": false,
   "last_commit": "2026-10-07T10:42:50Z",
-  "stars": 2344,
+  "stars": 2345,
   "url": "https://github.com/mirumee/ariadne",
   "version": "1.1.1",
   "version_date": "2026-10-07T11:59:51.497907Z"
@@ -2841,24 +2841,24 @@
  },
  "mjpieters/aiolimiter": {
   "archived": false,
-  "last_commit": "2026-10-12T08:04:49Z",
-  "stars": 787,
+  "last_commit": "2026-10-19T09:02:32Z",
+  "stars": 789,
   "url": "https://github.com/mjpieters/aiolimiter",
   "version": "1.3.0",
   "version_date": "2026-09-07T14:40:27.876736Z"
  },
  "mongodb/mongo-python-driver": {
   "archived": false,
-  "last_commit": "2026-10-10T01:19:14Z",
-  "stars": 4357,
+  "last_commit": "2026-10-16T20:38:09Z",
+  "stars": 4360,
   "url": "https://github.com/mongodb/mongo-python-driver",
-  "version": "4.18.3",
-  "version_date": "2026-10-08T19:44:08.343726Z"
+  "version": "4.19.0",
+  "version_date": "2026-10-14T19:48:19.629715Z"
  },
  "mongodb/motor": {
   "archived": false,
-  "last_commit": "2026-10-06T01:13:09Z",
-  "stars": 2526,
+  "last_commit": "2026-10-16T19:59:46Z",
+  "stars": 2524,
   "url": "https://github.com/mongodb/motor",
   "version": "3.7.1",
   "version_date": "2025-05-14T18:56:33.653510Z"
@@ -2882,7 +2882,7 @@
  "mosquito/aio-pika": {
   "archived": false,
   "last_commit": "2026-10-10T10:32:38Z",
-  "stars": 1481,
+  "stars": 1480,
   "url": "https://github.com/mosquito/aio-pika",
   "version": "10.1.1",
   "version_date": "2026-10-10T10:33:37.631250Z"
@@ -2938,7 +2938,7 @@
  "mr-fatalyst/oxyde": {
   "archived": false,
   "last_commit": "2026-09-29T18:14:45Z",
-  "stars": 764,
+  "stars": 766,
   "url": "https://github.com/mr-fatalyst/oxyde",
   "version": "0.8.0",
   "version_date": "2026-08-26T19:51:19.389626Z"
@@ -2946,7 +2946,7 @@
  "ms264556/aioruckus": {
   "archived": false,
   "last_commit": "2026-09-14T23:59:56Z",
-  "stars": 20,
+  "stars": 22,
   "url": "https://github.com/ms264556/aioruckus",
   "version": "0.49",
   "version_date": "2026-09-15T00:08:51.423455Z"
@@ -2970,15 +2970,15 @@
  "nackjicholson/aiosql": {
   "archived": false,
   "last_commit": "2026-07-10T13:43:28Z",
-  "stars": 1412,
+  "stars": 1413,
   "url": "https://github.com/nackjicholson/aiosql",
   "version": "15.0",
   "version_date": "2026-01-04T19:14:41.239974Z"
  },
  "nats-io/nats.py": {
   "archived": false,
-  "last_commit": "2026-10-06T10:44:45Z",
-  "stars": 1261,
+  "last_commit": "2026-10-15T08:41:00Z",
+  "stars": 1264,
   "url": "https://github.com/nats-io/nats.py",
   "version": "2.16.0",
   "version_date": "2026-09-16T07:47:21.843998Z"
@@ -3041,8 +3041,8 @@
  },
  "nonebot/nonebot2": {
   "archived": false,
-  "last_commit": "2026-10-12T10:57:05Z",
-  "stars": 7739,
+  "last_commit": "2026-10-16T08:53:29Z",
+  "stars": 7753,
   "url": "https://github.com/nonebot/nonebot2",
   "version": "2.5.0",
   "version_date": "2026-04-01T03:33:47.728858Z"
@@ -3113,15 +3113,15 @@
  },
  "open-telemetry/opentelemetry-python": {
   "archived": false,
-  "last_commit": "2026-10-09T15:25:38Z",
-  "stars": 2665,
+  "last_commit": "2026-10-16T17:26:11Z",
+  "stars": 2678,
   "url": "https://github.com/open-telemetry/opentelemetry-python",
   "version": "1.45.1",
   "version_date": "2026-10-06T17:32:58.133911Z"
  },
  "ormar-orm/ormar": {
   "archived": false,
-  "last_commit": "2026-10-12T11:41:55Z",
+  "last_commit": "2026-10-19T11:34:54Z",
   "stars": 1801,
   "url": "https://github.com/ormar-orm/ormar",
   "version": "0.26.0",
@@ -3130,7 +3130,7 @@
  "pallets/quart": {
   "archived": false,
   "last_commit": "2026-09-12T09:07:19Z",
-  "stars": 3671,
+  "stars": 3677,
   "url": "https://github.com/pallets/quart",
   "version": "0.23.1",
   "version_date": "2026-08-29T15:58:35.767708Z"
@@ -3145,11 +3145,11 @@
  },
  "patman15/aiobmsble": {
   "archived": false,
-  "last_commit": "2026-10-06T19:32:55Z",
-  "stars": 31,
+  "last_commit": "2026-10-12T18:32:33Z",
+  "stars": 32,
   "url": "https://github.com/patman15/aiobmsble",
-  "version": "0.29.0",
-  "version_date": "2026-09-14T15:11:59.947228Z"
+  "version": "0.30.0",
+  "version_date": "2026-10-12T18:59:29.482017Z"
  },
  "paulran/aioquant": {
   "archived": false,
@@ -3210,7 +3210,7 @@
  "pgjones/hypercorn": {
   "archived": false,
   "last_commit": "2025-11-08T13:49:10Z",
-  "stars": 1618,
+  "stars": 1619,
   "url": "https://github.com/pgjones/hypercorn",
   "version": "0.18.0",
   "version_date": "2025-11-08T13:54:04.780563Z"
@@ -3250,7 +3250,7 @@
  "pnuckowski/aioresponses": {
   "archived": false,
   "last_commit": "2026-04-13T22:24:08Z",
-  "stars": 555,
+  "stars": 556,
   "url": "https://github.com/pnuckowski/aioresponses",
   "version": "0.7.9",
   "version_date": "2026-06-23T21:23:23.828158Z"
@@ -3265,8 +3265,8 @@
  },
  "praw-dev/asyncpraw": {
   "archived": false,
-  "last_commit": "2026-10-10T00:23:28Z",
-  "stars": 154,
+  "last_commit": "2026-10-16T23:47:03Z",
+  "stars": 155,
   "url": "https://github.com/praw-dev/asyncpraw",
   "version": "8.0.3",
   "version_date": "2026-08-12T16:56:59.922171Z"
@@ -3298,7 +3298,7 @@
  "pyrogram/pyrogram": {
   "archived": true,
   "last_commit": "2024-12-23T20:20:42Z",
-  "stars": 4620,
+  "stars": 4619,
   "url": "https://github.com/pyrogram/pyrogram",
   "version": "2.0.106",
   "version_date": "2023-04-30T18:24:45.506571Z"
@@ -3313,8 +3313,8 @@
  },
  "pytest-dev/pytest-asyncio": {
   "archived": false,
-  "last_commit": "2026-10-07T19:39:50Z",
-  "stars": 1664,
+  "last_commit": "2026-10-16T18:56:27Z",
+  "stars": 1665,
   "url": "https://github.com/pytest-dev/pytest-asyncio",
   "version": "1.4.0",
   "version_date": "2026-05-26T09:56:04.083461Z"
@@ -3322,7 +3322,7 @@
  "python-arq/arq": {
   "archived": false,
   "last_commit": "2026-04-16T10:39:58Z",
-  "stars": 3016,
+  "stars": 3018,
   "url": "https://github.com/python-arq/arq",
   "version": "0.28.0",
   "version_date": "2026-04-16T10:50:23.893637Z"
@@ -3345,8 +3345,8 @@
  },
  "python-telegram-bot/python-telegram-bot": {
   "archived": false,
-  "last_commit": "2026-10-11T01:49:05Z",
-  "stars": 29520,
+  "last_commit": "2026-10-19T01:17:12Z",
+  "stars": 29525,
   "url": "https://github.com/python-telegram-bot/python-telegram-bot",
   "version": "22.8",
   "version_date": "2026-06-12T08:10:29.100805Z"
@@ -3361,8 +3361,8 @@
  },
  "python-trio/trio": {
   "archived": false,
-  "last_commit": "2026-10-05T09:37:01Z",
-  "stars": 7345,
+  "last_commit": "2026-10-13T02:31:43Z",
+  "stars": 7350,
   "url": "https://github.com/python-trio/trio",
   "version": "0.34.0",
   "version_date": "2026-08-11T00:33:42.198470Z"
@@ -3377,8 +3377,8 @@
  },
  "python-websockets/websockets": {
   "archived": false,
-  "last_commit": "2026-10-10T12:09:36Z",
-  "stars": 5735,
+  "last_commit": "2026-10-19T11:42:03Z",
+  "stars": 5733,
   "url": "https://github.com/python-websockets/websockets",
   "version": "17.2",
   "version_date": "2026-10-03T14:56:53.500209Z"
@@ -3426,7 +3426,7 @@
  "rbw/aiosnow": {
   "archived": false,
   "last_commit": "2021-01-24T15:38:09Z",
-  "stars": 73,
+  "stars": 74,
   "url": "https://github.com/rbw/aiosnow",
   "version": "0.6.0",
   "version_date": "2020-11-21T22:11:58.361969Z"
@@ -3441,8 +3441,8 @@
  },
  "redis/redis-py": {
   "archived": false,
-  "last_commit": "2026-10-12T11:59:47Z",
-  "stars": 13647,
+  "last_commit": "2026-10-16T16:52:51Z",
+  "stars": 13652,
   "url": "https://github.com/redis/redis-py",
   "version": "8.1.0",
   "version_date": "2026-07-30T08:51:00.269040Z"
@@ -3481,8 +3481,8 @@
  },
  "ronf/asyncssh": {
   "archived": false,
-  "last_commit": "2026-10-10T04:20:37Z",
-  "stars": 1760,
+  "last_commit": "2026-10-18T02:46:08Z",
+  "stars": 1761,
   "url": "https://github.com/ronf/asyncssh",
   "version": "2.24.1",
   "version_date": "2026-10-04T02:48:24.913289Z"
@@ -3562,7 +3562,7 @@
  "samuelcolvin/watchfiles": {
   "archived": false,
   "last_commit": "2026-09-21T10:32:06Z",
-  "stars": 2549,
+  "stars": 2550,
   "url": "https://github.com/samuelcolvin/watchfiles",
   "version": "1.3.0",
   "version_date": "2026-09-21T09:08:55.664410Z"
@@ -3570,7 +3570,7 @@
  "sanic-org/sanic": {
   "archived": false,
   "last_commit": "2026-05-31T19:29:09Z",
-  "stars": 18639,
+  "stars": 18640,
   "url": "https://github.com/sanic-org/sanic",
   "version": "25.12.1",
   "version_date": "2026-05-31T19:45:46.988713Z"
@@ -3658,7 +3658,7 @@
  "slaily/aiosqlitepool": {
   "archived": false,
   "last_commit": "2025-07-21T14:07:13Z",
-  "stars": 431,
+  "stars": 432,
   "url": "https://github.com/slaily/aiosqlitepool",
   "version": "1.0.0",
   "version_date": "2025-07-11T10:15:43.029594Z"
@@ -3673,7 +3673,7 @@
  },
  "smagafurov/fastapi-jsonrpc": {
   "archived": false,
-  "last_commit": "2026-10-05T13:06:39Z",
+  "last_commit": "2026-10-16T14:26:24Z",
   "stars": 422,
   "url": "https://github.com/smagafurov/fastapi-jsonrpc",
   "version": "4.0.1",
@@ -3689,15 +3689,15 @@
  },
  "somespecialone/aiosteampy": {
   "archived": false,
-  "last_commit": "2026-09-10T19:00:05Z",
-  "stars": 107,
+  "last_commit": "2026-10-12T20:19:37Z",
+  "stars": 108,
   "url": "https://github.com/somespecialone/aiosteampy",
   "version": "0.7.21",
   "version_date": "2026-03-12T14:01:23.594327Z"
  },
  "sonic182/aiosonic": {
   "archived": false,
-  "last_commit": "2026-10-12T10:32:05Z",
+  "last_commit": "2026-10-18T10:33:37Z",
   "stars": 169,
   "url": "https://github.com/sonic182/aiosonic",
   "version": "1.3.2",
@@ -3721,19 +3721,19 @@
  },
  "strawberry-graphql/strawberry": {
   "archived": false,
-  "last_commit": "2026-10-12T09:21:33Z",
-  "stars": 4721,
+  "last_commit": "2026-10-17T09:40:18Z",
+  "stars": 4724,
   "url": "https://github.com/strawberry-graphql/strawberry",
-  "version": "0.334.2",
-  "version_date": "2026-10-12T09:21:32.350304Z"
+  "version": "0.336.0",
+  "version_date": "2026-10-17T09:40:17.226202Z"
  },
  "subzeroid/aiograpi": {
   "archived": false,
-  "last_commit": "2026-10-12T09:47:59Z",
-  "stars": 469,
+  "last_commit": "2026-10-19T00:23:51Z",
+  "stars": 479,
   "url": "https://github.com/subzeroid/aiograpi",
-  "version": "2.0.18",
-  "version_date": "2026-10-12T09:55:54.085018Z"
+  "version": "2.0.22",
+  "version_date": "2026-10-18T09:08:51.433982Z"
  },
  "synodriver/aioaria2": {
   "archived": false,
@@ -3762,7 +3762,7 @@
  "tartiflette/tartiflette": {
   "archived": false,
   "last_commit": "2022-01-20T14:55:31Z",
-  "stars": 851,
+  "stars": 850,
   "url": "https://github.com/tartiflette/tartiflette",
   "version": "1.4.1",
   "version_date": "2021-11-15T11:20:19.440236Z"
@@ -3770,7 +3770,7 @@
  "taskiq-python/taskiq": {
   "archived": false,
   "last_commit": "2026-10-08T11:35:51Z",
-  "stars": 2355,
+  "stars": 2359,
   "url": "https://github.com/taskiq-python/taskiq",
   "version": "0.13.0",
   "version_date": "2026-09-26T14:45:16.997830Z"
@@ -3817,15 +3817,15 @@
  },
  "tobymao/saq": {
   "archived": false,
-  "last_commit": "2026-08-14T15:26:26Z",
-  "stars": 890,
+  "last_commit": "2026-10-14T15:41:34Z",
+  "stars": 892,
   "url": "https://github.com/tobymao/saq",
   "version": "0.26.4",
   "version_date": "2026-05-21T15:00:55.144414Z"
  },
  "tomplus/kubernetes_asyncio": {
   "archived": false,
-  "last_commit": "2026-10-09T18:44:27Z",
+  "last_commit": "2026-10-17T08:15:18Z",
   "stars": 438,
   "url": "https://github.com/tomplus/kubernetes_asyncio",
   "version": "36.1.0",
@@ -3833,19 +3833,19 @@
  },
  "tornadoweb/tornado": {
   "archived": false,
-  "last_commit": "2026-10-10T21:27:45Z",
-  "stars": 22165,
+  "last_commit": "2026-10-16T15:30:43Z",
+  "stars": 22166,
   "url": "https://github.com/tornadoweb/tornado",
   "version": "6.5.10",
   "version_date": "2026-09-15T13:47:48.730968Z"
  },
  "tortoise/tortoise-orm": {
   "archived": false,
-  "last_commit": "2026-10-11T14:57:26Z",
-  "stars": 5632,
+  "last_commit": "2026-10-17T02:36:56Z",
+  "stars": 5638,
   "url": "https://github.com/tortoise/tortoise-orm",
-  "version": "1.1.8",
-  "version_date": "2026-08-10T10:46:46.452360Z"
+  "version": "1.1.9",
+  "version_date": "2026-10-14T05:49:04.459294Z"
  },
  "tudborg/aiochannel": {
   "archived": false,
@@ -3858,7 +3858,7 @@
  "ultrafunkamsterdam/aionion": {
   "archived": false,
   "last_commit": "2023-03-04T14:46:55Z",
-  "stars": 85,
+  "stars": 84,
   "url": "https://github.com/ultrafunkamsterdam/aionion",
   "version": null,
   "version_date": null
@@ -3889,8 +3889,8 @@
  },
  "vitalik/django-ninja": {
   "archived": false,
-  "last_commit": "2026-10-05T09:53:28Z",
-  "stars": 9208,
+  "last_commit": "2026-10-13T12:52:56Z",
+  "stars": 9214,
   "url": "https://github.com/vitalik/django-ninja",
   "version": "1.7.1",
   "version_date": "2026-09-19T05:35:56.437430Z"
@@ -3913,7 +3913,7 @@
  },
  "vovchic17/aiosend": {
   "archived": false,
-  "last_commit": "2026-09-18T21:46:39Z",
+  "last_commit": "2026-10-13T14:14:16Z",
   "stars": 59,
   "url": "https://github.com/vovchic17/aiosend",
   "version": "3.0.8.post1",
@@ -3938,7 +3938,7 @@
  "vxgmichel/aiostream": {
   "archived": false,
   "last_commit": "2026-10-09T11:47:05Z",
-  "stars": 921,
+  "stars": 919,
   "url": "https://github.com/vxgmichel/aiostream",
   "version": "0.8.1",
   "version_date": "2026-09-16T10:41:54.253999Z"
@@ -3953,7 +3953,7 @@
  },
  "wemake-services/asyncio-redis-rate-limit": {
   "archived": false,
-  "last_commit": "2026-10-09T06:07:57Z",
+  "last_commit": "2026-10-19T05:59:44Z",
   "stars": 54,
   "url": "https://github.com/wemake-services/asyncio-redis-rate-limit",
   "version": "1.1.0",
@@ -3977,7 +3977,7 @@
  },
  "x42005e1f/aiologic": {
   "archived": false,
-  "last_commit": "2026-10-12T05:39:28Z",
+  "last_commit": "2026-10-17T16:30:04Z",
   "stars": 93,
   "url": "https://github.com/x42005e1f/aiologic",
   "version": "0.17.1",
@@ -3994,7 +3994,7 @@
  "zeromq/pyzmq": {
   "archived": false,
   "last_commit": "2026-10-09T20:08:23Z",
-  "stars": 4180,
+  "stars": 4183,
   "url": "https://github.com/zeromq/pyzmq",
   "version": "27.2.0",
   "version_date": "2026-08-20T19:08:21.190492Z"
@@ -4009,11 +4009,11 @@
  },
  "zhulik/aiotractive": {
   "archived": false,
-  "last_commit": "2026-10-10T13:15:34Z",
+  "last_commit": "2026-10-17T10:59:22Z",
   "stars": 38,
   "url": "https://github.com/zhulik/aiotractive",
-  "version": "1.1.2",
-  "version_date": "2026-10-09T08:13:44.145672Z"
+  "version": "1.3.0",
+  "version_date": "2026-10-16T14:17:32.660824Z"
  },
  "zzzsochi/aiohttp_traversal": {
   "archived": false,
